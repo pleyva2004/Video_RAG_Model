@@ -402,3 +402,10 @@ FodyWeavers.xsd
 .venv
 
 env.
+
+.LLM-Engineers-Handbook/
+
+.DS_Store
+
+.idea
+
