@@ -1,0 +1,2392 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.599 --> 00:00:03.950 align:start position:0%
+ 
+in<00:00:00.760><c> this</c><00:00:00.960><c> Example</c><00:00:01.439><c> The</c><00:00:01.960><c> Notebook</c><00:00:02.960><c> uh</c><00:00:03.120><c> is</c><00:00:03.480><c> quite</c>
+
+00:00:03.950 --> 00:00:03.960 align:start position:0%
+in this Example The Notebook uh is quite
+ 
+
+00:00:03.960 --> 00:00:07.550 align:start position:0%
+in this Example The Notebook uh is quite
+uh<00:00:04.960><c> instructive</c><00:00:05.799><c> because</c><00:00:06.600><c> it</c><00:00:06.879><c> refers</c><00:00:07.240><c> to</c><00:00:07.399><c> a</c>
+
+00:00:07.550 --> 00:00:07.560 align:start position:0%
+uh instructive because it refers to a
+ 
+
+00:00:07.560 --> 00:00:10.709 align:start position:0%
+uh instructive because it refers to a
+small<00:00:08.000><c> data</c><00:00:08.240><c> set</c><00:00:09.240><c> um</c><00:00:09.480><c> and</c><00:00:09.599><c> I</c><00:00:09.719><c> think</c><00:00:10.160><c> uh</c><00:00:10.360><c> working</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+small data set um and I think uh working
+ 
+
+00:00:10.719 --> 00:00:12.870 align:start position:0%
+small data set um and I think uh working
+with<00:00:10.880><c> small</c><00:00:11.200><c> data</c><00:00:11.480><c> sets</c><00:00:11.679><c> are</c><00:00:12.000><c> actually</c><00:00:12.320><c> handy</c>
+
+00:00:12.870 --> 00:00:12.880 align:start position:0%
+with small data sets are actually handy
+ 
+
+00:00:12.880 --> 00:00:15.190 align:start position:0%
+with small data sets are actually handy
+in<00:00:13.000><c> the</c><00:00:13.160><c> beginning</c><00:00:13.639><c> when</c><00:00:13.880><c> you</c><00:00:14.360><c> are</c><00:00:14.519><c> trying</c><00:00:14.759><c> to</c>
+
+00:00:15.190 --> 00:00:15.200 align:start position:0%
+in the beginning when you are trying to
+ 
+
+00:00:15.200 --> 00:00:17.710 align:start position:0%
+in the beginning when you are trying to
+understand<00:00:15.400><c> what</c><00:00:15.519><c> is</c><00:00:15.679><c> going</c><00:00:15.920><c> on</c><00:00:16.680><c> here</c><00:00:16.960><c> we</c><00:00:17.160><c> have</c>
+
+00:00:17.710 --> 00:00:17.720 align:start position:0%
+understand what is going on here we have
+ 
+
+00:00:17.720 --> 00:00:21.310 align:start position:0%
+understand what is going on here we have
+the<00:00:18.000><c> classic</c><00:00:18.760><c> case</c><00:00:19.119><c> of</c><00:00:19.600><c> dogs</c><00:00:20.000><c> versus</c><00:00:20.359><c> cats</c><00:00:21.199><c> we</c>
+
+00:00:21.310 --> 00:00:21.320 align:start position:0%
+the classic case of dogs versus cats we
+ 
+
+00:00:21.320 --> 00:00:24.029 align:start position:0%
+the classic case of dogs versus cats we
+have<00:00:21.519><c> also</c><00:00:21.800><c> the</c><00:00:21.960><c> simplest</c><00:00:22.439><c> possible</c><00:00:22.960><c> task</c><00:00:23.800><c> in</c>
+
+00:00:24.029 --> 00:00:24.039 align:start position:0%
+have also the simplest possible task in
+ 
+
+00:00:24.039 --> 00:00:26.390 align:start position:0%
+have also the simplest possible task in
+machine<00:00:24.359><c> learning</c><00:00:24.880><c> which</c><00:00:25.039><c> is</c><00:00:25.519><c> classification</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+machine learning which is classification
+ 
+
+00:00:26.400 --> 00:00:29.269 align:start position:0%
+machine learning which is classification
+image<00:00:26.760><c> classification</c><00:00:27.519><c> in</c><00:00:27.679><c> this</c><00:00:27.920><c> case</c><00:00:28.880><c> and</c><00:00:29.119><c> we</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+image classification in this case and we
+ 
+
+00:00:29.279 --> 00:00:30.870 align:start position:0%
+image classification in this case and we
+are<00:00:29.400><c> going</c><00:00:29.519><c> to</c><00:00:29.599><c> be</c><00:00:29.679><c> using</c><00:00:30.160><c> convolutional</c>
+
+00:00:30.870 --> 00:00:30.880 align:start position:0%
+are going to be using convolutional
+ 
+
+00:00:30.880 --> 00:00:34.110 align:start position:0%
+are going to be using convolutional
+layers<00:00:31.759><c> in</c><00:00:31.880><c> order</c><00:00:32.160><c> to</c><00:00:32.399><c> detect</c><00:00:33.239><c> no</c><00:00:33.600><c> no</c><00:00:33.719><c> sorry</c><00:00:33.960><c> to</c>
+
+00:00:34.110 --> 00:00:34.120 align:start position:0%
+layers in order to detect no no sorry to
+ 
+
+00:00:34.120 --> 00:00:35.389 align:start position:0%
+layers in order to detect no no sorry to
+detect<00:00:34.440><c> to</c>
+
+00:00:35.389 --> 00:00:35.399 align:start position:0%
+detect to
+ 
+
+00:00:35.399 --> 00:00:39.430 align:start position:0%
+detect to
+classify<00:00:36.399><c> uh</c><00:00:36.640><c> the</c><00:00:37.239><c> um</c><00:00:38.239><c> presence</c><00:00:38.600><c> of</c><00:00:38.800><c> a</c><00:00:39.000><c> dog</c><00:00:39.280><c> or</c>
+
+00:00:39.430 --> 00:00:39.440 align:start position:0%
+classify uh the um presence of a dog or
+ 
+
+00:00:39.440 --> 00:00:42.910 align:start position:0%
+classify uh the um presence of a dog or
+a<00:00:39.640><c> cat</c><00:00:40.640><c> on</c><00:00:40.879><c> in</c><00:00:41.079><c> in</c><00:00:41.200><c> an</c><00:00:41.440><c> image</c><00:00:42.000><c> okay</c><00:00:42.200><c> or</c><00:00:42.440><c> cats</c><00:00:42.760><c> in</c>
+
+00:00:42.910 --> 00:00:42.920 align:start position:0%
+a cat on in in an image okay or cats in
+ 
+
+00:00:42.920 --> 00:00:46.869 align:start position:0%
+a cat on in in an image okay or cats in
+this<00:00:43.120><c> case</c><00:00:43.760><c> all</c><00:00:43.920><c> right</c><00:00:44.120><c> so</c><00:00:44.719><c> um</c><00:00:45.160><c> the</c><00:00:45.480><c> uh</c><00:00:46.320><c> uh</c><00:00:46.600><c> data</c>
+
+00:00:46.869 --> 00:00:46.879 align:start position:0%
+this case all right so um the uh uh data
+ 
+
+00:00:46.879 --> 00:00:49.189 align:start position:0%
+this case all right so um the uh uh data
+set<00:00:47.079><c> is</c><00:00:47.239><c> available</c><00:00:47.640><c> in</c><00:00:47.840><c> kagle</c><00:00:48.640><c> the</c><00:00:48.760><c> original</c>
+
+00:00:49.189 --> 00:00:49.199 align:start position:0%
+set is available in kagle the original
+ 
+
+00:00:49.199 --> 00:00:52.310 align:start position:0%
+set is available in kagle the original
+data<00:00:49.480><c> set</c><00:00:50.079><c> contained</c><00:00:50.680><c> 25,000</c><00:00:51.600><c> images</c><00:00:52.039><c> but</c><00:00:52.199><c> we</c>
+
+00:00:52.310 --> 00:00:52.320 align:start position:0%
+data set contained 25,000 images but we
+ 
+
+00:00:52.320 --> 00:00:56.670 align:start position:0%
+data set contained 25,000 images but we
+have<00:00:52.559><c> cut</c><00:00:52.879><c> down</c><00:00:53.800><c> uh</c><00:00:54.039><c> to</c><00:00:54.320><c> 1,000</c><00:00:55.120><c> images</c><00:00:55.879><c> uh</c><00:00:56.039><c> per</c>
+
+00:00:56.670 --> 00:00:56.680 align:start position:0%
+have cut down uh to 1,000 images uh per
+ 
+
+00:00:56.680 --> 00:01:00.389 align:start position:0%
+have cut down uh to 1,000 images uh per
+class<00:00:57.680><c> and</c><00:00:58.239><c> uh</c><00:00:58.559><c> we</c><00:00:58.879><c> have</c><00:00:59.160><c> a</c><00:00:59.320><c> split</c><00:01:00.000><c> the</c><00:01:00.120><c> data</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+class and uh we have a split the data
+ 
+
+00:01:00.399 --> 00:01:03.750 align:start position:0%
+class and uh we have a split the data
+set<00:01:01.120><c> into</c><00:01:01.840><c> uh</c><00:01:02.079><c> train</c><00:01:02.480><c> and</c><00:01:02.800><c> validation</c><00:01:03.559><c> and</c>
+
+00:01:03.750 --> 00:01:03.760 align:start position:0%
+set into uh train and validation and
+ 
+
+00:01:03.760 --> 00:01:07.429 align:start position:0%
+set into uh train and validation and
+test<00:01:04.159><c> data</c><00:01:04.479><c> set</c><00:01:05.239><c> okay</c><00:01:05.880><c> all</c><00:01:06.080><c> right</c><00:01:06.320><c> so</c><00:01:07.119><c> we</c><00:01:07.240><c> are</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+test data set okay all right so we are
+ 
+
+00:01:07.439 --> 00:01:09.990 align:start position:0%
+test data set okay all right so we are
+going<00:01:07.680><c> to</c><00:01:08.520><c> uh</c><00:01:08.720><c> obviously</c><00:01:09.159><c> use</c><00:01:09.479><c> train</c><00:01:09.799><c> and</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+going to uh obviously use train and
+ 
+
+00:01:10.000 --> 00:01:11.990 align:start position:0%
+going to uh obviously use train and
+validation<00:01:10.640><c> to</c><00:01:10.840><c> create</c><00:01:11.159><c> if</c><00:01:11.280><c> you</c><00:01:11.400><c> like</c><00:01:11.600><c> our</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+validation to create if you like our
+ 
+
+00:01:12.000 --> 00:01:14.350 align:start position:0%
+validation to create if you like our
+model<00:01:13.000><c> and</c><00:01:13.159><c> of</c><00:01:13.320><c> course</c><00:01:13.520><c> we</c><00:01:13.640><c> are</c><00:01:13.799><c> going</c><00:01:14.000><c> to</c>
+
+00:01:14.350 --> 00:01:14.360 align:start position:0%
+model and of course we are going to
+ 
+
+00:01:14.360 --> 00:01:18.070 align:start position:0%
+model and of course we are going to
+exercise<00:01:14.920><c> some</c><00:01:15.200><c> kind</c><00:01:15.360><c> of</c><00:01:16.000><c> prediction</c><00:01:17.000><c> API</c><00:01:17.920><c> uh</c>
+
+00:01:18.070 --> 00:01:18.080 align:start position:0%
+exercise some kind of prediction API uh
+ 
+
+00:01:18.080 --> 00:01:20.510 align:start position:0%
+exercise some kind of prediction API uh
+using<00:01:18.400><c> our</c><00:01:18.640><c> test</c><00:01:18.920><c> data</c><00:01:19.240><c> set</c><00:01:19.560><c> after</c><00:01:19.840><c> a</c><00:01:19.960><c> model</c><00:01:20.320><c> is</c>
+
+00:01:20.510 --> 00:01:20.520 align:start position:0%
+using our test data set after a model is
+ 
+
+00:01:20.520 --> 00:01:22.749 align:start position:0%
+using our test data set after a model is
+created<00:01:21.479><c> so</c><00:01:21.720><c> the</c><00:01:21.920><c> architecture</c><00:01:22.479><c> we're</c><00:01:22.680><c> going</c>
+
+00:01:22.749 --> 00:01:22.759 align:start position:0%
+created so the architecture we're going
+ 
+
+00:01:22.759 --> 00:01:25.670 align:start position:0%
+created so the architecture we're going
+to<00:01:22.880><c> be</c><00:01:23.040><c> using</c><00:01:23.439><c> here</c><00:01:23.799><c> is</c><00:01:24.799><c> an</c><00:01:25.000><c> architecture</c><00:01:25.520><c> that</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+to be using here is an architecture that
+ 
+
+00:01:25.680 --> 00:01:27.910 align:start position:0%
+to be using here is an architecture that
+we<00:01:25.840><c> have</c><00:01:26.079><c> kind</c><00:01:26.240><c> of</c><00:01:26.720><c> developed</c><00:01:27.360><c> specifically</c>
+
+00:01:27.910 --> 00:01:27.920 align:start position:0%
+we have kind of developed specifically
+ 
+
+00:01:27.920 --> 00:01:30.030 align:start position:0%
+we have kind of developed specifically
+for<00:01:28.200><c> this</c><00:01:28.400><c> example</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+for this example
+ 
+
+00:01:30.040 --> 00:01:33.910 align:start position:0%
+for this example
+is<00:01:30.479><c> uh</c><00:01:30.680><c> consist</c><00:01:31.360><c> evidently</c><00:01:32.360><c> of</c><00:01:32.920><c> convolutional</c>
+
+00:01:33.910 --> 00:01:33.920 align:start position:0%
+is uh consist evidently of convolutional
+ 
+
+00:01:33.920 --> 00:01:36.069 align:start position:0%
+is uh consist evidently of convolutional
+and<00:01:34.200><c> and</c><00:01:34.399><c> interleaf</c><00:01:35.040><c> with</c><00:01:35.200><c> Max</c><00:01:35.479><c> pulling</c>
+
+00:01:36.069 --> 00:01:36.079 align:start position:0%
+and and interleaf with Max pulling
+ 
+
+00:01:36.079 --> 00:01:39.149 align:start position:0%
+and and interleaf with Max pulling
+layers<00:01:37.079><c> and</c><00:01:37.399><c> uh</c><00:01:37.520><c> probably</c><00:01:37.880><c> you</c><00:01:38.040><c> recognize</c><00:01:38.960><c> uh</c>
+
+00:01:39.149 --> 00:01:39.159 align:start position:0%
+layers and uh probably you recognize uh
+ 
+
+00:01:39.159 --> 00:01:42.230 align:start position:0%
+layers and uh probably you recognize uh
+the<00:01:39.360><c> API</c><00:01:39.920><c> here</c><00:01:40.159><c> in</c><00:01:40.320><c> this</c><00:01:40.759><c> case</c><00:01:41.079><c> is</c><00:01:41.280><c> a</c><00:01:41.840><c> kind</c><00:01:42.000><c> of</c><00:01:42.079><c> a</c>
+
+00:01:42.230 --> 00:01:42.240 align:start position:0%
+the API here in this case is a kind of a
+ 
+
+00:01:42.240 --> 00:01:45.630 align:start position:0%
+the API here in this case is a kind of a
+caras<00:01:43.119><c> API</c><00:01:44.119><c> uh</c><00:01:44.360><c> similar</c><00:01:44.719><c> architectures</c><00:01:45.520><c> can</c>
+
+00:01:45.630 --> 00:01:45.640 align:start position:0%
+caras API uh similar architectures can
+ 
+
+00:01:45.640 --> 00:01:49.429 align:start position:0%
+caras API uh similar architectures can
+be<00:01:45.759><c> develop</c><00:01:46.119><c> for</c><00:01:46.759><c> py</c><00:01:47.759><c> the</c><00:01:48.079><c> um</c><00:01:48.640><c> first</c><00:01:49.000><c> layer</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+be develop for py the um first layer
+ 
+
+00:01:49.439 --> 00:01:52.149 align:start position:0%
+be develop for py the um first layer
+over<00:01:49.719><c> here</c><00:01:49.880><c> is</c><00:01:49.960><c> a</c><00:01:50.119><c> convolutional</c><00:01:50.960><c> layer</c><00:01:51.960><c> uh</c>
+
+00:01:52.149 --> 00:01:52.159 align:start position:0%
+over here is a convolutional layer uh
+ 
+
+00:01:52.159 --> 00:01:57.109 align:start position:0%
+over here is a convolutional layer uh
+the<00:01:52.759><c> um</c><00:01:53.759><c> uh</c><00:01:54.000><c> there</c><00:01:54.159><c> is</c><00:01:54.560><c> um</c><00:01:55.479><c> uh</c><00:01:55.640><c> input</c><00:01:56.039><c> images</c><00:01:56.880><c> of</c>
+
+00:01:57.109 --> 00:01:57.119 align:start position:0%
+the um uh there is um uh input images of
+ 
+
+00:01:57.119 --> 00:02:00.029 align:start position:0%
+the um uh there is um uh input images of
+150<00:01:57.719><c> by</c><00:01:57.880><c> 150</c><00:01:58.520><c> pixels</c><00:01:58.960><c> this</c><00:01:59.079><c> is</c><00:01:59.240><c> what</c><00:01:59.399><c> the</c><00:01:59.520><c> imag</c>
+
+00:02:00.029 --> 00:02:00.039 align:start position:0%
+150 by 150 pixels this is what the imag
+ 
+
+00:02:00.039 --> 00:02:03.630 align:start position:0%
+150 by 150 pixels this is what the imag
+that<00:02:00.200><c> we</c><00:02:00.320><c> have</c><00:02:01.240><c> uh</c><00:02:01.360><c> transformed</c><00:02:02.280><c> uh</c><00:02:02.479><c> now</c><00:02:02.840><c> are</c>
+
+00:02:03.630 --> 00:02:03.640 align:start position:0%
+that we have uh transformed uh now are
+ 
+
+00:02:03.640 --> 00:02:05.749 align:start position:0%
+that we have uh transformed uh now are
+and<00:02:04.159><c> each</c><00:02:04.439><c> image</c><00:02:04.680><c> is</c><00:02:04.799><c> a</c><00:02:05.000><c> naturally</c><00:02:05.399><c> colored</c>
+
+00:02:05.749 --> 00:02:05.759 align:start position:0%
+and each image is a naturally colored
+ 
+
+00:02:05.759 --> 00:02:08.869 align:start position:0%
+and each image is a naturally colored
+image<00:02:06.000><c> of</c><00:02:06.159><c> three</c><00:02:06.560><c> channels</c><00:02:07.560><c> red</c><00:02:08.160><c> green</c><00:02:08.360><c> and</c>
+
+00:02:08.869 --> 00:02:08.879 align:start position:0%
+image of three channels red green and
+ 
+
+00:02:08.879 --> 00:02:14.190 align:start position:0%
+image of three channels red green and
+blue<00:02:09.879><c> we</c><00:02:10.080><c> have</c><00:02:10.560><c> U</c><00:02:11.000><c> 3x3</c><00:02:12.120><c> kernels</c><00:02:13.120><c> and</c><00:02:13.800><c> uh</c><00:02:14.000><c> we</c>
+
+00:02:14.190 --> 00:02:14.200 align:start position:0%
+blue we have U 3x3 kernels and uh we
+ 
+
+00:02:14.200 --> 00:02:16.630 align:start position:0%
+blue we have U 3x3 kernels and uh we
+have<00:02:14.440><c> the</c><00:02:14.599><c> 32</c><00:02:15.160><c> here</c><00:02:15.400><c> indicates</c><00:02:15.959><c> the</c><00:02:16.120><c> number</c><00:02:16.360><c> of</c>
+
+00:02:16.630 --> 00:02:16.640 align:start position:0%
+have the 32 here indicates the number of
+ 
+
+00:02:16.640 --> 00:02:19.830 align:start position:0%
+have the 32 here indicates the number of
+filters<00:02:17.640><c> okay</c><00:02:17.840><c> or</c><00:02:18.120><c> convolutional</c><00:02:18.840><c> neurons</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+filters okay or convolutional neurons
+ 
+
+00:02:19.840 --> 00:02:22.150 align:start position:0%
+filters okay or convolutional neurons
+and<00:02:19.959><c> we</c><00:02:20.080><c> are</c><00:02:20.200><c> going</c><00:02:20.319><c> to</c><00:02:20.400><c> be</c><00:02:20.560><c> using</c><00:02:21.120><c> a</c><00:02:21.440><c> rectified</c>
+
+00:02:22.150 --> 00:02:22.160 align:start position:0%
+and we are going to be using a rectified
+ 
+
+00:02:22.160 --> 00:02:24.750 align:start position:0%
+and we are going to be using a rectified
+linear<00:02:22.640><c> unit</c><00:02:23.080><c> they</c><00:02:23.280><c> exactly</c><00:02:23.640><c> the</c><00:02:23.800><c> same</c>
+
+00:02:24.750 --> 00:02:24.760 align:start position:0%
+linear unit they exactly the same
+ 
+
+00:02:24.760 --> 00:02:27.390 align:start position:0%
+linear unit they exactly the same
+nonlinearity<00:02:25.680><c> that</c><00:02:25.879><c> we</c><00:02:26.040><c> have</c><00:02:26.319><c> used</c><00:02:27.000><c> uh</c><00:02:27.120><c> in</c><00:02:27.239><c> the</c>
+
+00:02:27.390 --> 00:02:27.400 align:start position:0%
+nonlinearity that we have used uh in the
+ 
+
+00:02:27.400 --> 00:02:28.670 align:start position:0%
+nonlinearity that we have used uh in the
+fully<00:02:27.720><c> connected</c>
+
+00:02:28.670 --> 00:02:28.680 align:start position:0%
+fully connected
+ 
+
+00:02:28.680 --> 00:02:32.309 align:start position:0%
+fully connected
+layers<00:02:29.680><c> uh</c><00:02:30.000><c> then</c><00:02:30.160><c> we</c><00:02:30.280><c> are</c><00:02:31.160><c> passing</c><00:02:31.800><c> the</c><00:02:32.000><c> output</c>
+
+00:02:32.309 --> 00:02:32.319 align:start position:0%
+layers uh then we are passing the output
+ 
+
+00:02:32.319 --> 00:02:34.990 align:start position:0%
+layers uh then we are passing the output
+feature<00:02:32.640><c> map</c><00:02:32.879><c> produced</c><00:02:33.400><c> here</c><00:02:33.720><c> and</c><00:02:34.000><c> by</c><00:02:34.160><c> the</c><00:02:34.319><c> way</c>
+
+00:02:34.990 --> 00:02:35.000 align:start position:0%
+feature map produced here and by the way
+ 
+
+00:02:35.000 --> 00:02:37.430 align:start position:0%
+feature map produced here and by the way
+this<00:02:35.120><c> is</c><00:02:35.280><c> where</c><00:02:35.560><c> you</c><00:02:35.680><c> can</c><00:02:35.879><c> actually</c><00:02:36.200><c> see</c><00:02:36.920><c> the</c>
+
+00:02:37.430 --> 00:02:37.440 align:start position:0%
+this is where you can actually see the
+ 
+
+00:02:37.440 --> 00:02:40.430 align:start position:0%
+this is where you can actually see the
+um<00:02:38.440><c> uh</c><00:02:38.640><c> the</c><00:02:38.959><c> usage</c><00:02:39.319><c> of</c><00:02:39.480><c> that</c><00:02:39.720><c> kind</c><00:02:39.879><c> of</c><00:02:40.000><c> formula</c>
+
+00:02:40.430 --> 00:02:40.440 align:start position:0%
+um uh the usage of that kind of formula
+ 
+
+00:02:40.440 --> 00:02:41.949 align:start position:0%
+um uh the usage of that kind of formula
+which<00:02:40.560><c> I</c><00:02:40.680><c> was</c><00:02:40.840><c> pointing</c><00:02:41.159><c> out</c><00:02:41.400><c> regarding</c><00:02:41.840><c> the</c>
+
+00:02:41.949 --> 00:02:41.959 align:start position:0%
+which I was pointing out regarding the
+ 
+
+00:02:41.959 --> 00:02:44.110 align:start position:0%
+which I was pointing out regarding the
+output<00:02:42.319><c> feature</c><00:02:42.680><c> map</c><00:02:43.319><c> dimensions</c><00:02:43.840><c> in</c><00:02:43.959><c> an</c>
+
+00:02:44.110 --> 00:02:44.120 align:start position:0%
+output feature map dimensions in an
+ 
+
+00:02:44.120 --> 00:02:47.350 align:start position:0%
+output feature map dimensions in an
+earlier<00:02:44.760><c> video</c><00:02:45.760><c> uh</c><00:02:46.120><c> the</c><00:02:46.480><c> uh</c><00:02:46.720><c> Max</c><00:02:47.040><c> pooling</c>
+
+00:02:47.350 --> 00:02:47.360 align:start position:0%
+earlier video uh the uh Max pooling
+ 
+
+00:02:47.360 --> 00:02:50.470 align:start position:0%
+earlier video uh the uh Max pooling
+layer<00:02:47.599><c> in</c><00:02:47.760><c> this</c><00:02:47.959><c> case</c><00:02:48.200><c> is</c><00:02:48.519><c> 2x</c><00:02:49.000><c> two</c><00:02:50.000><c> and</c><00:02:50.120><c> it</c><00:02:50.239><c> will</c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+layer in this case is 2x two and it will
+ 
+
+00:02:50.480 --> 00:02:53.949 align:start position:0%
+layer in this case is 2x two and it will
+further<00:02:51.319><c> uh</c><00:02:51.720><c> shrink</c><00:02:52.720><c> uh</c><00:02:52.879><c> the</c><00:02:53.040><c> output</c><00:02:53.360><c> feat</c><00:02:53.760><c> M</c>
+
+00:02:53.949 --> 00:02:53.959 align:start position:0%
+further uh shrink uh the output feat M
+ 
+
+00:02:53.959 --> 00:02:56.670 align:start position:0%
+further uh shrink uh the output feat M
+produced<00:02:54.280><c> by</c><00:02:54.440><c> the</c><00:02:54.560><c> first</c><00:02:55.159><c> layer</c><00:02:56.159><c> selecting</c>
+
+00:02:56.670 --> 00:02:56.680 align:start position:0%
+produced by the first layer selecting
+ 
+
+00:02:56.680 --> 00:02:58.990 align:start position:0%
+produced by the first layer selecting
+the<00:02:56.879><c> most</c><00:02:57.159><c> important</c><00:02:57.560><c> features</c><00:02:58.000><c> out</c><00:02:58.159><c> of</c><00:02:58.319><c> it</c>
+
+00:02:58.990 --> 00:02:59.000 align:start position:0%
+the most important features out of it
+ 
+
+00:02:59.000 --> 00:03:00.869 align:start position:0%
+the most important features out of it
+passing<00:02:59.319><c> it</c><00:02:59.480><c> over</c><00:02:59.640><c> to</c><00:02:59.840><c> to</c><00:02:59.920><c> a</c><00:03:00.040><c> convolutional</c>
+
+00:03:00.869 --> 00:03:00.879 align:start position:0%
+passing it over to to a convolutional
+ 
+
+00:03:00.879 --> 00:03:04.390 align:start position:0%
+passing it over to to a convolutional
+layer<00:03:01.879><c> uh</c><00:03:02.080><c> with</c><00:03:02.480><c> uh</c><00:03:02.599><c> 64</c><00:03:03.200><c> filters</c><00:03:03.760><c> here</c><00:03:03.959><c> you</c><00:03:04.080><c> see</c>
+
+00:03:04.390 --> 00:03:04.400 align:start position:0%
+layer uh with uh 64 filters here you see
+ 
+
+00:03:04.400 --> 00:03:06.430 align:start position:0%
+layer uh with uh 64 filters here you see
+now<00:03:04.599><c> the</c><00:03:04.840><c> pattern</c><00:03:05.280><c> of</c><00:03:05.519><c> increasing</c><00:03:06.080><c> the</c><00:03:06.200><c> number</c>
+
+00:03:06.430 --> 00:03:06.440 align:start position:0%
+now the pattern of increasing the number
+ 
+
+00:03:06.440 --> 00:03:08.309 align:start position:0%
+now the pattern of increasing the number
+of<00:03:06.599><c> filters</c><00:03:07.000><c> as</c><00:03:07.159><c> the</c><00:03:07.280><c> network</c><00:03:07.680><c> becomes</c><00:03:08.040><c> deeper</c>
+
+00:03:08.309 --> 00:03:08.319 align:start position:0%
+of filters as the network becomes deeper
+ 
+
+00:03:08.319 --> 00:03:11.830 align:start position:0%
+of filters as the network becomes deeper
+and<00:03:08.680><c> deeper</c><00:03:09.680><c> and</c><00:03:10.120><c> uh</c><00:03:10.280><c> at</c><00:03:10.440><c> some</c><00:03:10.760><c> point</c><00:03:11.239><c> after</c>
+
+00:03:11.830 --> 00:03:11.840 align:start position:0%
+and deeper and uh at some point after
+ 
+
+00:03:11.840 --> 00:03:15.390 align:start position:0%
+and deeper and uh at some point after
+one<00:03:12.319><c> two</c><00:03:13.159><c> three</c><00:03:13.840><c> four</c><00:03:14.400><c> layers</c><00:03:15.040><c> four</c>
+
+00:03:15.390 --> 00:03:15.400 align:start position:0%
+one two three four layers four
+ 
+
+00:03:15.400 --> 00:03:19.350 align:start position:0%
+one two three four layers four
+convolutional<00:03:16.200><c> layers</c><00:03:17.200><c> we</c><00:03:17.319><c> are</c><00:03:17.560><c> going</c><00:03:18.080><c> to</c><00:03:19.080><c> uh</c>
+
+00:03:19.350 --> 00:03:19.360 align:start position:0%
+convolutional layers we are going to uh
+ 
+
+00:03:19.360 --> 00:03:21.990 align:start position:0%
+convolutional layers we are going to uh
+have<00:03:19.720><c> the</c><00:03:20.000><c> head</c><00:03:21.000><c> and</c><00:03:21.440><c> uh</c><00:03:21.560><c> I</c><00:03:21.640><c> think</c><00:03:21.799><c> it's</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+have the head and uh I think it's
+ 
+
+00:03:22.000 --> 00:03:25.229 align:start position:0%
+have the head and uh I think it's
+worthwhile<00:03:22.680><c> going</c><00:03:23.560><c> back</c><00:03:23.840><c> into</c><00:03:24.159><c> this</c><00:03:24.519><c> uh</c><00:03:24.680><c> vgg</c>
+
+00:03:25.229 --> 00:03:25.239 align:start position:0%
+worthwhile going back into this uh vgg
+ 
+
+00:03:25.239 --> 00:03:27.990 align:start position:0%
+worthwhile going back into this uh vgg
+kind<00:03:25.400><c> of</c><00:03:25.560><c> architecture</c><00:03:26.400><c> and</c><00:03:27.120><c> look</c><00:03:27.480><c> exactly</c>
+
+00:03:27.990 --> 00:03:28.000 align:start position:0%
+kind of architecture and look exactly
+ 
+
+00:03:28.000 --> 00:03:30.670 align:start position:0%
+kind of architecture and look exactly
+where<00:03:28.319><c> that</c><00:03:28.599><c> head</c><00:03:28.959><c> was</c><00:03:29.480><c> in</c><00:03:29.840><c> that</c><00:03:30.000><c> architecture</c>
+
+00:03:30.670 --> 00:03:30.680 align:start position:0%
+where that head was in that architecture
+ 
+
+00:03:30.680 --> 00:03:33.990 align:start position:0%
+where that head was in that architecture
+and<00:03:30.920><c> and</c><00:03:31.159><c> couple</c><00:03:31.480><c> it</c><00:03:31.720><c> with</c><00:03:32.159><c> with</c><00:03:32.360><c> this</c><00:03:32.720><c> code</c><00:03:33.720><c> um</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+and and couple it with with this code um
+ 
+
+00:03:34.000 --> 00:03:36.589 align:start position:0%
+and and couple it with with this code um
+so<00:03:34.280><c> here</c><00:03:34.439><c> is</c><00:03:34.680><c> the</c><00:03:35.159><c> the</c><00:03:35.400><c> point</c><00:03:35.959><c> where</c><00:03:36.159><c> the</c><00:03:36.319><c> head</c>
+
+00:03:36.589 --> 00:03:36.599 align:start position:0%
+so here is the the point where the head
+ 
+
+00:03:36.599 --> 00:03:38.949 align:start position:0%
+so here is the the point where the head
+starts<00:03:37.000><c> and</c><00:03:37.159><c> the</c><00:03:37.280><c> head</c><00:03:37.480><c> in</c><00:03:37.599><c> this</c><00:03:37.920><c> case</c><00:03:38.599><c> is</c><00:03:38.760><c> a</c>
+
+00:03:38.949 --> 00:03:38.959 align:start position:0%
+starts and the head in this case is a
+ 
+
+00:03:38.959 --> 00:03:41.750 align:start position:0%
+starts and the head in this case is a
+concatenation<00:03:39.720><c> of</c><00:03:39.920><c> fully</c><00:03:40.280><c> connected</c><00:03:41.000><c> layers</c>
+
+00:03:41.750 --> 00:03:41.760 align:start position:0%
+concatenation of fully connected layers
+ 
+
+00:03:41.760 --> 00:03:43.589 align:start position:0%
+concatenation of fully connected layers
+why<00:03:42.040><c> we</c><00:03:42.239><c> have</c><00:03:42.439><c> this</c><00:03:42.599><c> kind</c><00:03:42.760><c> of</c><00:03:42.920><c> concatenation</c>
+
+00:03:43.589 --> 00:03:43.599 align:start position:0%
+why we have this kind of concatenation
+ 
+
+00:03:43.599 --> 00:03:47.949 align:start position:0%
+why we have this kind of concatenation
+and<00:03:43.760><c> want</c><00:03:44.040><c> do</c><00:03:44.439><c> just</c><00:03:44.640><c> a</c><00:03:44.799><c> single</c><00:03:45.360><c> layer</c><00:03:46.360><c> um</c><00:03:46.840><c> is</c><00:03:47.560><c> uh</c>
+
+00:03:47.949 --> 00:03:47.959 align:start position:0%
+and want do just a single layer um is uh
+ 
+
+00:03:47.959 --> 00:03:50.070 align:start position:0%
+and want do just a single layer um is uh
+you<00:03:48.080><c> know</c><00:03:48.439><c> gradually</c><00:03:49.120><c> even</c><00:03:49.400><c> within</c><00:03:49.720><c> the</c><00:03:49.879><c> head</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+you know gradually even within the head
+ 
+
+00:03:50.080 --> 00:03:53.350 align:start position:0%
+you know gradually even within the head
+we<00:03:50.200><c> need</c><00:03:50.319><c> to</c><00:03:50.519><c> gradually</c><00:03:51.200><c> reach</c><00:03:51.519><c> this</c><00:03:51.760><c> point</c><00:03:52.360><c> of</c>
+
+00:03:53.350 --> 00:03:53.360 align:start position:0%
+we need to gradually reach this point of
+ 
+
+00:03:53.360 --> 00:03:55.789 align:start position:0%
+we need to gradually reach this point of
+uh<00:03:53.480><c> desired</c><00:03:54.040><c> number</c><00:03:54.519><c> of</c><00:03:54.879><c> classes</c><00:03:55.400><c> we</c><00:03:55.519><c> have</c><00:03:55.640><c> a</c>
+
+00:03:55.789 --> 00:03:55.799 align:start position:0%
+uh desired number of classes we have a
+ 
+
+00:03:55.799 --> 00:03:59.949 align:start position:0%
+uh desired number of classes we have a
+classification<00:03:56.519><c> use</c><00:03:56.879><c> case</c><00:03:57.159><c> here</c><00:03:58.159><c> um</c><00:03:58.560><c> this</c><00:03:58.680><c> is</c>
+
+00:03:59.949 --> 00:03:59.959 align:start position:0%
+classification use case here um this is
+ 
+
+00:03:59.959 --> 00:04:02.069 align:start position:0%
+classification use case here um this is
+a<00:04:00.200><c> thousand</c><00:04:00.680><c> classes</c><00:04:01.200><c> that</c><00:04:01.360><c> are</c><00:04:01.519><c> need</c><00:04:01.720><c> to</c><00:04:01.879><c> be</c>
+
+00:04:02.069 --> 00:04:02.079 align:start position:0%
+a thousand classes that are need to be
+ 
+
+00:04:02.079 --> 00:04:05.030 align:start position:0%
+a thousand classes that are need to be
+present<00:04:02.799><c> in</c><00:04:03.280><c> at</c><00:04:03.439><c> the</c><00:04:03.599><c> top</c><00:04:03.799><c> of</c><00:04:04.040><c> the</c><00:04:04.599><c> at</c><00:04:04.720><c> the</c><00:04:04.840><c> end</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+present in at the top of the at the end
+ 
+
+00:04:05.040 --> 00:04:08.670 align:start position:0%
+present in at the top of the at the end
+of<00:04:05.280><c> the</c><00:04:05.879><c> of</c><00:04:06.079><c> this</c><00:04:06.519><c> U</c><00:04:06.920><c> Network</c><00:04:07.920><c> and</c><00:04:08.360><c> this</c><00:04:08.480><c> is</c>
+
+00:04:08.670 --> 00:04:08.680 align:start position:0%
+of the of this U Network and this is
+ 
+
+00:04:08.680 --> 00:04:10.229 align:start position:0%
+of the of this U Network and this is
+basically<00:04:09.040><c> the</c><00:04:09.200><c> dimensionality</c><00:04:09.799><c> of</c><00:04:09.959><c> our</c>
+
+00:04:10.229 --> 00:04:10.239 align:start position:0%
+basically the dimensionality of our
+ 
+
+00:04:10.239 --> 00:04:13.429 align:start position:0%
+basically the dimensionality of our
+posterior<00:04:11.079><c> probability</c><00:04:12.079><c> uh</c><00:04:12.280><c> distribution</c><00:04:13.280><c> uh</c>
+
+00:04:13.429 --> 00:04:13.439 align:start position:0%
+posterior probability uh distribution uh
+ 
+
+00:04:13.439 --> 00:04:15.630 align:start position:0%
+posterior probability uh distribution uh
+we're<00:04:13.599><c> going</c><00:04:13.720><c> to</c><00:04:13.959><c> have</c><00:04:14.439><c> the</c><00:04:14.640><c> a</c><00:04:14.840><c> y</c><00:04:15.159><c> hat</c><00:04:15.360><c> if</c><00:04:15.480><c> you</c>
+
+00:04:15.630 --> 00:04:15.640 align:start position:0%
+we're going to have the a y hat if you
+ 
+
+00:04:15.640 --> 00:04:19.030 align:start position:0%
+we're going to have the a y hat if you
+like<00:04:16.440><c> that</c><00:04:16.680><c> consist</c><00:04:17.079><c> of</c><00:04:17.239><c> a</c><00:04:17.400><c> thousand</c><00:04:18.040><c> numbers</c>
+
+00:04:19.030 --> 00:04:19.040 align:start position:0%
+like that consist of a thousand numbers
+ 
+
+00:04:19.040 --> 00:04:21.390 align:start position:0%
+like that consist of a thousand numbers
+uh<00:04:19.199><c> a</c><00:04:19.320><c> thousand</c><00:04:20.040><c> are</c><00:04:20.239><c> also</c><00:04:20.519><c> the</c><00:04:21.120><c> are</c><00:04:21.280><c> the</c>
+
+00:04:21.390 --> 00:04:21.400 align:start position:0%
+uh a thousand are also the are the
+ 
+
+00:04:21.400 --> 00:04:23.310 align:start position:0%
+uh a thousand are also the are the
+number<00:04:21.639><c> of</c><00:04:21.799><c> classes</c><00:04:22.120><c> in</c><00:04:22.240><c> the</c><00:04:22.360><c> image</c><00:04:22.720><c> net</c><00:04:23.000><c> data</c>
+
+00:04:23.310 --> 00:04:23.320 align:start position:0%
+number of classes in the image net data
+ 
+
+00:04:23.320 --> 00:04:26.790 align:start position:0%
+number of classes in the image net data
+set<00:04:23.560><c> so</c><00:04:23.919><c> this</c><00:04:24.560><c> this</c><00:04:25.280><c> Dimensions</c><00:04:26.280><c> correspond</c>
+
+00:04:26.790 --> 00:04:26.800 align:start position:0%
+set so this this Dimensions correspond
+ 
+
+00:04:26.800 --> 00:04:30.510 align:start position:0%
+set so this this Dimensions correspond
+to<00:04:26.960><c> the</c><00:04:27.160><c> image</c><00:04:27.520><c> net</c><00:04:28.479><c> uh</c><00:04:28.639><c> classifier</c><00:04:30.000><c> uh</c><00:04:30.199><c> data</c>
+
+00:04:30.510 --> 00:04:30.520 align:start position:0%
+to the image net uh classifier uh data
+ 
+
+00:04:30.520 --> 00:04:33.749 align:start position:0%
+to the image net uh classifier uh data
+set<00:04:31.240><c> and</c><00:04:31.440><c> so</c><00:04:31.880><c> that's</c><00:04:32.120><c> basically</c><00:04:32.520><c> our</c><00:04:32.880><c> head</c><00:04:33.520><c> uh</c>
+
+00:04:33.749 --> 00:04:33.759 align:start position:0%
+set and so that's basically our head uh
+ 
+
+00:04:33.759 --> 00:04:37.150 align:start position:0%
+set and so that's basically our head uh
+there<00:04:34.600><c> is</c><00:04:35.160><c> uh</c><00:04:35.680><c> also</c><00:04:35.919><c> seen</c><00:04:36.280><c> over</c><00:04:36.520><c> here</c><00:04:36.720><c> in</c><00:04:36.880><c> this</c>
+
+00:04:37.150 --> 00:04:37.160 align:start position:0%
+there is uh also seen over here in this
+ 
+
+00:04:37.160 --> 00:04:40.670 align:start position:0%
+there is uh also seen over here in this
+code<00:04:38.160><c> with</c><00:04:38.639><c> uh</c><00:04:38.840><c> this</c><00:04:39.199><c> portion</c><00:04:39.600><c> of</c><00:04:39.759><c> the</c><00:04:39.880><c> model</c>
+
+00:04:40.670 --> 00:04:40.680 align:start position:0%
+code with uh this portion of the model
+ 
+
+00:04:40.680 --> 00:04:43.909 align:start position:0%
+code with uh this portion of the model
+so<00:04:40.960><c> we</c><00:04:41.240><c> have</c><00:04:41.600><c> whatever</c><00:04:42.039><c> we</c><00:04:42.520><c> have</c><00:04:42.800><c> produced</c><00:04:43.759><c> in</c>
+
+00:04:43.909 --> 00:04:43.919 align:start position:0%
+so we have whatever we have produced in
+ 
+
+00:04:43.919 --> 00:04:46.110 align:start position:0%
+so we have whatever we have produced in
+terms<00:04:44.199><c> of</c><00:04:44.400><c> convolutions</c><00:04:45.160><c> over</c><00:04:45.440><c> here</c><00:04:45.840><c> and</c><00:04:45.960><c> then</c>
+
+00:04:46.110 --> 00:04:46.120 align:start position:0%
+terms of convolutions over here and then
+ 
+
+00:04:46.120 --> 00:04:49.749 align:start position:0%
+terms of convolutions over here and then
+we<00:04:46.320><c> flatten</c><00:04:46.960><c> the</c><00:04:47.360><c> network</c><00:04:48.360><c> so</c><00:04:48.600><c> we</c><00:04:48.800><c> flatten</c><00:04:49.600><c> oh</c>
+
+00:04:49.749 --> 00:04:49.759 align:start position:0%
+we flatten the network so we flatten oh
+ 
+
+00:04:49.759 --> 00:04:51.990 align:start position:0%
+we flatten the network so we flatten oh
+sorry<00:04:50.080><c> flatten</c><00:04:50.560><c> the</c><00:04:50.919><c> output</c><00:04:51.280><c> feature</c><00:04:51.600><c> map</c>
+
+00:04:51.990 --> 00:04:52.000 align:start position:0%
+sorry flatten the output feature map
+ 
+
+00:04:52.000 --> 00:04:54.230 align:start position:0%
+sorry flatten the output feature map
+there<00:04:52.639><c> by</c><00:04:52.800><c> flattening</c><00:04:53.280><c> the</c><00:04:53.360><c> output</c><00:04:53.680><c> F</c><00:04:53.960><c> map</c><00:04:54.160><c> we</c>
+
+00:04:54.230 --> 00:04:54.240 align:start position:0%
+there by flattening the output F map we
+ 
+
+00:04:54.240 --> 00:04:56.710 align:start position:0%
+there by flattening the output F map we
+are<00:04:54.360><c> creating</c><00:04:54.919><c> effectively</c><00:04:55.919><c> uh</c><00:04:56.199><c> a</c><00:04:56.360><c> volume</c>
+
+00:04:56.710 --> 00:04:56.720 align:start position:0%
+are creating effectively uh a volume
+ 
+
+00:04:56.720 --> 00:04:58.270 align:start position:0%
+are creating effectively uh a volume
+we're<00:04:56.880><c> taking</c><00:04:57.120><c> a</c><00:04:57.280><c> volume</c><00:04:57.560><c> at</c><00:04:57.720><c> the</c><00:04:57.840><c> input</c><00:04:58.160><c> and</c>
+
+00:04:58.270 --> 00:04:58.280 align:start position:0%
+we're taking a volume at the input and
+ 
+
+00:04:58.280 --> 00:05:00.350 align:start position:0%
+we're taking a volume at the input and
+we're<00:04:58.440><c> flattening</c><00:04:58.960><c> into</c><00:04:59.199><c> a</c><00:04:59.400><c> vector</c>
+
+00:05:00.350 --> 00:05:00.360 align:start position:0%
+we're flattening into a vector
+ 
+
+00:05:00.360 --> 00:05:04.550 align:start position:0%
+we're flattening into a vector
+VOR<00:05:01.360><c> and</c><00:05:01.800><c> uh</c><00:05:02.240><c> this</c><00:05:02.520><c> Vector</c><00:05:03.039><c> then</c><00:05:03.639><c> is</c><00:05:03.919><c> passed</c><00:05:04.320><c> as</c>
+
+00:05:04.550 --> 00:05:04.560 align:start position:0%
+VOR and uh this Vector then is passed as
+ 
+
+00:05:04.560 --> 00:05:05.950 align:start position:0%
+VOR and uh this Vector then is passed as
+input
+
+00:05:05.950 --> 00:05:05.960 align:start position:0%
+input
+ 
+
+00:05:05.960 --> 00:05:09.510 align:start position:0%
+input
+to<00:05:06.960><c> two</c><00:05:07.320><c> dense</c><00:05:07.720><c> layers</c><00:05:08.720><c> the</c><00:05:08.880><c> first</c><00:05:09.160><c> dense</c>
+
+00:05:09.510 --> 00:05:09.520 align:start position:0%
+to two dense layers the first dense
+ 
+
+00:05:09.520 --> 00:05:14.110 align:start position:0%
+to two dense layers the first dense
+layer<00:05:10.320><c> is</c><00:05:11.160><c> has</c><00:05:11.759><c> 512</c><00:05:12.639><c> neurons</c><00:05:13.560><c> it</c><00:05:13.720><c> takes</c>
+
+00:05:14.110 --> 00:05:14.120 align:start position:0%
+layer is has 512 neurons it takes
+ 
+
+00:05:14.120 --> 00:05:16.270 align:start position:0%
+layer is has 512 neurons it takes
+whatever<00:05:14.639><c> dimensionality</c><00:05:15.639><c> uh</c><00:05:15.840><c> and</c><00:05:15.960><c> we'll</c><00:05:16.120><c> see</c>
+
+00:05:16.270 --> 00:05:16.280 align:start position:0%
+whatever dimensionality uh and we'll see
+ 
+
+00:05:16.280 --> 00:05:18.309 align:start position:0%
+whatever dimensionality uh and we'll see
+now<00:05:16.440><c> the</c><00:05:16.560><c> dimensions</c><00:05:16.960><c> in</c><00:05:17.080><c> a</c><00:05:17.240><c> moment</c><00:05:18.080><c> uh</c><00:05:18.199><c> the</c>
+
+00:05:18.309 --> 00:05:18.319 align:start position:0%
+now the dimensions in a moment uh the
+ 
+
+00:05:18.319 --> 00:05:21.590 align:start position:0%
+now the dimensions in a moment uh the
+flatten<00:05:18.800><c> layer</c><00:05:19.199><c> provided</c><00:05:19.800><c> and</c><00:05:20.039><c> reduces</c><00:05:20.840><c> that</c>
+
+00:05:21.590 --> 00:05:21.600 align:start position:0%
+flatten layer provided and reduces that
+ 
+
+00:05:21.600 --> 00:05:23.390 align:start position:0%
+flatten layer provided and reduces that
+just<00:05:21.800><c> like</c><00:05:22.039><c> any</c><00:05:22.240><c> fully</c><00:05:22.560><c> connected</c><00:05:23.000><c> layer</c><00:05:23.280><c> we</c>
+
+00:05:23.390 --> 00:05:23.400 align:start position:0%
+just like any fully connected layer we
+ 
+
+00:05:23.400 --> 00:05:25.350 align:start position:0%
+just like any fully connected layer we
+have<00:05:23.520><c> seen</c><00:05:23.840><c> in</c><00:05:23.919><c> a</c><00:05:24.120><c> corresponding</c><00:05:24.759><c> video</c><00:05:25.080><c> in</c><00:05:25.199><c> a</c>
+
+00:05:25.350 --> 00:05:25.360 align:start position:0%
+have seen in a corresponding video in a
+ 
+
+00:05:25.360 --> 00:05:29.230 align:start position:0%
+have seen in a corresponding video in a
+different<00:05:26.360><c> video</c><00:05:26.960><c> uh</c><00:05:27.080><c> earlier</c><00:05:27.800><c> into</c><00:05:28.240><c> 512</c>
+
+00:05:29.230 --> 00:05:29.240 align:start position:0%
+different video uh earlier into 512
+ 
+
+00:05:29.240 --> 00:05:30.309 align:start position:0%
+different video uh earlier into 512
+dimensions
+
+00:05:30.309 --> 00:05:30.319 align:start position:0%
+dimensions
+ 
+
+00:05:30.319 --> 00:05:32.670 align:start position:0%
+dimensions
+and<00:05:30.479><c> we</c><00:05:30.639><c> use</c><00:05:31.039><c> the</c><00:05:31.199><c> rectified</c><00:05:31.720><c> linear</c><00:05:32.120><c> unit</c><00:05:32.440><c> for</c>
+
+00:05:32.670 --> 00:05:32.680 align:start position:0%
+and we use the rectified linear unit for
+ 
+
+00:05:32.680 --> 00:05:35.830 align:start position:0%
+and we use the rectified linear unit for
+that<00:05:33.639><c> and</c><00:05:33.840><c> then</c><00:05:34.319><c> with</c><00:05:34.639><c> the</c><00:05:34.800><c> subsequent</c><00:05:35.360><c> layer</c>
+
+00:05:35.830 --> 00:05:35.840 align:start position:0%
+that and then with the subsequent layer
+ 
+
+00:05:35.840 --> 00:05:39.110 align:start position:0%
+that and then with the subsequent layer
+takes<00:05:36.319><c> 512</c><00:05:37.280><c> dimensions</c><00:05:38.039><c> and</c><00:05:38.319><c> reduces</c><00:05:38.880><c> it</c>
+
+00:05:39.110 --> 00:05:39.120 align:start position:0%
+takes 512 dimensions and reduces it
+ 
+
+00:05:39.120 --> 00:05:42.270 align:start position:0%
+takes 512 dimensions and reduces it
+further<00:05:40.000><c> into</c><00:05:40.360><c> gas</c><00:05:40.680><c> into</c><00:05:40.919><c> a</c><00:05:41.120><c> single</c><00:05:42.120><c> uh</c>
+
+00:05:42.270 --> 00:05:42.280 align:start position:0%
+further into gas into a single uh
+ 
+
+00:05:42.280 --> 00:05:44.350 align:start position:0%
+further into gas into a single uh
+Dimension<00:05:42.960><c> because</c><00:05:43.479><c> as</c><00:05:43.639><c> we</c><00:05:43.759><c> have</c><00:05:43.919><c> seen</c><00:05:44.120><c> in</c><00:05:44.240><c> the</c>
+
+00:05:44.350 --> 00:05:44.360 align:start position:0%
+Dimension because as we have seen in the
+ 
+
+00:05:44.360 --> 00:05:46.110 align:start position:0%
+Dimension because as we have seen in the
+binary<00:05:44.759><c> classification</c><00:05:45.400><c> we</c><00:05:45.520><c> have</c><00:05:45.680><c> a</c><00:05:45.800><c> binary</c>
+
+00:05:46.110 --> 00:05:46.120 align:start position:0%
+binary classification we have a binary
+ 
+
+00:05:46.120 --> 00:05:48.270 align:start position:0%
+binary classification we have a binary
+classification<00:05:46.759><c> use</c><00:05:47.080><c> case</c><00:05:47.400><c> here</c><00:05:48.039><c> either</c>
+
+00:05:48.270 --> 00:05:48.280 align:start position:0%
+classification use case here either
+ 
+
+00:05:48.280 --> 00:05:50.830 align:start position:0%
+classification use case here either
+we're<00:05:48.440><c> going</c><00:05:48.520><c> to</c><00:05:48.680><c> have</c><00:05:48.840><c> a</c><00:05:49.039><c> cats</c><00:05:49.360><c> or</c><00:05:49.639><c> dogs</c><00:05:50.600><c> we</c>
+
+00:05:50.830 --> 00:05:50.840 align:start position:0%
+we're going to have a cats or dogs we
+ 
+
+00:05:50.840 --> 00:05:54.469 align:start position:0%
+we're going to have a cats or dogs we
+have<00:05:51.880><c> um</c><00:05:52.880><c> uh</c><00:05:53.000><c> just</c><00:05:53.199><c> a</c><00:05:53.319><c> scaler</c><00:05:53.800><c> that</c><00:05:53.919><c> we</c><00:05:54.039><c> need</c>
+
+00:05:54.469 --> 00:05:54.479 align:start position:0%
+have um uh just a scaler that we need
+ 
+
+00:05:54.479 --> 00:05:57.710 align:start position:0%
+have um uh just a scaler that we need
+because<00:05:54.840><c> that</c><00:05:55.199><c> is</c><00:05:56.199><c> the</c><00:05:56.680><c> probability</c><00:05:57.360><c> of</c><00:05:57.520><c> the</c>
+
+00:05:57.710 --> 00:05:57.720 align:start position:0%
+because that is the probability of the
+ 
+
+00:05:57.720 --> 00:05:59.670 align:start position:0%
+because that is the probability of the
+positive<00:05:58.120><c> glass</c><00:05:58.560><c> whatever</c><00:05:59.000><c> that</c><00:05:59.199><c> positive</c>
+
+00:05:59.670 --> 00:05:59.680 align:start position:0%
+positive glass whatever that positive
+ 
+
+00:05:59.680 --> 00:06:02.909 align:start position:0%
+positive glass whatever that positive
+classes<00:06:00.120><c> probably</c><00:06:00.440><c> the</c><00:06:00.600><c> dogs</c><00:06:01.039><c> here</c><00:06:02.039><c> uh</c><00:06:02.280><c> and</c><00:06:02.720><c> uh</c>
+
+00:06:02.909 --> 00:06:02.919 align:start position:0%
+classes probably the dogs here uh and uh
+ 
+
+00:06:02.919 --> 00:06:04.870 align:start position:0%
+classes probably the dogs here uh and uh
+we<00:06:03.039><c> are</c><00:06:03.400><c> of</c><00:06:03.520><c> course</c><00:06:03.880><c> going</c><00:06:04.039><c> to</c><00:06:04.199><c> be</c><00:06:04.319><c> using</c>
+
+00:06:04.870 --> 00:06:04.880 align:start position:0%
+we are of course going to be using
+ 
+
+00:06:04.880 --> 00:06:07.270 align:start position:0%
+we are of course going to be using
+sigmoid<00:06:05.880><c> uh</c><00:06:06.039><c> because</c><00:06:06.400><c> only</c><00:06:06.639><c> at</c><00:06:06.759><c> the</c><00:06:06.880><c> output</c><00:06:07.199><c> of</c>
+
+00:06:07.270 --> 00:06:07.280 align:start position:0%
+sigmoid uh because only at the output of
+ 
+
+00:06:07.280 --> 00:06:09.870 align:start position:0%
+sigmoid uh because only at the output of
+the<00:06:07.360><c> sigmoid</c><00:06:07.919><c> we</c><00:06:08.039><c> are</c><00:06:08.160><c> actually</c><00:06:08.479><c> getting</c><00:06:08.960><c> this</c>
+
+00:06:09.870 --> 00:06:09.880 align:start position:0%
+the sigmoid we are actually getting this
+ 
+
+00:06:09.880 --> 00:06:11.950 align:start position:0%
+the sigmoid we are actually getting this
+uh<00:06:10.000><c> form</c><00:06:10.280><c> of</c><00:06:10.440><c> the</c><00:06:10.599><c> posterior</c><00:06:11.080><c> probability</c><00:06:11.800><c> as</c>
+
+00:06:11.950 --> 00:06:11.960 align:start position:0%
+uh form of the posterior probability as
+ 
+
+00:06:11.960 --> 00:06:14.350 align:start position:0%
+uh form of the posterior probability as
+we<00:06:12.120><c> had</c><00:06:12.319><c> discussed</c><00:06:12.759><c> in</c><00:06:12.919><c> the</c><00:06:13.199><c> uh</c><00:06:14.000><c> fully</c>
+
+00:06:14.350 --> 00:06:14.360 align:start position:0%
+we had discussed in the uh fully
+ 
+
+00:06:14.360 --> 00:06:17.469 align:start position:0%
+we had discussed in the uh fully
+connected<00:06:14.800><c> layers</c><00:06:15.520><c> uh</c><00:06:16.039><c> and</c><00:06:16.520><c> in</c><00:06:16.680><c> that</c><00:06:16.919><c> in</c><00:06:17.080><c> that</c>
+
+00:06:17.469 --> 00:06:17.479 align:start position:0%
+connected layers uh and in that in that
+ 
+
+00:06:17.479 --> 00:06:19.589 align:start position:0%
+connected layers uh and in that in that
+uh<00:06:17.759><c> lecture</c><00:06:18.720><c> all</c><00:06:18.880><c> right</c><00:06:19.039><c> so</c><00:06:19.240><c> this</c><00:06:19.360><c> is</c>
+
+00:06:19.589 --> 00:06:19.599 align:start position:0%
+uh lecture all right so this is
+ 
+
+00:06:19.599 --> 00:06:21.790 align:start position:0%
+uh lecture all right so this is
+basically<00:06:19.960><c> our</c><00:06:20.400><c> architecture</c><00:06:21.400><c> uh</c><00:06:21.599><c> very</c>
+
+00:06:21.790 --> 00:06:21.800 align:start position:0%
+basically our architecture uh very
+ 
+
+00:06:21.800 --> 00:06:24.309 align:start position:0%
+basically our architecture uh very
+simple<00:06:22.240><c> architecture</c><00:06:23.240><c> uh</c><00:06:23.440><c> the</c><00:06:23.639><c> convolution</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+simple architecture uh the convolution
+ 
+
+00:06:24.319 --> 00:06:26.670 align:start position:0%
+simple architecture uh the convolution
+portions<00:06:25.319><c> the</c><00:06:25.479><c> flatten</c><00:06:26.080><c> and</c><00:06:26.240><c> the</c><00:06:26.360><c> fully</c>
+
+00:06:26.670 --> 00:06:26.680 align:start position:0%
+portions the flatten and the fully
+ 
+
+00:06:26.680 --> 00:06:29.670 align:start position:0%
+portions the flatten and the fully
+connected<00:06:27.120><c> or</c><00:06:27.360><c> dense</c><00:06:28.240><c> uh</c><00:06:28.360><c> portion</c><00:06:28.880><c> to</c><00:06:29.199><c> provide</c>
+
+00:06:29.670 --> 00:06:29.680 align:start position:0%
+connected or dense uh portion to provide
+ 
+
+00:06:29.680 --> 00:06:31.870 align:start position:0%
+connected or dense uh portion to provide
+the<00:06:29.759><c> binary</c><00:06:30.199><c> classification</c><00:06:31.199><c> result</c><00:06:31.520><c> at</c><00:06:31.720><c> the</c>
+
+00:06:31.870 --> 00:06:31.880 align:start position:0%
+the binary classification result at the
+ 
+
+00:06:31.880 --> 00:06:37.110 align:start position:0%
+the binary classification result at the
+output<00:06:32.880><c> and</c><00:06:33.120><c> here</c><00:06:33.280><c> is</c><00:06:33.560><c> the</c><00:06:33.919><c> U</c><00:06:34.960><c> details</c><00:06:35.960><c> of</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+output and here is the U details of
+ 
+
+00:06:37.120 --> 00:06:43.309 align:start position:0%
+output and here is the U details of
+um<00:06:38.120><c> of</c><00:06:38.639><c> our</c><00:06:39.639><c> uh</c><00:06:39.759><c> CNN</c><00:06:40.720><c> so</c><00:06:40.919><c> we</c><00:06:41.039><c> can</c><00:06:41.360><c> see</c><00:06:42.360><c> uh</c><00:06:42.560><c> the</c>
+
+00:06:43.309 --> 00:06:43.319 align:start position:0%
+um of our uh CNN so we can see uh the
+ 
+
+00:06:43.319 --> 00:06:46.350 align:start position:0%
+um of our uh CNN so we can see uh the
+input<00:06:44.280><c> uh</c><00:06:44.560><c> images</c><00:06:45.479><c> that</c><00:06:45.639><c> are</c><00:06:45.800><c> actually</c><00:06:46.080><c> we</c>
+
+00:06:46.350 --> 00:06:46.360 align:start position:0%
+input uh images that are actually we
+ 
+
+00:06:46.360 --> 00:06:50.950 align:start position:0%
+input uh images that are actually we
+coming<00:06:46.680><c> in</c><00:06:47.680><c> uh</c><00:06:47.840><c> the</c><00:06:48.120><c> uh</c><00:06:48.319><c> first</c><00:06:49.160><c> uh</c><00:06:49.280><c> we</c><00:06:49.479><c> have</c><00:06:49.960><c> 32</c>
+
+00:06:50.950 --> 00:06:50.960 align:start position:0%
+coming in uh the uh first uh we have 32
+ 
+
+00:06:50.960 --> 00:06:53.670 align:start position:0%
+coming in uh the uh first uh we have 32
+filters<00:06:51.520><c> as</c><00:06:51.639><c> we</c><00:06:52.039><c> discussed</c><00:06:53.039><c> in</c><00:06:53.199><c> terms</c><00:06:53.440><c> of</c>
+
+00:06:53.670 --> 00:06:53.680 align:start position:0%
+filters as we discussed in terms of
+ 
+
+00:06:53.680 --> 00:06:54.990 align:start position:0%
+filters as we discussed in terms of
+number<00:06:54.120><c> of</c>
+
+00:06:54.990 --> 00:06:55.000 align:start position:0%
+number of
+ 
+
+00:06:55.000 --> 00:06:57.749 align:start position:0%
+number of
+parameters<00:06:56.000><c> um</c>
+
+00:06:57.749 --> 00:06:57.759 align:start position:0%
+parameters um
+ 
+
+00:06:57.759 --> 00:07:01.790 align:start position:0%
+parameters um
+896<00:06:58.759><c> 18,000</c>
+
+00:07:01.790 --> 00:07:01.800 align:start position:0%
+ 
+ 
+
+00:07:01.800 --> 00:07:05.710 align:start position:0%
+ 
+73,000<00:07:03.000><c> 147,000</c><00:07:04.000><c> so</c><00:07:04.199><c> all</c><00:07:04.360><c> of</c><00:07:04.560><c> these</c><00:07:04.840><c> are</c>
+
+00:07:05.710 --> 00:07:05.720 align:start position:0%
+73,000 147,000 so all of these are
+ 
+
+00:07:05.720 --> 00:07:08.150 align:start position:0%
+73,000 147,000 so all of these are
+parameters<00:07:06.280><c> that</c><00:07:06.440><c> you</c><00:07:06.599><c> see</c><00:07:07.199><c> being</c><00:07:07.599><c> quoted</c>
+
+00:07:08.150 --> 00:07:08.160 align:start position:0%
+parameters that you see being quoted
+ 
+
+00:07:08.160 --> 00:07:11.510 align:start position:0%
+parameters that you see being quoted
+here<00:07:08.960><c> in</c><00:07:09.240><c> the</c><00:07:09.639><c> uh</c><00:07:10.039><c> next</c><00:07:10.319><c> to</c><00:07:10.520><c> the</c><00:07:10.680><c> convolutional</c>
+
+00:07:11.510 --> 00:07:11.520 align:start position:0%
+here in the uh next to the convolutional
+ 
+
+00:07:11.520 --> 00:07:14.629 align:start position:0%
+here in the uh next to the convolutional
+layers<00:07:12.520><c> but</c><00:07:13.000><c> um</c><00:07:13.479><c> the</c><00:07:13.599><c> most</c><00:07:13.840><c> striking</c><00:07:14.360><c> thing</c>
+
+00:07:14.629 --> 00:07:14.639 align:start position:0%
+layers but um the most striking thing
+ 
+
+00:07:14.639 --> 00:07:17.869 align:start position:0%
+layers but um the most striking thing
+over<00:07:14.960><c> here</c><00:07:15.280><c> is</c><00:07:15.960><c> this</c><00:07:16.960><c> look</c><00:07:17.120><c> at</c><00:07:17.280><c> the</c><00:07:17.400><c> number</c><00:07:17.639><c> of</c>
+
+00:07:17.869 --> 00:07:17.879 align:start position:0%
+over here is this look at the number of
+ 
+
+00:07:17.879 --> 00:07:20.070 align:start position:0%
+over here is this look at the number of
+parameters<00:07:18.520><c> which</c><00:07:18.639><c> are</c><00:07:18.879><c> involved</c><00:07:19.720><c> in</c><00:07:19.879><c> the</c>
+
+00:07:20.070 --> 00:07:20.080 align:start position:0%
+parameters which are involved in the
+ 
+
+00:07:20.080 --> 00:07:22.990 align:start position:0%
+parameters which are involved in the
+fully<00:07:20.440><c> connected</c><00:07:20.919><c> in</c><00:07:21.120><c> one</c><00:07:21.639><c> fully</c><00:07:22.080><c> connected</c>
+
+00:07:22.990 --> 00:07:23.000 align:start position:0%
+fully connected in one fully connected
+ 
+
+00:07:23.000 --> 00:07:26.510 align:start position:0%
+fully connected in one fully connected
+or<00:07:23.319><c> dense</c><00:07:23.720><c> layer</c><00:07:24.560><c> 3.2</c><00:07:25.199><c> million</c><00:07:25.639><c> parameters</c><00:07:26.240><c> so</c>
+
+00:07:26.510 --> 00:07:26.520 align:start position:0%
+or dense layer 3.2 million parameters so
+ 
+
+00:07:26.520 --> 00:07:29.110 align:start position:0%
+or dense layer 3.2 million parameters so
+out<00:07:26.720><c> of</c><00:07:26.960><c> the</c><00:07:27.240><c> total</c><00:07:28.160><c> 3</c><00:07:28.360><c> and</c><00:07:28.520><c> A2</c><00:07:28.840><c> million</c>
+
+00:07:29.110 --> 00:07:29.120 align:start position:0%
+out of the total 3 and A2 million
+ 
+
+00:07:29.120 --> 00:07:32.230 align:start position:0%
+out of the total 3 and A2 million
+parameters<00:07:29.800><c> that</c><00:07:29.960><c> we</c><00:07:30.120><c> have</c><00:07:30.800><c> 3.2</c><00:07:31.520><c> million</c><00:07:31.960><c> are</c>
+
+00:07:32.230 --> 00:07:32.240 align:start position:0%
+parameters that we have 3.2 million are
+ 
+
+00:07:32.240 --> 00:07:34.510 align:start position:0%
+parameters that we have 3.2 million are
+associated<00:07:32.840><c> with</c><00:07:32.960><c> a</c><00:07:33.080><c> fully</c><00:07:33.400><c> connected</c><00:07:33.840><c> layer</c>
+
+00:07:34.510 --> 00:07:34.520 align:start position:0%
+associated with a fully connected layer
+ 
+
+00:07:34.520 --> 00:07:38.189 align:start position:0%
+associated with a fully connected layer
+and<00:07:34.720><c> here</c><00:07:34.879><c> is</c><00:07:35.120><c> the</c><00:07:35.879><c> kind</c><00:07:36.039><c> of</c><00:07:36.479><c> uh</c><00:07:37.199><c> striking</c>
+
+00:07:38.189 --> 00:07:38.199 align:start position:0%
+and here is the kind of uh striking
+ 
+
+00:07:38.199 --> 00:07:42.309 align:start position:0%
+and here is the kind of uh striking
+example<00:07:38.919><c> of</c><00:07:39.879><c> um</c><00:07:40.240><c> why</c><00:07:40.479><c> it</c><00:07:40.599><c> would</c><00:07:40.840><c> make</c><00:07:41.160><c> sense</c><00:07:42.039><c> to</c>
+
+00:07:42.309 --> 00:07:42.319 align:start position:0%
+example of um why it would make sense to
+ 
+
+00:07:42.319 --> 00:07:45.629 align:start position:0%
+example of um why it would make sense to
+actually<00:07:43.000><c> uh</c><00:07:43.160><c> use</c><00:07:43.520><c> CNN</c><00:07:44.479><c> for</c><00:07:45.080><c> uh</c><00:07:45.199><c> image</c>
+
+00:07:45.629 --> 00:07:45.639 align:start position:0%
+actually uh use CNN for uh image
+ 
+
+00:07:45.639 --> 00:07:48.950 align:start position:0%
+actually uh use CNN for uh image
+classification<00:07:46.479><c> if</c><00:07:46.599><c> we</c><00:07:46.759><c> didn't</c><00:07:47.159><c> have</c><00:07:47.400><c> the</c><00:07:47.960><c> CNN</c>
+
+00:07:48.950 --> 00:07:48.960 align:start position:0%
+classification if we didn't have the CNN
+ 
+
+00:07:48.960 --> 00:07:51.710 align:start position:0%
+classification if we didn't have the CNN
+and<00:07:49.199><c> the</c><00:07:49.400><c> associated</c><00:07:50.000><c> advantage</c><00:07:50.520><c> of</c><00:07:50.840><c> that</c><00:07:51.080><c> CNN</c>
+
+00:07:51.710 --> 00:07:51.720 align:start position:0%
+and the associated advantage of that CNN
+ 
+
+00:07:51.720 --> 00:07:55.029 align:start position:0%
+and the associated advantage of that CNN
+provide<00:07:52.720><c> which</c><00:07:52.879><c> was</c><00:07:53.120><c> actually</c><00:07:53.520><c> also</c><00:07:53.800><c> shown</c><00:07:54.800><c> in</c>
+
+00:07:55.029 --> 00:07:55.039 align:start position:0%
+provide which was actually also shown in
+ 
+
+00:07:55.039 --> 00:07:57.230 align:start position:0%
+provide which was actually also shown in
+this<00:07:55.520><c> kind</c><00:07:55.639><c> of</c><00:07:55.800><c> snapshot</c><00:07:56.400><c> architecture</c><00:07:57.120><c> as</c>
+
+00:07:57.230 --> 00:07:57.240 align:start position:0%
+this kind of snapshot architecture as
+ 
+
+00:07:57.240 --> 00:08:02.510 align:start position:0%
+this kind of snapshot architecture as
+you<00:07:57.400><c> can</c><00:07:57.560><c> see</c><00:07:57.960><c> only</c><00:07:58.800><c> the</c><00:07:59.039><c> Loc</c>
+
+00:08:02.510 --> 00:08:02.520 align:start position:0%
+ 
+ 
+
+00:08:02.520 --> 00:08:06.469 align:start position:0%
+ 
+pixels<00:08:03.520><c> the</c><00:08:03.840><c> the</c><00:08:03.960><c> one</c><00:08:04.240><c> which</c><00:08:04.520><c> are</c><00:08:05.520><c> which</c><00:08:05.720><c> are</c>
+
+00:08:06.469 --> 00:08:06.479 align:start position:0%
+pixels the the one which are which are
+ 
+
+00:08:06.479 --> 00:08:09.230 align:start position:0%
+pixels the the one which are which are
+local<00:08:06.960><c> to</c><00:08:07.280><c> the</c><00:08:08.080><c> uh</c><00:08:08.199><c> special</c><00:08:08.639><c> dimensions</c><00:08:09.080><c> of</c>
+
+00:08:09.230 --> 00:08:09.240 align:start position:0%
+local to the uh special dimensions of
+ 
+
+00:08:09.240 --> 00:08:12.270 align:start position:0%
+local to the uh special dimensions of
+the<00:08:09.360><c> filter</c><00:08:10.159><c> are</c><00:08:10.479><c> so</c><00:08:10.879><c> so-called</c><00:08:11.400><c> firing</c><00:08:12.159><c> in</c>
+
+00:08:12.270 --> 00:08:12.280 align:start position:0%
+the filter are so so-called firing in
+ 
+
+00:08:12.280 --> 00:08:15.629 align:start position:0%
+the filter are so so-called firing in
+order<00:08:12.520><c> to</c><00:08:12.759><c> produce</c><00:08:13.759><c> that</c><00:08:14.000><c> kind</c><00:08:14.159><c> of</c><00:08:14.639><c> scaler</c>
+
+00:08:15.629 --> 00:08:15.639 align:start position:0%
+order to produce that kind of scaler
+ 
+
+00:08:15.639 --> 00:08:17.589 align:start position:0%
+order to produce that kind of scaler
+okay<00:08:16.039><c> as</c><00:08:16.240><c> compared</c><00:08:16.599><c> to</c><00:08:16.720><c> a</c><00:08:16.840><c> fully</c><00:08:17.159><c> connected</c>
+
+00:08:17.589 --> 00:08:17.599 align:start position:0%
+okay as compared to a fully connected
+ 
+
+00:08:17.599 --> 00:08:19.309 align:start position:0%
+okay as compared to a fully connected
+architecture<00:08:18.199><c> where</c><00:08:18.479><c> everything</c><00:08:18.960><c> that</c><00:08:19.120><c> we</c>
+
+00:08:19.309 --> 00:08:19.319 align:start position:0%
+architecture where everything that we
+ 
+
+00:08:19.319 --> 00:08:22.149 align:start position:0%
+architecture where everything that we
+have<00:08:19.599><c> here</c><00:08:20.240><c> is</c><00:08:20.440><c> going</c><00:08:20.639><c> to</c><00:08:20.800><c> be</c><00:08:21.000><c> connected</c><00:08:21.960><c> to</c>
+
+00:08:22.149 --> 00:08:22.159 align:start position:0%
+have here is going to be connected to
+ 
+
+00:08:22.159 --> 00:08:24.950 align:start position:0%
+have here is going to be connected to
+the<00:08:22.319><c> layer</c><00:08:23.199><c> um</c><00:08:23.560><c> to</c><00:08:23.759><c> to</c><00:08:24.000><c> to</c><00:08:24.120><c> form</c><00:08:24.440><c> if</c><00:08:24.560><c> you</c><00:08:24.720><c> like</c>
+
+00:08:24.950 --> 00:08:24.960 align:start position:0%
+the layer um to to to form if you like
+ 
+
+00:08:24.960 --> 00:08:28.589 align:start position:0%
+the layer um to to to form if you like
+the<00:08:25.120><c> output</c><00:08:25.520><c> scaler</c><00:08:26.319><c> z</c><00:08:27.280><c> uh</c><00:08:27.440><c> the</c><00:08:27.599><c> convolutions</c>
+
+00:08:28.589 --> 00:08:28.599 align:start position:0%
+the output scaler z uh the convolutions
+ 
+
+00:08:28.599 --> 00:08:31.309 align:start position:0%
+the output scaler z uh the convolutions
+uh<00:08:28.759><c> are</c><00:08:29.800><c> operation</c><00:08:30.319><c> is</c><00:08:30.520><c> actually</c><00:08:30.800><c> helping</c><00:08:31.159><c> us</c>
+
+00:08:31.309 --> 00:08:31.319 align:start position:0%
+uh are operation is actually helping us
+ 
+
+00:08:31.319 --> 00:08:34.029 align:start position:0%
+uh are operation is actually helping us
+to<00:08:31.840><c> significantly</c><00:08:32.560><c> reduce</c><00:08:32.880><c> the</c><00:08:33.000><c> number</c><00:08:33.279><c> of</c>
+
+00:08:34.029 --> 00:08:34.039 align:start position:0%
+to significantly reduce the number of
+ 
+
+00:08:34.039 --> 00:08:37.909 align:start position:0%
+to significantly reduce the number of
+parameters<00:08:35.320><c> so</c><00:08:36.320><c> uh</c><00:08:36.440><c> at</c><00:08:36.560><c> the</c><00:08:36.640><c> end</c><00:08:36.760><c> of</c><00:08:36.880><c> the</c><00:08:37.080><c> day</c>
+
+00:08:37.909 --> 00:08:37.919 align:start position:0%
+parameters so uh at the end of the day
+ 
+
+00:08:37.919 --> 00:08:42.110 align:start position:0%
+parameters so uh at the end of the day
+uh<00:08:38.080><c> we</c><00:08:38.279><c> have</c><00:08:38.760><c> u</c><00:08:39.519><c> u</c><00:08:39.719><c> the</c><00:08:40.279><c> scalar</c><00:08:41.279><c> that</c><00:08:41.599><c> indicates</c>
+
+00:08:42.110 --> 00:08:42.120 align:start position:0%
+uh we have u u the scalar that indicates
+ 
+
+00:08:42.120 --> 00:08:43.630 align:start position:0%
+uh we have u u the scalar that indicates
+the<00:08:42.320><c> posterior</c><00:08:42.800><c> probability</c><00:08:43.360><c> of</c><00:08:43.479><c> the</c>
+
+00:08:43.630 --> 00:08:43.640 align:start position:0%
+the posterior probability of the
+ 
+
+00:08:43.640 --> 00:08:46.470 align:start position:0%
+the posterior probability of the
+positive<00:08:44.120><c> class</c><00:08:44.839><c> as</c><00:08:45.000><c> we</c><00:08:45.200><c> discussed</c><00:08:45.800><c> and</c><00:08:46.000><c> then</c>
+
+00:08:46.470 --> 00:08:46.480 align:start position:0%
+positive class as we discussed and then
+ 
+
+00:08:46.480 --> 00:08:50.190 align:start position:0%
+positive class as we discussed and then
+uh<00:08:46.920><c> the</c><00:08:47.240><c> architecture</c><00:08:47.880><c> is</c><00:08:48.160><c> seems</c><00:08:48.440><c> to</c><00:08:48.640><c> be</c><00:08:49.640><c> uh</c>
+
+00:08:50.190 --> 00:08:50.200 align:start position:0%
+uh the architecture is seems to be uh
+ 
+
+00:08:50.200 --> 00:08:54.310 align:start position:0%
+uh the architecture is seems to be uh
+valid<00:08:51.200><c> uh</c><00:08:51.320><c> we</c><00:08:51.440><c> are</c><00:08:51.680><c> going</c><00:08:51.959><c> to</c><00:08:52.760><c> evidently</c><00:08:53.720><c> going</c>
+
+00:08:54.310 --> 00:08:54.320 align:start position:0%
+valid uh we are going to evidently going
+ 
+
+00:08:54.320 --> 00:08:57.269 align:start position:0%
+valid uh we are going to evidently going
+to<00:08:55.320><c> use</c><00:08:55.640><c> binary</c><00:08:56.040><c> cross</c><00:08:56.320><c> entropy</c><00:08:56.839><c> just</c><00:08:57.040><c> like</c>
+
+00:08:57.269 --> 00:08:57.279 align:start position:0%
+to use binary cross entropy just like
+ 
+
+00:08:57.279 --> 00:08:59.870 align:start position:0%
+to use binary cross entropy just like
+what<00:08:57.399><c> we</c><00:08:57.560><c> have</c><00:08:57.760><c> done</c><00:08:58.079><c> earlier</c><00:08:58.640><c> in</c><00:08:59.560><c> uh</c><00:08:59.720><c> that</c>
+
+00:08:59.870 --> 00:08:59.880 align:start position:0%
+what we have done earlier in uh that
+ 
+
+00:08:59.880 --> 00:09:01.870 align:start position:0%
+what we have done earlier in uh that
+other<00:09:00.200><c> video</c><00:09:00.600><c> where</c><00:09:00.760><c> we</c><00:09:00.920><c> looked</c><00:09:01.200><c> at</c><00:09:01.560><c> dense</c>
+
+00:09:01.870 --> 00:09:01.880 align:start position:0%
+other video where we looked at dense
+ 
+
+00:09:01.880 --> 00:09:04.269 align:start position:0%
+other video where we looked at dense
+layers<00:09:02.279><c> only</c><00:09:02.600><c> for</c><00:09:02.920><c> binary</c><00:09:03.360><c> classification</c><00:09:04.120><c> or</c>
+
+00:09:04.269 --> 00:09:04.279 align:start position:0%
+layers only for binary classification or
+ 
+
+00:09:04.279 --> 00:09:05.710 align:start position:0%
+layers only for binary classification or
+multiclass
+
+00:09:05.710 --> 00:09:05.720 align:start position:0%
+multiclass
+ 
+
+00:09:05.720 --> 00:09:08.030 align:start position:0%
+multiclass
+classification<00:09:06.720><c> uh</c><00:09:06.920><c> and</c><00:09:07.279><c> uh</c><00:09:07.440><c> we</c><00:09:07.560><c> are</c><00:09:07.680><c> going</c><00:09:07.839><c> to</c>
+
+00:09:08.030 --> 00:09:08.040 align:start position:0%
+classification uh and uh we are going to
+ 
+
+00:09:08.040 --> 00:09:10.710 align:start position:0%
+classification uh and uh we are going to
+have<00:09:08.320><c> here</c><00:09:08.760><c> well</c><00:09:09.200><c> here</c><00:09:09.560><c> the</c><00:09:09.760><c> author</c><00:09:10.120><c> selected</c>
+
+00:09:10.710 --> 00:09:10.720 align:start position:0%
+have here well here the author selected
+ 
+
+00:09:10.720 --> 00:09:13.350 align:start position:0%
+have here well here the author selected
+the<00:09:11.560><c> uh</c><00:09:11.680><c> RMS</c><00:09:12.240><c> prop</c><00:09:12.640><c> which</c>
+
+00:09:13.350 --> 00:09:13.360 align:start position:0%
+the uh RMS prop which
+ 
+
+00:09:13.360 --> 00:09:16.269 align:start position:0%
+the uh RMS prop which
+is<00:09:14.360><c> uh</c><00:09:14.640><c> one</c><00:09:14.800><c> of</c><00:09:14.959><c> the</c><00:09:15.120><c> cousins</c><00:09:15.560><c> of</c><00:09:15.680><c> stochastic</c>
+
+00:09:16.269 --> 00:09:16.279 align:start position:0%
+is uh one of the cousins of stochastic
+ 
+
+00:09:16.279 --> 00:09:19.069 align:start position:0%
+is uh one of the cousins of stochastic
+gr<00:09:16.880><c> descent</c><00:09:17.680><c> we</c><00:09:17.839><c> haven't</c><00:09:18.120><c> really</c><00:09:18.399><c> got</c><00:09:18.720><c> any</c>
+
+00:09:19.069 --> 00:09:19.079 align:start position:0%
+gr descent we haven't really got any
+ 
+
+00:09:19.079 --> 00:09:21.030 align:start position:0%
+gr descent we haven't really got any
+discussion<00:09:19.680><c> specifically</c><00:09:20.279><c> on</c><00:09:20.519><c> enhancements</c>
+
+00:09:21.030 --> 00:09:21.040 align:start position:0%
+discussion specifically on enhancements
+ 
+
+00:09:21.040 --> 00:09:23.470 align:start position:0%
+discussion specifically on enhancements
+of<00:09:21.160><c> stochastic</c><00:09:21.720><c> gr</c><00:09:22.000><c> descent</c><00:09:22.839><c> but</c><00:09:23.000><c> if</c><00:09:23.079><c> you</c><00:09:23.200><c> do</c>
+
+00:09:23.470 --> 00:09:23.480 align:start position:0%
+of stochastic gr descent but if you do
+ 
+
+00:09:23.480 --> 00:09:25.990 align:start position:0%
+of stochastic gr descent but if you do
+replace<00:09:23.800><c> it</c><00:09:23.959><c> with</c><00:09:24.320><c> SGD</c><00:09:25.320><c> I</c><00:09:25.440><c> think</c><00:09:25.600><c> you</c><00:09:25.680><c> will</c><00:09:25.839><c> be</c>
+
+00:09:25.990 --> 00:09:26.000 align:start position:0%
+replace it with SGD I think you will be
+ 
+
+00:09:26.000 --> 00:09:29.030 align:start position:0%
+replace it with SGD I think you will be
+getting<00:09:26.360><c> very</c><00:09:26.600><c> similar</c><00:09:27.240><c> performance</c><00:09:28.240><c> um</c><00:09:28.920><c> with</c>
+
+00:09:29.030 --> 00:09:29.040 align:start position:0%
+getting very similar performance um with
+ 
+
+00:09:29.040 --> 00:09:31.350 align:start position:0%
+getting very similar performance um with
+the<00:09:29.399><c> corresponding</c><00:09:29.839><c> learning</c><00:09:30.240><c> parameter</c><00:09:31.240><c> and</c>
+
+00:09:31.350 --> 00:09:31.360 align:start position:0%
+the corresponding learning parameter and
+ 
+
+00:09:31.360 --> 00:09:33.350 align:start position:0%
+the corresponding learning parameter and
+then<00:09:31.560><c> of</c><00:09:31.680><c> course</c><00:09:31.920><c> the</c><00:09:32.079><c> metric</c><00:09:32.480><c> is</c><00:09:32.640><c> our</c>
+
+00:09:33.350 --> 00:09:33.360 align:start position:0%
+then of course the metric is our
+ 
+
+00:09:33.360 --> 00:09:35.550 align:start position:0%
+then of course the metric is our
+accuracy<00:09:34.360><c> and</c><00:09:34.680><c> one</c><00:09:34.839><c> of</c><00:09:34.959><c> the</c><00:09:35.079><c> things</c><00:09:35.279><c> that</c><00:09:35.440><c> we</c>
+
+00:09:35.550 --> 00:09:35.560 align:start position:0%
+accuracy and one of the things that we
+ 
+
+00:09:35.560 --> 00:09:38.350 align:start position:0%
+accuracy and one of the things that we
+would<00:09:35.760><c> like</c><00:09:35.959><c> to</c><00:09:36.519><c> point</c><00:09:36.839><c> out</c><00:09:37.079><c> in</c><00:09:37.480><c> U</c><00:09:37.920><c> in</c><00:09:38.120><c> this</c>
+
+00:09:38.350 --> 00:09:38.360 align:start position:0%
+would like to point out in U in this
+ 
+
+00:09:38.360 --> 00:09:40.310 align:start position:0%
+would like to point out in U in this
+kind<00:09:38.519><c> of</c><00:09:38.839><c> uh</c><00:09:39.000><c> convolution</c><00:09:39.480><c> and</c><00:09:39.680><c> networks</c><00:09:40.160><c> is</c>
+
+00:09:40.310 --> 00:09:40.320 align:start position:0%
+kind of uh convolution and networks is
+ 
+
+00:09:40.320 --> 00:09:42.990 align:start position:0%
+kind of uh convolution and networks is
+that<00:09:40.880><c> we</c><00:09:41.000><c> will</c><00:09:41.200><c> need</c><00:09:41.360><c> to</c><00:09:41.560><c> do</c><00:09:42.240><c> to</c><00:09:42.360><c> be</c><00:09:42.560><c> careful</c>
+
+00:09:42.990 --> 00:09:43.000 align:start position:0%
+that we will need to do to be careful
+ 
+
+00:09:43.000 --> 00:09:45.389 align:start position:0%
+that we will need to do to be careful
+when<00:09:43.200><c> we</c><00:09:43.600><c> uh</c><00:09:43.760><c> first</c><00:09:44.200><c> take</c><00:09:44.399><c> a</c><00:09:44.600><c> data</c><00:09:44.880><c> set</c><00:09:45.079><c> and</c><00:09:45.200><c> we</c>
+
+00:09:45.389 --> 00:09:45.399 align:start position:0%
+when we uh first take a data set and we
+ 
+
+00:09:45.399 --> 00:09:48.750 align:start position:0%
+when we uh first take a data set and we
+try<00:09:45.640><c> to</c><00:09:46.480><c> process</c><00:09:46.959><c> the</c><00:09:47.480><c> images</c><00:09:48.120><c> as</c><00:09:48.360><c> we</c><00:09:48.600><c> have</c>
+
+00:09:48.750 --> 00:09:48.760 align:start position:0%
+try to process the images as we have
+ 
+
+00:09:48.760 --> 00:09:51.350 align:start position:0%
+try to process the images as we have
+seen<00:09:49.480><c> the</c><00:09:49.640><c> images</c><00:09:50.120><c> are</c><00:09:50.480><c> typically</c><00:09:50.920><c> given</c><00:09:51.160><c> to</c>
+
+00:09:51.350 --> 00:09:51.360 align:start position:0%
+seen the images are typically given to
+ 
+
+00:09:51.360 --> 00:09:53.870 align:start position:0%
+seen the images are typically given to
+us<00:09:51.640><c> as</c><00:09:52.519><c> uh</c><00:09:52.640><c> with</c><00:09:52.839><c> pixels</c><00:09:53.279><c> corresponds</c><00:09:53.720><c> to</c>
+
+00:09:53.870 --> 00:09:53.880 align:start position:0%
+us as uh with pixels corresponds to
+ 
+
+00:09:53.880 --> 00:09:56.030 align:start position:0%
+us as uh with pixels corresponds to
+integer<00:09:54.279><c> numbers</c><00:09:54.640><c> so</c><00:09:54.800><c> we</c><00:09:55.000><c> have</c><00:09:55.160><c> to</c><00:09:55.880><c> uh</c>
+
+00:09:56.030 --> 00:09:56.040 align:start position:0%
+integer numbers so we have to uh
+ 
+
+00:09:56.040 --> 00:09:59.069 align:start position:0%
+integer numbers so we have to uh
+definitely<00:09:56.480><c> normalize</c><00:09:57.519><c> them</c><00:09:58.519><c> uh</c><00:09:58.640><c> we</c><00:09:58.800><c> have</c><00:09:58.920><c> to</c>
+
+00:09:59.069 --> 00:09:59.079 align:start position:0%
+definitely normalize them uh we have to
+ 
+
+00:09:59.079 --> 00:10:01.310 align:start position:0%
+definitely normalize them uh we have to
+B<00:09:59.640><c> them</c><00:10:00.000><c> we</c><00:10:00.120><c> have</c><00:10:00.240><c> to</c><00:10:00.399><c> do</c><00:10:00.519><c> a</c><00:10:00.640><c> lot</c><00:10:00.760><c> of</c><00:10:00.959><c> this</c><00:10:01.160><c> kind</c>
+
+00:10:01.310 --> 00:10:01.320 align:start position:0%
+B them we have to do a lot of this kind
+ 
+
+00:10:01.320 --> 00:10:04.310 align:start position:0%
+B them we have to do a lot of this kind
+of<00:10:02.399><c> transformations</c><00:10:03.399><c> in</c><00:10:03.519><c> order</c><00:10:03.760><c> for</c><00:10:03.920><c> us</c><00:10:04.079><c> to</c>
+
+00:10:04.310 --> 00:10:04.320 align:start position:0%
+of transformations in order for us to
+ 
+
+00:10:04.320 --> 00:10:07.630 align:start position:0%
+of transformations in order for us to
+produce<00:10:05.079><c> uh</c><00:10:05.320><c> the</c><00:10:05.640><c> um</c><00:10:05.959><c> the</c><00:10:06.200><c> right</c><00:10:06.880><c> uh</c><00:10:07.000><c> inputs</c>
+
+00:10:07.630 --> 00:10:07.640 align:start position:0%
+produce uh the um the right uh inputs
+ 
+
+00:10:07.640 --> 00:10:11.110 align:start position:0%
+produce uh the um the right uh inputs
+for<00:10:08.200><c> the</c><00:10:09.200><c> uh</c><00:10:09.320><c> for</c><00:10:09.600><c> for</c><00:10:09.760><c> our</c><00:10:10.000><c> Network</c><00:10:10.640><c> so</c><00:10:10.880><c> after</c>
+
+00:10:11.110 --> 00:10:11.120 align:start position:0%
+for the uh for for our Network so after
+ 
+
+00:10:11.120 --> 00:10:13.190 align:start position:0%
+for the uh for for our Network so after
+a<00:10:11.279><c> training</c><00:10:11.800><c> process</c><00:10:12.600><c> that</c><00:10:12.760><c> involves</c>
+
+00:10:13.190 --> 00:10:13.200 align:start position:0%
+a training process that involves
+ 
+
+00:10:13.200 --> 00:10:15.910 align:start position:0%
+a training process that involves
+multiple<00:10:13.760><c> epochs</c><00:10:14.200><c> as</c><00:10:14.360><c> we</c><00:10:14.519><c> would</c><00:10:14.800><c> expect</c><00:10:15.720><c> we</c>
+
+00:10:15.910 --> 00:10:15.920 align:start position:0%
+multiple epochs as we would expect we
+ 
+
+00:10:15.920 --> 00:10:19.389 align:start position:0%
+multiple epochs as we would expect we
+have<00:10:16.320><c> a</c><00:10:16.560><c> model</c><00:10:17.560><c> and</c><00:10:18.000><c> uh</c><00:10:18.120><c> we</c><00:10:18.240><c> can</c><00:10:18.440><c> actually</c><00:10:18.800><c> plot</c>
+
+00:10:19.389 --> 00:10:19.399 align:start position:0%
+have a model and uh we can actually plot
+ 
+
+00:10:19.399 --> 00:10:21.710 align:start position:0%
+have a model and uh we can actually plot
+the<00:10:19.720><c> uh</c><00:10:19.880><c> training</c><00:10:20.480><c> and</c>
+
+00:10:21.710 --> 00:10:21.720 align:start position:0%
+the uh training and
+ 
+
+00:10:21.720 --> 00:10:23.630 align:start position:0%
+the uh training and
+validation<00:10:22.720><c> uh</c>
+
+00:10:23.630 --> 00:10:23.640 align:start position:0%
+validation uh
+ 
+
+00:10:23.640 --> 00:10:26.509 align:start position:0%
+validation uh
+loss<00:10:24.640><c> as</c><00:10:24.800><c> well</c><00:10:25.040><c> also</c><00:10:25.480><c> the</c><00:10:25.720><c> corresponding</c><00:10:26.320><c> kind</c>
+
+00:10:26.509 --> 00:10:26.519 align:start position:0%
+loss as well also the corresponding kind
+ 
+
+00:10:26.519 --> 00:10:29.310 align:start position:0%
+loss as well also the corresponding kind
+of<00:10:26.760><c> accuracy</c><00:10:27.760><c> and</c><00:10:27.920><c> look</c><00:10:28.120><c> at</c><00:10:28.360><c> the</c><00:10:28.880><c> corresp</c>
+
+00:10:29.310 --> 00:10:29.320 align:start position:0%
+of accuracy and look at the corresp
+ 
+
+00:10:29.320 --> 00:10:31.750 align:start position:0%
+of accuracy and look at the corresp
+responding<00:10:29.760><c> loss</c><00:10:30.079><c> over</c><00:10:30.440><c> here</c><00:10:30.959><c> plot</c><00:10:31.399><c> as</c><00:10:31.600><c> the</c>
+
+00:10:31.750 --> 00:10:31.760 align:start position:0%
+responding loss over here plot as the
+ 
+
+00:10:31.760 --> 00:10:35.389 align:start position:0%
+responding loss over here plot as the
+number<00:10:32.000><c> of</c><00:10:32.600><c> epochs</c><00:10:33.600><c> and</c><00:10:34.079><c> uh</c><00:10:34.519><c> remember</c><00:10:35.040><c> what</c><00:10:35.240><c> we</c>
+
+00:10:35.389 --> 00:10:35.399 align:start position:0%
+number of epochs and uh remember what we
+ 
+
+00:10:35.399 --> 00:10:38.230 align:start position:0%
+number of epochs and uh remember what we
+have<00:10:35.600><c> said</c><00:10:36.079><c> in</c><00:10:36.320><c> at</c><00:10:36.560><c> the</c><00:10:36.800><c> another</c><00:10:37.279><c> video</c>
+
+00:10:38.230 --> 00:10:38.240 align:start position:0%
+have said in at the another video
+ 
+
+00:10:38.240 --> 00:10:41.430 align:start position:0%
+have said in at the another video
+regarding<00:10:39.240><c> uh</c><00:10:39.440><c> the</c><00:10:39.800><c> uh</c><00:10:40.360><c> condition</c><00:10:40.760><c> of</c>
+
+00:10:41.430 --> 00:10:41.440 align:start position:0%
+regarding uh the uh condition of
+ 
+
+00:10:41.440 --> 00:10:43.430 align:start position:0%
+regarding uh the uh condition of
+overfitting<00:10:42.360><c> and</c><00:10:42.720><c> at</c><00:10:42.880><c> that</c><00:10:43.040><c> time</c><00:10:43.240><c> the</c>
+
+00:10:43.430 --> 00:10:43.440 align:start position:0%
+overfitting and at that time the
+ 
+
+00:10:43.440 --> 00:10:46.590 align:start position:0%
+overfitting and at that time the
+discussion<00:10:44.040><c> was</c><00:10:45.040><c> an</c><00:10:45.279><c> example</c><00:10:45.720><c> of</c><00:10:46.120><c> a</c><00:10:46.240><c> linear</c>
+
+00:10:46.590 --> 00:10:46.600 align:start position:0%
+discussion was an example of a linear
+ 
+
+00:10:46.600 --> 00:10:49.190 align:start position:0%
+discussion was an example of a linear
+model<00:10:46.920><c> on</c><00:10:47.040><c> the</c><00:10:47.200><c> regression</c><00:10:47.760><c> task</c><00:10:48.720><c> over</c><00:10:49.000><c> here</c>
+
+00:10:49.190 --> 00:10:49.200 align:start position:0%
+model on the regression task over here
+ 
+
+00:10:49.200 --> 00:10:51.990 align:start position:0%
+model on the regression task over here
+we<00:10:49.360><c> have</c><00:10:49.480><c> a</c><00:10:49.639><c> classification</c><00:10:50.399><c> task</c><00:10:50.800><c> but</c><00:10:51.399><c> the</c>
+
+00:10:51.990 --> 00:10:52.000 align:start position:0%
+we have a classification task but the
+ 
+
+00:10:52.000 --> 00:10:53.910 align:start position:0%
+we have a classification task but the
+the<00:10:52.200><c> sort</c><00:10:52.440><c> of</c><00:10:52.600><c> problem</c><00:10:52.880><c> of</c><00:10:53.040><c> over</c><00:10:53.320><c> fitting</c><00:10:53.639><c> is</c>
+
+00:10:53.910 --> 00:10:53.920 align:start position:0%
+the sort of problem of over fitting is
+ 
+
+00:10:53.920 --> 00:10:57.350 align:start position:0%
+the sort of problem of over fitting is
+present<00:10:54.920><c> in</c><00:10:55.360><c> across</c><00:10:55.800><c> tasks</c><00:10:56.399><c> in</c><00:10:56.639><c> in</c><00:10:56.880><c> in</c><00:10:57.040><c> machine</c>
+
+00:10:57.350 --> 00:10:57.360 align:start position:0%
+present in across tasks in in in machine
+ 
+
+00:10:57.360 --> 00:10:59.910 align:start position:0%
+present in across tasks in in in machine
+learning<00:10:57.839><c> so</c><00:10:58.079><c> we</c><00:10:58.279><c> see</c><00:10:58.959><c> some</c><00:10:59.560><c> quite</c>
+
+00:10:59.910 --> 00:10:59.920 align:start position:0%
+learning so we see some quite
+ 
+
+00:10:59.920 --> 00:11:02.509 align:start position:0%
+learning so we see some quite
+significant<00:11:00.880><c> difference</c><00:11:01.880><c> uh</c><00:11:02.079><c> between</c>
+
+00:11:02.509 --> 00:11:02.519 align:start position:0%
+significant difference uh between
+ 
+
+00:11:02.519 --> 00:11:05.670 align:start position:0%
+significant difference uh between
+training<00:11:02.880><c> and</c><00:11:03.480><c> validation</c><00:11:04.480><c> as</c><00:11:04.720><c> the</c><00:11:05.040><c> accuracy</c>
+
+00:11:05.670 --> 00:11:05.680 align:start position:0%
+training and validation as the accuracy
+ 
+
+00:11:05.680 --> 00:11:06.550 align:start position:0%
+training and validation as the accuracy
+is
+
+00:11:06.550 --> 00:11:06.560 align:start position:0%
+is
+ 
+
+00:11:06.560 --> 00:11:08.910 align:start position:0%
+is
+improving<00:11:07.560><c> and</c><00:11:07.720><c> that</c><00:11:07.880><c> is</c><00:11:08.079><c> really</c><00:11:08.639><c> what</c><00:11:08.800><c> we</c>
+
+00:11:08.910 --> 00:11:08.920 align:start position:0%
+improving and that is really what we
+ 
+
+00:11:08.920 --> 00:11:12.470 align:start position:0%
+improving and that is really what we
+have<00:11:09.079><c> said</c><00:11:09.440><c> earlier</c><00:11:10.000><c> as</c><00:11:10.200><c> an</c><00:11:10.680><c> a</c><00:11:10.920><c> good</c><00:11:11.480><c> indicator</c>
+
+00:11:12.470 --> 00:11:12.480 align:start position:0%
+have said earlier as an a good indicator
+ 
+
+00:11:12.480 --> 00:11:15.750 align:start position:0%
+have said earlier as an a good indicator
+of<00:11:12.880><c> overfitting</c><00:11:13.880><c> okay</c><00:11:14.120><c> so</c><00:11:15.000><c> uh</c><00:11:15.120><c> it</c><00:11:15.279><c> seems</c><00:11:15.519><c> that</c>
+
+00:11:15.750 --> 00:11:15.760 align:start position:0%
+of overfitting okay so uh it seems that
+ 
+
+00:11:15.760 --> 00:11:18.269 align:start position:0%
+of overfitting okay so uh it seems that
+the<00:11:16.760><c> um</c><00:11:16.959><c> Network</c><00:11:17.440><c> that</c><00:11:17.600><c> we</c><00:11:17.720><c> have</c><00:11:17.880><c> designed</c>
+
+00:11:18.269 --> 00:11:18.279 align:start position:0%
+the um Network that we have designed
+ 
+
+00:11:18.279 --> 00:11:20.350 align:start position:0%
+the um Network that we have designed
+over<00:11:18.560><c> here</c><00:11:18.839><c> overfits</c><00:11:19.480><c> the</c><00:11:19.639><c> data</c><00:11:19.920><c> set</c><00:11:20.120><c> we</c><00:11:20.200><c> are</c>
+
+00:11:20.350 --> 00:11:20.360 align:start position:0%
+over here overfits the data set we are
+ 
+
+00:11:20.360 --> 00:11:22.269 align:start position:0%
+over here overfits the data set we are
+given<00:11:20.680><c> and</c><00:11:21.040><c> it</c><00:11:21.120><c> shouldn't</c><00:11:21.519><c> be</c><00:11:21.720><c> a</c><00:11:21.920><c> complete</c>
+
+00:11:22.269 --> 00:11:22.279 align:start position:0%
+given and it shouldn't be a complete
+ 
+
+00:11:22.279 --> 00:11:24.710 align:start position:0%
+given and it shouldn't be a complete
+surprise<00:11:22.760><c> to</c><00:11:22.959><c> us</c><00:11:23.760><c> given</c><00:11:24.120><c> the</c><00:11:24.279><c> fact</c><00:11:24.480><c> that</c><00:11:24.600><c> we</c>
+
+00:11:24.710 --> 00:11:24.720 align:start position:0%
+surprise to us given the fact that we
+ 
+
+00:11:24.720 --> 00:11:27.389 align:start position:0%
+surprise to us given the fact that we
+are<00:11:24.880><c> throwing</c><00:11:25.519><c> a</c><00:11:25.880><c> significant</c><00:11:26.440><c> number</c><00:11:26.680><c> of</c>
+
+00:11:27.389 --> 00:11:27.399 align:start position:0%
+are throwing a significant number of
+ 
+
+00:11:27.399 --> 00:11:30.350 align:start position:0%
+are throwing a significant number of
+parameters<00:11:28.399><c> um</c><00:11:28.600><c> in</c><00:11:28.839><c> um</c>
+
+00:11:30.350 --> 00:11:30.360 align:start position:0%
+parameters um in um
+ 
+
+00:11:30.360 --> 00:11:33.030 align:start position:0%
+parameters um in um
+in<00:11:30.600><c> a</c><00:11:31.240><c> network</c><00:11:31.760><c> in</c><00:11:31.880><c> a</c><00:11:32.040><c> data</c><00:11:32.279><c> set</c><00:11:32.519><c> which</c><00:11:32.720><c> only</c>
+
+00:11:33.030 --> 00:11:33.040 align:start position:0%
+in a network in a data set which only
+ 
+
+00:11:33.040 --> 00:11:37.150 align:start position:0%
+in a network in a data set which only
+has<00:11:33.920><c> a</c><00:11:34.079><c> th000</c><00:11:34.399><c> labels</c><00:11:34.839><c> per</c><00:11:35.120><c> class</c><00:11:36.120><c> and</c><00:11:36.279><c> so</c><00:11:37.040><c> uh</c>
+
+00:11:37.150 --> 00:11:37.160 align:start position:0%
+has a th000 labels per class and so uh
+ 
+
+00:11:37.160 --> 00:11:39.069 align:start position:0%
+has a th000 labels per class and so uh
+we<00:11:37.360><c> can</c><00:11:37.519><c> actually</c><00:11:37.839><c> engage</c><00:11:38.440><c> any</c><00:11:38.680><c> of</c><00:11:38.839><c> the</c>
+
+00:11:39.069 --> 00:11:39.079 align:start position:0%
+we can actually engage any of the
+ 
+
+00:11:39.079 --> 00:11:41.110 align:start position:0%
+we can actually engage any of the
+techniques<00:11:39.480><c> that</c><00:11:39.639><c> we</c><00:11:39.800><c> have</c><00:11:39.920><c> seen</c><00:11:40.360><c> in</c>
+
+00:11:41.110 --> 00:11:41.120 align:start position:0%
+techniques that we have seen in
+ 
+
+00:11:41.120 --> 00:11:43.430 align:start position:0%
+techniques that we have seen in
+overfitting<00:11:42.120><c> uh</c><00:11:42.240><c> to</c><00:11:42.440><c> address</c><00:11:42.760><c> overfitting</c>
+
+00:11:43.430 --> 00:11:43.440 align:start position:0%
+overfitting uh to address overfitting
+ 
+
+00:11:43.440 --> 00:11:45.470 align:start position:0%
+overfitting uh to address overfitting
+such<00:11:43.639><c> as</c><00:11:43.839><c> weight</c><00:11:44.120><c> Decay</c><00:11:44.959><c> any</c><00:11:45.160><c> of</c><00:11:45.360><c> the</c>
+
+00:11:45.470 --> 00:11:45.480 align:start position:0%
+such as weight Decay any of the
+ 
+
+00:11:45.480 --> 00:11:47.550 align:start position:0%
+such as weight Decay any of the
+regularization<00:11:46.240><c> techniques</c><00:11:47.160><c> that</c><00:11:47.320><c> we</c><00:11:47.440><c> have</c>
+
+00:11:47.550 --> 00:11:47.560 align:start position:0%
+regularization techniques that we have
+ 
+
+00:11:47.560 --> 00:11:49.230 align:start position:0%
+regularization techniques that we have
+seen<00:11:47.760><c> also</c><00:11:47.920><c> in</c><00:11:48.040><c> neuron</c><00:11:48.360><c> networks</c><00:11:48.800><c> to</c><00:11:49.079><c> to</c>
+
+00:11:49.230 --> 00:11:49.240 align:start position:0%
+seen also in neuron networks to to
+ 
+
+00:11:49.240 --> 00:11:51.030 align:start position:0%
+seen also in neuron networks to to
+address<00:11:49.560><c> it</c><00:11:49.800><c> but</c><00:11:49.920><c> in</c><00:11:50.120><c> computer</c><00:11:50.519><c> vision</c><00:11:50.880><c> we</c>
+
+00:11:51.030 --> 00:11:51.040 align:start position:0%
+address it but in computer vision we
+ 
+
+00:11:51.040 --> 00:11:53.389 align:start position:0%
+address it but in computer vision we
+have<00:11:51.320><c> something</c><00:11:52.200><c> else</c><00:11:52.600><c> that</c><00:11:52.760><c> could</c><00:11:53.000><c> actually</c>
+
+00:11:53.389 --> 00:11:53.399 align:start position:0%
+have something else that could actually
+ 
+
+00:11:53.399 --> 00:11:56.269 align:start position:0%
+have something else that could actually
+help<00:11:53.720><c> us</c><00:11:54.040><c> and</c><00:11:54.240><c> this</c><00:11:54.440><c> is</c><00:11:54.720><c> actually</c><00:11:55.360><c> called</c><00:11:55.720><c> the</c>
+
+00:11:56.269 --> 00:11:56.279 align:start position:0%
+help us and this is actually called the
+ 
+
+00:11:56.279 --> 00:11:58.550 align:start position:0%
+help us and this is actually called the
+documentation<00:11:57.279><c> so</c><00:11:57.440><c> I</c><00:11:57.560><c> think</c><00:11:57.680><c> it's</c><00:11:57.920><c> worthwhile</c>
+
+00:11:58.550 --> 00:11:58.560 align:start position:0%
+documentation so I think it's worthwhile
+ 
+
+00:11:58.560 --> 00:12:00.150 align:start position:0%
+documentation so I think it's worthwhile
+going<00:11:58.920><c> through</c>
+
+00:12:00.150 --> 00:12:00.160 align:start position:0%
+going through
+ 
+
+00:12:00.160 --> 00:12:03.190 align:start position:0%
+going through
+uh<00:12:00.440><c> the</c><00:12:01.360><c> data</c><00:12:01.639><c> augmentation</c><00:12:02.240><c> because</c><00:12:02.480><c> it</c><00:12:02.600><c> is</c>
+
+00:12:03.190 --> 00:12:03.200 align:start position:0%
+uh the data augmentation because it is
+ 
+
+00:12:03.200 --> 00:12:05.310 align:start position:0%
+uh the data augmentation because it is
+really<00:12:03.480><c> a</c><00:12:03.680><c> fairly</c><00:12:04.120><c> straightforward</c><00:12:05.040><c> and</c>
+
+00:12:05.310 --> 00:12:05.320 align:start position:0%
+really a fairly straightforward and
+ 
+
+00:12:05.320 --> 00:12:07.710 align:start position:0%
+really a fairly straightforward and
+widely<00:12:05.760><c> used</c><00:12:06.240><c> approach</c><00:12:06.760><c> to</c><00:12:07.079><c> avoid</c><00:12:07.519><c> the</c>
+
+00:12:07.710 --> 00:12:07.720 align:start position:0%
+widely used approach to avoid the
+ 
+
+00:12:07.720 --> 00:12:09.470 align:start position:0%
+widely used approach to avoid the
+situation<00:12:08.279><c> such</c><00:12:08.480><c> as</c><00:12:08.680><c> this</c><00:12:08.959><c> where</c><00:12:09.120><c> we</c><00:12:09.279><c> have</c>
+
+00:12:09.470 --> 00:12:09.480 align:start position:0%
+situation such as this where we have
+ 
+
+00:12:09.480 --> 00:12:11.790 align:start position:0%
+situation such as this where we have
+overfeeding<00:12:10.399><c> so</c><00:12:10.560><c> in</c><00:12:10.680><c> that</c><00:12:10.920><c> augmentation</c><00:12:11.639><c> what</c>
+
+00:12:11.790 --> 00:12:11.800 align:start position:0%
+overfeeding so in that augmentation what
+ 
+
+00:12:11.800 --> 00:12:14.509 align:start position:0%
+overfeeding so in that augmentation what
+we<00:12:12.000><c> actually</c><00:12:12.279><c> do</c><00:12:13.040><c> we</c><00:12:13.240><c> are</c><00:12:13.560><c> taking</c><00:12:13.920><c> the</c><00:12:14.120><c> input</c>
+
+00:12:14.509 --> 00:12:14.519 align:start position:0%
+we actually do we are taking the input
+ 
+
+00:12:14.519 --> 00:12:16.910 align:start position:0%
+we actually do we are taking the input
+images<00:12:15.480><c> and</c><00:12:15.639><c> given</c><00:12:15.920><c> the</c><00:12:16.079><c> fact</c><00:12:16.240><c> that</c><00:12:16.399><c> we</c><00:12:16.600><c> have</c>
+
+00:12:16.910 --> 00:12:16.920 align:start position:0%
+images and given the fact that we have
+ 
+
+00:12:16.920 --> 00:12:19.030 align:start position:0%
+images and given the fact that we have
+the<00:12:17.199><c> knowledge</c><00:12:17.600><c> of</c><00:12:17.720><c> the</c><00:12:17.920><c> class</c><00:12:18.279><c> we</c><00:12:18.519><c> try</c><00:12:18.800><c> to</c>
+
+00:12:19.030 --> 00:12:19.040 align:start position:0%
+the knowledge of the class we try to
+ 
+
+00:12:19.040 --> 00:12:21.470 align:start position:0%
+the knowledge of the class we try to
+transform<00:12:19.639><c> these</c><00:12:19.839><c> input</c><00:12:20.240><c> images</c><00:12:20.680><c> in</c><00:12:20.959><c> creating</c>
+
+00:12:21.470 --> 00:12:21.480 align:start position:0%
+transform these input images in creating
+ 
+
+00:12:21.480 --> 00:12:24.150 align:start position:0%
+transform these input images in creating
+more<00:12:21.839><c> data</c><00:12:22.680><c> so</c><00:12:22.920><c> that's</c><00:12:23.240><c> the</c><00:12:23.360><c> an</c><00:12:23.519><c> artificial</c>
+
+00:12:24.150 --> 00:12:24.160 align:start position:0%
+more data so that's the an artificial
+ 
+
+00:12:24.160 --> 00:12:25.990 align:start position:0%
+more data so that's the an artificial
+way<00:12:24.320><c> of</c><00:12:24.480><c> increasing</c><00:12:25.000><c> the</c><00:12:25.120><c> number</c><00:12:25.360><c> of</c><00:12:25.560><c> labels</c>
+
+00:12:25.990 --> 00:12:26.000 align:start position:0%
+way of increasing the number of labels
+ 
+
+00:12:26.000 --> 00:12:28.670 align:start position:0%
+way of increasing the number of labels
+we<00:12:26.120><c> have</c><00:12:26.279><c> in</c><00:12:26.399><c> our</c><00:12:26.680><c> data</c><00:12:26.959><c> set</c><00:12:27.839><c> we</c><00:12:28.240><c> we</c><00:12:28.440><c> have</c>
+
+00:12:28.670 --> 00:12:28.680 align:start position:0%
+we have in our data set we we have
+ 
+
+00:12:28.680 --> 00:12:30.509 align:start position:0%
+we have in our data set we we have
+various<00:12:29.000><c> kind</c><00:12:29.240><c> of</c><00:12:29.360><c> Transformations</c><00:12:30.199><c> we</c><00:12:30.320><c> may</c>
+
+00:12:30.509 --> 00:12:30.519 align:start position:0%
+various kind of Transformations we may
+ 
+
+00:12:30.519 --> 00:12:34.670 align:start position:0%
+various kind of Transformations we may
+be<00:12:31.120><c> shifting</c><00:12:31.839><c> rotating</c><00:12:32.360><c> images</c><00:12:32.920><c> we</c><00:12:33.079><c> may</c>
+
+00:12:34.670 --> 00:12:34.680 align:start position:0%
+be shifting rotating images we may
+ 
+
+00:12:34.680 --> 00:12:37.910 align:start position:0%
+be shifting rotating images we may
+sharing<00:12:35.680><c> uh</c><00:12:36.160><c> the</c><00:12:36.399><c> image</c><00:12:37.040><c> uh</c><00:12:37.279><c> we</c><00:12:37.440><c> have</c><00:12:37.639><c> we</c><00:12:37.760><c> are</c>
+
+00:12:37.910 --> 00:12:37.920 align:start position:0%
+sharing uh the image uh we have we are
+ 
+
+00:12:37.920 --> 00:12:40.829 align:start position:0%
+sharing uh the image uh we have we are
+zooming<00:12:38.320><c> in</c><00:12:38.639><c> zooming</c><00:12:39.040><c> out</c><00:12:40.040><c> uh</c><00:12:40.240><c> and</c><00:12:40.680><c> uh</c>
+
+00:12:40.829 --> 00:12:40.839 align:start position:0%
+zooming in zooming out uh and uh
+ 
+
+00:12:40.839 --> 00:12:43.509 align:start position:0%
+zooming in zooming out uh and uh
+flipping<00:12:41.639><c> and</c><00:12:41.839><c> so</c><00:12:42.040><c> on</c><00:12:42.680><c> we</c><00:12:42.839><c> are</c><00:12:43.160><c> definitely</c>
+
+00:12:43.509 --> 00:12:43.519 align:start position:0%
+flipping and so on we are definitely
+ 
+
+00:12:43.519 --> 00:12:47.949 align:start position:0%
+flipping and so on we are definitely
+going<00:12:43.680><c> to</c><00:12:43.839><c> be</c><00:12:44.040><c> creating</c><00:12:44.639><c> some</c><00:12:45.079><c> uh</c><00:12:46.160><c> nasty</c><00:12:47.160><c> uh</c>
+
+00:12:47.949 --> 00:12:47.959 align:start position:0%
+going to be creating some uh nasty uh
+ 
+
+00:12:47.959 --> 00:12:51.509 align:start position:0%
+going to be creating some uh nasty uh
+cats<00:12:48.959><c> um</c><00:12:49.399><c> or</c><00:12:49.639><c> dogs</c><00:12:50.440><c> uh</c><00:12:50.600><c> but</c><00:12:50.880><c> definitely</c><00:12:51.320><c> this</c>
+
+00:12:51.509 --> 00:12:51.519 align:start position:0%
+cats um or dogs uh but definitely this
+ 
+
+00:12:51.519 --> 00:12:55.230 align:start position:0%
+cats um or dogs uh but definitely this
+helps<00:12:52.000><c> our</c><00:12:52.399><c> Network</c><00:12:53.000><c> to</c><00:12:53.360><c> not</c><00:12:53.800><c> overfit</c><00:12:54.800><c> and</c><00:12:54.959><c> so</c>
+
+00:12:55.230 --> 00:12:55.240 align:start position:0%
+helps our Network to not overfit and so
+ 
+
+00:12:55.240 --> 00:12:58.150 align:start position:0%
+helps our Network to not overfit and so
+if<00:12:55.399><c> you</c><00:12:55.680><c> are</c><00:12:55.959><c> to</c><00:12:56.680><c> just</c><00:12:56.959><c> keep</c><00:12:57.279><c> the</c><00:12:57.519><c> exactly</c><00:12:58.000><c> the</c>
+
+00:12:58.150 --> 00:12:58.160 align:start position:0%
+if you are to just keep the exactly the
+ 
+
+00:12:58.160 --> 00:13:00.470 align:start position:0%
+if you are to just keep the exactly the
+same<00:12:58.600><c> network</c><00:12:59.160><c> chitecture</c><00:12:59.680><c> as</c><00:12:59.839><c> we</c><00:12:59.959><c> have</c><00:13:00.120><c> seen</c>
+
+00:13:00.470 --> 00:13:00.480 align:start position:0%
+same network chitecture as we have seen
+ 
+
+00:13:00.480 --> 00:13:03.509 align:start position:0%
+same network chitecture as we have seen
+earlier<00:13:01.440><c> not</c><00:13:01.800><c> not</c><00:13:02.000><c> touch</c><00:13:02.240><c> at</c><00:13:02.399><c> all</c><00:13:02.600><c> the</c><00:13:02.760><c> model</c>
+
+00:13:03.509 --> 00:13:03.519 align:start position:0%
+earlier not not touch at all the model
+ 
+
+00:13:03.519 --> 00:13:05.990 align:start position:0%
+earlier not not touch at all the model
+but<00:13:03.920><c> definitely</c><00:13:04.399><c> train</c><00:13:04.800><c> the</c><00:13:04.920><c> model</c><00:13:05.399><c> with</c><00:13:05.680><c> this</c>
+
+00:13:05.990 --> 00:13:06.000 align:start position:0%
+but definitely train the model with this
+ 
+
+00:13:06.000 --> 00:13:09.629 align:start position:0%
+but definitely train the model with this
+additional<00:13:06.639><c> kind</c><00:13:06.839><c> of</c><00:13:07.120><c> uh</c><00:13:07.440><c> data</c><00:13:07.800><c> set</c><00:13:08.680><c> uh</c><00:13:08.880><c> then</c>
+
+00:13:09.629 --> 00:13:09.639 align:start position:0%
+additional kind of uh data set uh then
+ 
+
+00:13:09.639 --> 00:13:13.509 align:start position:0%
+additional kind of uh data set uh then
+uh<00:13:10.639><c> uh</c><00:13:11.079><c> look</c><00:13:11.360><c> what</c><00:13:11.560><c> happened</c><00:13:12.240><c> uh</c><00:13:12.399><c> we</c><00:13:12.600><c> have</c><00:13:13.320><c> a</c>
+
+00:13:13.509 --> 00:13:13.519 align:start position:0%
+uh uh look what happened uh we have a
+ 
+
+00:13:13.519 --> 00:13:16.310 align:start position:0%
+uh uh look what happened uh we have a
+training<00:13:13.920><c> and</c><00:13:14.160><c> validation</c><00:13:14.800><c> loss</c><00:13:15.480><c> which</c><00:13:15.680><c> are</c>
+
+00:13:16.310 --> 00:13:16.320 align:start position:0%
+training and validation loss which are
+ 
+
+00:13:16.320 --> 00:13:18.509 align:start position:0%
+training and validation loss which are
+very<00:13:16.600><c> close</c><00:13:16.880><c> to</c><00:13:17.079><c> each</c><00:13:17.240><c> other</c><00:13:17.720><c> so</c><00:13:17.920><c> we</c><00:13:18.199><c> actually</c>
+
+00:13:18.509 --> 00:13:18.519 align:start position:0%
+very close to each other so we actually
+ 
+
+00:13:18.519 --> 00:13:21.590 align:start position:0%
+very close to each other so we actually
+have<00:13:18.720><c> solved</c><00:13:19.680><c> the</c><00:13:20.040><c> uh</c><00:13:20.160><c> overfeeding</c><00:13:20.959><c> problem</c>
+
+00:13:21.590 --> 00:13:21.600 align:start position:0%
+have solved the uh overfeeding problem
+ 
+
+00:13:21.600 --> 00:13:24.990 align:start position:0%
+have solved the uh overfeeding problem
+and<00:13:21.880><c> our</c><00:13:22.480><c> accuracy</c><00:13:23.480><c> is</c><00:13:24.000><c> uh</c><00:13:24.120><c> both</c><00:13:24.440><c> in</c><00:13:24.560><c> terms</c><00:13:24.839><c> of</c>
+
+00:13:24.990 --> 00:13:25.000 align:start position:0%
+and our accuracy is uh both in terms of
+ 
+
+00:13:25.000 --> 00:13:27.150 align:start position:0%
+and our accuracy is uh both in terms of
+training<00:13:25.360><c> and</c><00:13:25.560><c> validation</c><00:13:26.320><c> are</c><00:13:26.519><c> also</c><00:13:26.880><c> very</c>
+
+00:13:27.150 --> 00:13:27.160 align:start position:0%
+training and validation are also very
+ 
+
+00:13:27.160 --> 00:13:29.949 align:start position:0%
+training and validation are also very
+close<00:13:28.120><c> and</c><00:13:28.519><c> close</c><00:13:28.760><c> to</c><00:13:28.920><c> some</c><00:13:29.120><c> something</c><00:13:29.360><c> like</c>
+
+00:13:29.949 --> 00:13:29.959 align:start position:0%
+close and close to some something like
+ 
+
+00:13:29.959 --> 00:13:32.189 align:start position:0%
+close and close to some something like
+85%<00:13:30.959><c> okay</c><00:13:31.120><c> so</c><00:13:31.240><c> I</c><00:13:31.360><c> think</c><00:13:31.519><c> this</c><00:13:31.639><c> is</c><00:13:31.720><c> a</c><00:13:31.920><c> good</c>
+
+00:13:32.189 --> 00:13:32.199 align:start position:0%
+85% okay so I think this is a good
+ 
+
+00:13:32.199 --> 00:13:37.710 align:start position:0%
+85% okay so I think this is a good
+example<00:13:33.040><c> to</c><00:13:33.240><c> showcase</c><00:13:34.000><c> the</c><00:13:34.360><c> U</c><00:13:35.320><c> uh</c><00:13:35.600><c> CNN</c><00:13:36.720><c> models</c>
+
+00:13:37.710 --> 00:13:37.720 align:start position:0%
+example to showcase the U uh CNN models
+ 
+
+00:13:37.720 --> 00:13:40.310 align:start position:0%
+example to showcase the U uh CNN models
+uh<00:13:37.920><c> as</c><00:13:38.160><c> a</c><00:13:38.519><c> as</c><00:13:38.680><c> working</c><00:13:39.120><c> for</c><00:13:39.480><c> the</c><00:13:39.680><c> simple</c><00:13:40.040><c> task</c>
+
+00:13:40.310 --> 00:13:40.320 align:start position:0%
+uh as a as working for the simple task
+ 
+
+00:13:40.320 --> 00:13:42.829 align:start position:0%
+uh as a as working for the simple task
+of<00:13:40.519><c> image</c><00:13:41.160><c> classification</c><00:13:42.160><c> and</c><00:13:42.360><c> what</c><00:13:42.560><c> we</c>
+
+00:13:42.829 --> 00:13:42.839 align:start position:0%
+of image classification and what we
+ 
+
+00:13:42.839 --> 00:13:45.269 align:start position:0%
+of image classification and what we
+actually<00:13:43.240><c> also</c><00:13:43.560><c> would</c><00:13:43.760><c> like</c><00:13:44.000><c> to</c><00:13:44.959><c> understand</c>
+
+00:13:45.269 --> 00:13:45.279 align:start position:0%
+actually also would like to understand
+ 
+
+00:13:45.279 --> 00:13:48.310 align:start position:0%
+actually also would like to understand
+now<00:13:45.560><c> next</c><00:13:46.079><c> is</c><00:13:46.839><c> um</c><00:13:47.079><c> what</c><00:13:47.240><c> we</c><00:13:47.399><c> have</c><00:13:47.560><c> said</c><00:13:47.839><c> earlier</c>
+
+00:13:48.310 --> 00:13:48.320 align:start position:0%
+now next is um what we have said earlier
+ 
+
+00:13:48.320 --> 00:13:51.590 align:start position:0%
+now next is um what we have said earlier
+about<00:13:49.160><c> Hey</c><00:13:49.519><c> what</c><00:13:50.399><c> how</c><00:13:50.600><c> can</c><00:13:50.720><c> we</c><00:13:50.959><c> have</c><00:13:51.160><c> some</c><00:13:51.440><c> kind</c>
+
+00:13:51.590 --> 00:13:51.600 align:start position:0%
+about Hey what how can we have some kind
+ 
+
+00:13:51.600 --> 00:13:54.910 align:start position:0%
+about Hey what how can we have some kind
+of<00:13:52.240><c> visualization</c><00:13:53.240><c> into</c><00:13:53.920><c> the</c><00:13:54.160><c> internals</c><00:13:54.720><c> of</c>
+
+00:13:54.910 --> 00:13:54.920 align:start position:0%
+of visualization into the internals of
+ 
+
+00:13:54.920 --> 00:13:57.749 align:start position:0%
+of visualization into the internals of
+the<00:13:55.040><c> CNN</c><00:13:55.519><c> to</c><00:13:56.040><c> understand</c><00:13:56.360><c> what</c><00:13:56.519><c> is</c><00:13:57.079><c> uh</c><00:13:57.399><c> what</c><00:13:57.560><c> is</c>
+
+00:13:57.749 --> 00:13:57.759 align:start position:0%
+the CNN to understand what is uh what is
+ 
+
+00:13:57.759 --> 00:13:59.670 align:start position:0%
+the CNN to understand what is uh what is
+actually<00:13:58.040><c> learning</c><00:13:58.880><c> and</c><00:13:59.120><c> and</c><00:13:59.240><c> this</c><00:13:59.360><c> is</c><00:13:59.519><c> what</c>
+
+00:13:59.670 --> 00:13:59.680 align:start position:0%
+actually learning and and this is what
+ 
+
+00:13:59.680 --> 00:14:03.920 align:start position:0%
+actually learning and and this is what
+we<00:13:59.800><c> will</c><00:14:00.199><c> be</c><00:14:00.399><c> discussing</c><00:14:01.000><c> next</c>
+

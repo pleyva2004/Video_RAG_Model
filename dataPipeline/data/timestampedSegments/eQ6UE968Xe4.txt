@@ -1,0 +1,9 @@
+00:00:00.960 - 00:00:30.000 | Classification task introduction
+we have seen earlier the regression problem where we have effectively to model a conditional probability distribution at the output of our predictor now we actually switching to a new task it's a classification task where again we will solve this task using The Vaping block diagram again we will need to model our predictor with a conditional probability distribution but in classification our Target variables are distinct and discrete random variables rather than continues
+
+00:00:30.840 - 00:01:26.400 | Radar problem use case
+so in this kind of setting I'll motivate the classification task with a simple use case is actually going to be called the radar problem and we'll that's what we will start with next in this setting the use case the application we will see is a well-known application back in the Second World War the Battle of England was W primarily from the erection of these towers this was actually called the radar Towers whose job is was to transmit a signal towards the France where from France the Nazi airplanes were coming in to bomb London
+
+00:01:27.400 - 00:02:19.879 | Radar system description
+and the every time that the this waveform was impinging into some large object on the sky like a plane it was returning back into what we call the radar receiver and there was kind of a human operator over there in on the on each kind of Tower with an access to a kind of a telephone device over there and every time that there was a strong return of a strong signal that was received in the radar kind of a receiver antenna it was he was calling London and millions of people were well the sirens were sounding and millions of people were actually running to the tubes stations to tube stations to save their lives
+
