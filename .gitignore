@@ -398,3 +398,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+<<<<<<< HEAD
+=======
+
+# Environment File
+.env
+>>>>>>> d44e21b960311d0ef7c597e6d074ecf10403ca2b

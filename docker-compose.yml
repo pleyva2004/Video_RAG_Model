@@ -1,0 +1,40 @@
+services:
+  mongo:
+    image: mongo:latest
+    container_name: "video_rag_mongo"
+    logging:
+      options:
+        max-size: 1g
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: "video_rag"
+      MONGO_INITDB_ROOT_PASSWORD: "video_rag"
+    ports:
+      - 27017:27017
+    volumes:
+      - video_rag_mongo_data:/data/db
+    networks:
+      - local
+    restart: always
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: "video_rag_qdrant"
+    ports:
+      - 6333:6333
+      - 6334:6334
+    expose:
+      - 6333
+      - 6334
+    volumes:
+      - video_rag_qdrant_data:/qdrant/storage
+    networks:
+      - local
+    restart: always
+
+volumes:
+  video_rag_mongo_data:
+  video_rag_qdrant_data:
+
+networks:
+  local:
+    driver: bridge
