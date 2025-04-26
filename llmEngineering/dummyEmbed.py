@@ -1,0 +1,3 @@
+
+def dummyEmbed(query):
+    return
