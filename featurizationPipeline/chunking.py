@@ -71,6 +71,19 @@ def fix_end_of_chunk(chunk, text):
             chunk = text
             
     return chunk
+    
+def getTimestamps(segments, timestamps):
+    timestamps_index = 0
+    timestamp_list = []
+    for segment_dict in segments:
+        num_words = len(segment_dict['segment'].split())
+        start_time = timestamps[timestamps_index]['time']
+        timestamps_index += num_words - 1
+        end_time = timestamps[timestamps_index]['time']
+        timestamps_index += 1
+        timestamp_list.append((start_time, end_time))
+                                     
+    return timestamp_list
 
 def quality_focused_chunking(client, text, input_window=4000, overlap_fraction=0.2,):
     """
@@ -96,7 +109,14 @@ def quality_focused_chunking(client, text, input_window=4000, overlap_fraction=0
         # Move to next window
         start += input_window
 
+    with open("chunks_non_overlapped.txt", "w") as f:
+        for chunk in chunks:
+            f.write(chunk + "\n")
+
+    # Get timestamps
+    timestamps = getTimestamps(chunks, timestamps)
+
     # Overlap chunks
     overlapped_chunks = apply_overlap(chunks, overlap_fraction)
 
-    return overlapped_chunks
+    return overlapped_chunks, timestamps

@@ -24,7 +24,11 @@ def main():
         text = f.read()
 
     print("Chunking...")
-    chunks = quality_focused_chunking(client, text)
+    chunks, timestamps = quality_focused_chunking(client, text)
+
+    with open("chunks.txt", "w") as f:
+        for i in range(len(chunks)):
+            f.write(f"{timestamps[i][0]} - {timestamps[i][1]} : {chunks[i]}\n")
   
     print("Embedding...")
     embeddings = embed_chunks(client, chunks)
