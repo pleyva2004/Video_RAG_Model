@@ -1,6 +1,6 @@
 from getQuery import getQuery
 #from searchQdrant import enhance_search_and_rerank
-from enhanceQuery import enhanceQuery
+from llmEngineering.enhance import enhanceQuery
 
 
 raw_user_query = getQuery()
@@ -8,6 +8,7 @@ raw_user_query = getQuery()
 enhanced_queries = enhanceQuery(raw_user_query)
 print('enhanced queries')
 print(enhanced_queries)
+
 primary_query_text = enhanced_queries[0]  # Use the first enhanced query for reranking
 print()
 print('primary query')
