@@ -6,10 +6,6 @@ from qdrant_client import QdrantClient
 from enhanceQuery import enhanceQuery 
 from dummyEmbed import dummyEmbed
 
-# Load environment variables
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
 # Initialize Qdrant client
 qdrant_client = QdrantClient(host="localhost", port=6333)
 
@@ -45,12 +41,7 @@ def rerankWithCrossEncoder(primary_query_text, candidates):
 def enhanceSearchAndRerank(raw_user_query, collection_name="your_collection", top_k=10, threshold=0.7):
     # Step 1: Enhance the query
     enhanced_queries = enhanceQuery(raw_user_query)
-    print('enhanced queries')
-    print(enhanced_queries)
     primary_query_text = enhanced_queries[0]  # Use the first enhanced query for reranking
-    print()
-    print('primary query')
-    print(primary_query_text)
 
     # Step 2: Embed all enhanced queries
     query_embeddings = [dummyEmbed(query) for query in enhanced_queries]
