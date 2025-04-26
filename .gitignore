@@ -404,3 +404,6 @@ FodyWeavers.xsd
 
 # Movie
 *.mp4
+
+# Transcript
+dataPipeline/data/transcripts/*
