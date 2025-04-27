@@ -28,7 +28,7 @@ def main():
     with open("./assets/chunks_new.txt", "r") as f:
         chunks = f.readlines()
 
-    with open("./assets/eFgkZKhNUdM_time.txt", "r") as f:
+    with open("./assets/chunks.txt", "r") as f:
         timestamps = f.readlines()
         timestamps = [line.split()[:3] for line in timestamps]
         timestamps = [[line[0], line[2]] for line in timestamps]
