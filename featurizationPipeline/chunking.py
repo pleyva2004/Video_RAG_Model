@@ -87,7 +87,7 @@ def getTimestamps(segments, timestamps):
                                      
     return timestamp_list
 
-def quality_focused_chunking(client, text, input_window=4000, overlap_fraction=0.2):
+def quality_focused_chunking(client, text, timestamps, j):
     """
     Full quality-focused chunking pipeline.
     """
@@ -97,44 +97,24 @@ def quality_focused_chunking(client, text, input_window=4000, overlap_fraction=0
     chunks = suggest_contextual_breaks(client, text).split("\n")
 
     for chunk in chunks:
+        print(chunk)
+        print(100*'-')
         if chunk == "":
             chunks.remove(chunk)
 
     return_chunks = [chunks[i] for i in range(len(chunks)) if i % 2]
-     # Remove chunks that start with "Chunk N:" pattern
+    # return_chunks = chunks
 
-    # while start < len(text):
-    #     window = text[start:start + input_window]
-
-    #     # LLM suggests natural splits
-    #     # split_points = suggest_contextual_breaks(client, window)
-
-
-    #     print(window)
-    #     with open("window.txt", "w") as f:
-    #         f.write(window)
-
-    #     # prev_idx = 0
-    #     # for idx in split_points:
-    #     #     chunk = window[prev_idx:idx].strip()
-    #     #     fixed_chunk = fix_end_of_chunk(chunk, text)
-    #     #     if fixed_chunk:
-    #     #         chunks.append(fixed_chunk)
-    #     #     prev_idx = idx
-
-    #     # Move to next window
-    #     start += input_window
-
-    with open("./assets/chunks_new.txt", "w") as f:
+    with open(f"./assets/chunks/chunks_{j}.txt", "w") as f:
         for chunk in return_chunks:
             f.write(chunk + "\n")
 
-
-    with open("./assets/eFgkZKhNUdM_time.txt", "r") as f:
-        timestamps = [line.split() for line in f.readlines()]
-    
     # Get timestamps
     timestamps = getTimestamps(return_chunks, timestamps)
+
+    with open(f"./assets/chunk_timestamps/chunks_{j}_timestamped.txt", "w") as f:
+        for i in range(len(return_chunks)):
+            f.write(f"{timestamps[i][0]} - {timestamps[i][1]} : {return_chunks[i]}\n")
 
     # # Overlap chunks
     # overlapped_chunks = apply_overlap(chunks, overlap_fraction)
