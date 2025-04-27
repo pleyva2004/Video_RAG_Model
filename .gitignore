@@ -407,3 +407,6 @@ FodyWeavers.xsd
 
 # Transcript
 dataPipeline/data/transcripts/*
+
+# Gradio
+.gradio/

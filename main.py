@@ -16,7 +16,7 @@ from llmEngineering.search import getRelevantChunks
 
 
 
-def main():
+def getResponse(query):
     load_dotenv()
     print("Starting...")
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -58,9 +58,9 @@ def main():
         f"Uploaded {num_points} feature vectors to Qdrant collection '{collection_name}'"
     )
 
-    dummy_query = "What is a binary classifier?"
+    # dummy_query = "What is a binary classifier?"
 
-    enhanced_queries = enhanceQuery(groq, dummy_query)
+    enhanced_queries = enhanceQuery(groq, query)
 
     primary_query_text = enhanced_queries[0]
 
@@ -68,14 +68,14 @@ def main():
 
     relevant_chunks = getRelevantChunks(qdrant, cross_encoder_model, primary_query_text, embeddings, collection_name, top_k=1)
 
-    for chunk in relevant_chunks:
-        print()
-        print(chunk)
-        print(100*'-')    
+    # for chunk in relevant_chunks:
+    #     print()
+    #     print(chunk.payload.get("timestamp"))
+    #     print(chunk.payload.get("chunk_text"))
+
+    formatted_response = f"Excerpt: {relevant_chunks[0].payload.get('chunk_text')}\n\nRelevant Video Segment: {relevant_chunks[0].payload.get('timestamp')}"
+
+    return formatted_response
     
 
 
-
-    
-if __name__ == "__main__":
-    main()

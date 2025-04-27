@@ -16,6 +16,7 @@ pytest = "^8.3.5"
 qdrant-client = "^1.14.2"
 sentence-transformers = "^4.1.0"
 poetry = "^2.1.2"
+gradio = "^5.27.0"
 
 
 [build-system]
