@@ -23,8 +23,7 @@ def upload_embeddings(client, embeddings, chunks, timestamps, collection_name="c
                 payload={
                     "chunk_id": idx,
                     "chunk_text": chunks[idx],
-                    "chunk_start_time": timestamps[idx][0],
-                    "chunk_end_time": timestamps[idx][1]
+                    "timestamp": timestamps[idx]
                 },
             )
         )

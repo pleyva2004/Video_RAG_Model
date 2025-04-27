@@ -4,21 +4,23 @@ from openai import OpenAI
 def suggest_contextual_breaks(client, text, model="gpt-4-turbo"):
 
     prompt = f"""
-You are an expert at structuring lecture transcripts for semantic retrieval.
+You are an expert at structuring educational lectures for retrieval.
 
-Given the following transcription (with no punctuation), 
-identify natural points where a conceptual shift occurs — **where one rich idea is completed and a new one begins**.
+Given an unpunctuated lecture transcript, segment it into natural, coherent chunks where each chunk covers exactly one major idea, concept explanation, or formula derivation.
 
-- Prioritize **depth and semantic coherence**.
-- **Do not** split mechanically by size.
-- Chunks can vary in length — that's okay.
-- Your goal is to create **the richest, most coherent idea chunks** possible.
-- Return the character indices **at which the text should be split**.
+Chunking Rules:
+- Prefer semantic boundaries over fixed size.
+- Avoid splitting mid-mathematical explanation.
+- Allow chunk size to vary based on the depth of the idea.
+- If possible, use natural transition cues like "now let's discuss," "moving on," "in general," "recall that."
 
-Raw Text:
+Output:
+- Split the text into numbered chunks,.
+- Each chunk should contain a complete thought or derivation.
+
+Text:
 {text}
 
-Respond ONLY with a list of integer indices, like: [500, 980, 1543]
 """
 
     response = client.chat.completions.create(
@@ -33,10 +35,10 @@ Respond ONLY with a list of integer indices, like: [500, 980, 1543]
     output = response.choices[0].message.content.strip()
 
     # Parse output
-    output = output.replace('[', '').replace(']', '').split(',')
-    split_indices = [int(idx.strip()) for idx in output if idx.strip().isdigit()]
+    # output = output.replace('[', '').replace(']', '').split(',')
+    # split_indices = [int(idx.strip()) for idx in output if idx.strip().isdigit()]
     
-    return split_indices
+    return output
 
 def apply_overlap(chunks, overlap_fraction):
 
@@ -75,48 +77,66 @@ def fix_end_of_chunk(chunk, text):
 def getTimestamps(segments, timestamps):
     timestamps_index = 0
     timestamp_list = []
-    for segment_dict in segments:
-        num_words = len(segment_dict['segment'].split())
-        start_time = timestamps[timestamps_index]['time']
+    for segment in segments:
+        num_words = len(segment.split())
+        start_time = timestamps[timestamps_index][0]
         timestamps_index += num_words - 1
-        end_time = timestamps[timestamps_index]['time']
+        end_time = timestamps[timestamps_index][0]
         timestamps_index += 1
         timestamp_list.append((start_time, end_time))
                                      
     return timestamp_list
 
-def quality_focused_chunking(client, text, input_window=4000, overlap_fraction=0.2,):
+def quality_focused_chunking(client, text, input_window=4000, overlap_fraction=0.2):
     """
     Full quality-focused chunking pipeline.
     """
-    chunks = []
+    return_chunks = []
     start = 0
 
-    while start < len(text):
-        window = text[start:start + input_window]
+    chunks = suggest_contextual_breaks(client, text).split("\n")
 
-        # LLM suggests natural splits
-        split_points = suggest_contextual_breaks(client, window)
+    for chunk in chunks:
+        if chunk == "":
+            chunks.remove(chunk)
 
-        prev_idx = 0
-        for idx in split_points:
-            chunk = window[prev_idx:idx].strip()
-            fixed_chunk = fix_end_of_chunk(chunk, text)
-            if fixed_chunk:
-                chunks.append(fixed_chunk)
-            prev_idx = idx
+    return_chunks = [chunks[i] for i in range(len(chunks)) if i % 2]
+     # Remove chunks that start with "Chunk N:" pattern
 
-        # Move to next window
-        start += input_window
+    # while start < len(text):
+    #     window = text[start:start + input_window]
 
-    with open("chunks_non_overlapped.txt", "w") as f:
-        for chunk in chunks:
+    #     # LLM suggests natural splits
+    #     # split_points = suggest_contextual_breaks(client, window)
+
+
+    #     print(window)
+    #     with open("window.txt", "w") as f:
+    #         f.write(window)
+
+    #     # prev_idx = 0
+    #     # for idx in split_points:
+    #     #     chunk = window[prev_idx:idx].strip()
+    #     #     fixed_chunk = fix_end_of_chunk(chunk, text)
+    #     #     if fixed_chunk:
+    #     #         chunks.append(fixed_chunk)
+    #     #     prev_idx = idx
+
+    #     # Move to next window
+    #     start += input_window
+
+    with open("./assets/chunks_new.txt", "w") as f:
+        for chunk in return_chunks:
             f.write(chunk + "\n")
 
+
+    with open("./assets/eFgkZKhNUdM_time.txt", "r") as f:
+        timestamps = [line.split() for line in f.readlines()]
+    
     # Get timestamps
-    timestamps = getTimestamps(chunks, timestamps)
+    timestamps = getTimestamps(return_chunks, timestamps)
 
-    # Overlap chunks
-    overlapped_chunks = apply_overlap(chunks, overlap_fraction)
+    # # Overlap chunks
+    # overlapped_chunks = apply_overlap(chunks, overlap_fraction)
 
-    return overlapped_chunks, timestamps
+    return return_chunks, timestamps
