@@ -4,19 +4,19 @@ def retrieveCandidates(client, query_embedding, collection_name, top_k=5):
         collection_name=collection_name,
         query_vector=query_embedding,
         limit=top_k,
-        with_payload=False
+        with_payload=True
     )
     return search_results
 
 # Cross-encoder reranking with the primary query only
 def rerankWithCrossEncoder(model, primary_query_text, candidates):
-    input_pairs = [(primary_query_text, candidate.payload['segment']) for candidate in candidates]
+    input_pairs = [(primary_query_text, candidate.payload['chunk_text']) for candidate in candidates]
     scores = model.predict(input_pairs)
     reranked = [
         {
             'object_id': candidate.id,
             'score': score,
-            'payload': {}#candidate.payload
+            'payload': candidate.payload
         }
         for candidate, score in zip(candidates, scores)
     ]
@@ -38,10 +38,11 @@ def getRelevantChunks(client, model, primary_query_text, query_embeddings, colle
                 seen_ids.add(candidate.id)
 
     # Step 4: Rerank using cross-encoder with primary query only
-    #reranked_results = rerankWithCrossEncoder(model, primary_query_text, all_candidates)
+    # reranked_results = rerankWithCrossEncoder(model, primary_query_text, all_candidates)
 
     # Step 5: Filter by threshold
-    #filtered_results = [res for res in reranked_results if res['score'] >= threshold]
-    filtered_results = all_candidates[:3]
+    # filtered_results = [res for res in reranked_results if res['score'] >= threshold]
+    # filtered_results = all_candidates[:3]
+    # filtered_results = reranked_results[:top_k]
 
-    return filtered_results
+    return all_candidates

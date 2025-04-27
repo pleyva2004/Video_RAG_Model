@@ -16,15 +16,7 @@ def enhanceQuery(client, user_query, model="llama-3.3-70b-versatile"):
         - Enhance short or unclear queries by adding common implied context (such as "in machine learning," "definition of," "explanation of," or "use case for," if appropriate).
         - If the query is ambiguous, assume the most common intended meaning based on typical usage (e.g., assume "CNN" refers to "convolutional neural network" in the context of machine learning unless otherwise specified).
 
-        After enhancing the original query, generate five new queries that explore different aspects of the same topic. These should cover a variety of angles such as:
-
-        - Definition
-        - Explanation
-        - Use cases or applications
-        - Comparison with related concepts
-        - Advantages or limitations
-
-        Respond with your output as a list of exactly five rephrased statements in valid JSON format. Return only the JSON list — no explanations, comments, or extra text.
+        Respond with your output as a list of exactly rephrased statement in valid JSON format. Return only the JSON list — no explanations, comments, or extra text.
         Ensure that all output statements are lowercased.
     """
 

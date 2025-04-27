@@ -30,26 +30,35 @@ def main():
     cross_encoder_model = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 
     print("Reading transcript...")
-    with open("./dataPipeline/data/transcripts/eFgkZKhNUdM.txt", "r") as f:
+    with open("./assets/eFgkZKhNUdM.txt", "r") as f:
         text = f.read()
 
     print("Chunking...")
-    # chunks = quality_focused_chunking(client, text)
+    # chunks, timestamps = quality_focused_chunking(client, text)
+    with open("./assets/chunks_new.txt", "r") as f:
+        chunks = f.readlines()
 
-    with open("saved_chunks.txt", "r") as f:
-        chunks = f.read().split('\n')
+    with open("./assets/chunks.txt", "r") as f:
+        timestamps = f.readlines()
+        timestamps = [line.split()[:3] for line in timestamps]
+        timestamps = [[line[0], line[2]] for line in timestamps]
+
+    
+    # with open("chunks.txt", "w") as f:
+    #     for i in range(len(chunks)):
+    #         f.write(f"{timestamps[i][0]} - {timestamps[i][1]} : {chunks[i]}\n")
   
     print("Embedding...")
     embeddings = embed_chunks(client, chunks)
     
     print("Uploading embeddings...")
-    num_points, collection_name = upload_embeddings(qdrant, embeddings, "contextual_chunks")
+    num_points, collection_name = upload_embeddings(qdrant, embeddings, chunks, timestamps, "contextual_chunks")
 
     print(
-    f"Uploaded {num_points} feature vectors to Qdrant collection '{collection_name}'"
+        f"Uploaded {num_points} feature vectors to Qdrant collection '{collection_name}'"
     )
 
-    dummy_query = "What are CNNs?"
+    dummy_query = "What is a binary classifier?"
 
     enhanced_queries = enhanceQuery(groq, dummy_query)
 
@@ -57,11 +66,12 @@ def main():
 
     embeddings = embed_chunks(client, enhanced_queries)
 
-    relevant_chunks = getRelevantChunks(qdrant, cross_encoder_model, primary_query_text, embeddings, collection_name)
+    relevant_chunks = getRelevantChunks(qdrant, cross_encoder_model, primary_query_text, embeddings, collection_name, top_k=1)
 
-    for c in relevant_chunks:
-        print(c)
-        print(100*'-')
+    for chunk in relevant_chunks:
+        print()
+        print(chunk)
+        print(100*'-')    
     
 
 
