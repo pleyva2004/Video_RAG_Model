@@ -1,0 +1,3800 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.919 --> 00:00:02.909 align:start position:0%
+ 
+in<00:00:01.040><c> an</c><00:00:01.199><c> earli</c><00:00:01.520><c> video</c><00:00:01.760><c> we</c><00:00:01.880><c> have</c><00:00:02.040><c> seen</c><00:00:02.399><c> the</c><00:00:02.720><c> uh</c>
+
+00:00:02.909 --> 00:00:02.919 align:start position:0%
+in an earli video we have seen the uh
+ 
+
+00:00:02.919 --> 00:00:06.150 align:start position:0%
+in an earli video we have seen the uh
+convolutional<00:00:03.960><c> networks</c><00:00:04.960><c> and</c><00:00:05.080><c> the</c><00:00:05.279><c> basic</c>
+
+00:00:06.150 --> 00:00:06.160 align:start position:0%
+convolutional networks and the basic
+ 
+
+00:00:06.160 --> 00:00:09.750 align:start position:0%
+convolutional networks and the basic
+operation<00:00:07.160><c> uh</c><00:00:07.279><c> in</c><00:00:07.480><c> this</c><00:00:07.920><c> uh</c><00:00:08.920><c> video</c><00:00:09.360><c> what</c><00:00:09.519><c> we</c>
+
+00:00:09.750 --> 00:00:09.760 align:start position:0%
+operation uh in this uh video what we
+ 
+
+00:00:09.760 --> 00:00:13.190 align:start position:0%
+operation uh in this uh video what we
+actually<00:00:10.040><c> introducing</c><00:00:10.880><c> here</c><00:00:11.880><c> uh</c><00:00:12.200><c> is</c><00:00:12.679><c> residual</c>
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+actually introducing here uh is residual
+ 
+
+00:00:13.200 --> 00:00:16.550 align:start position:0%
+actually introducing here uh is residual
+networks<00:00:13.880><c> which</c><00:00:14.040><c> is</c><00:00:14.599><c> to</c><00:00:14.839><c> to</c><00:00:15.040><c> this</c><00:00:15.400><c> day</c><00:00:16.400><c> um</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+networks which is to to this day um
+ 
+
+00:00:16.560 --> 00:00:18.510 align:start position:0%
+networks which is to to this day um
+several<00:00:17.000><c> years</c><00:00:17.279><c> after</c><00:00:17.560><c> the</c><00:00:17.760><c> introduction</c>
+
+00:00:18.510 --> 00:00:18.520 align:start position:0%
+several years after the introduction
+ 
+
+00:00:18.520 --> 00:00:21.189 align:start position:0%
+several years after the introduction
+remain<00:00:18.800><c> one</c><00:00:18.920><c> of</c><00:00:19.080><c> the</c><00:00:19.320><c> main</c><00:00:20.320><c> uh</c><00:00:20.439><c> used</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+remain one of the main uh used
+ 
+
+00:00:21.199 --> 00:00:24.070 align:start position:0%
+remain one of the main uh used
+architectures<00:00:22.199><c> uh</c><00:00:22.400><c> for</c><00:00:22.840><c> feature</c><00:00:23.320><c> extraction</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+architectures uh for feature extraction
+ 
+
+00:00:24.080 --> 00:00:26.790 align:start position:0%
+architectures uh for feature extraction
+and<00:00:24.240><c> not</c><00:00:24.439><c> only</c><00:00:25.320><c> as</c><00:00:25.439><c> a</c><00:00:25.680><c> basic</c><00:00:26.119><c> component</c><00:00:26.560><c> of</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+and not only as a basic component of
+ 
+
+00:00:26.800 --> 00:00:29.710 align:start position:0%
+and not only as a basic component of
+many<00:00:27.199><c> more</c><00:00:27.480><c> advanced</c><00:00:28.160><c> uh</c><00:00:28.279><c> CNN</c><00:00:28.760><c> architectures</c>
+
+00:00:29.710 --> 00:00:29.720 align:start position:0%
+many more advanced uh CNN architectures
+ 
+
+00:00:29.720 --> 00:00:32.630 align:start position:0%
+many more advanced uh CNN architectures
+and<00:00:30.119><c> and</c><00:00:30.840><c> uh</c><00:00:30.960><c> that</c><00:00:31.119><c> are</c><00:00:31.279><c> doing</c><00:00:31.960><c> more</c><00:00:32.320><c> more</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+and and uh that are doing more more
+ 
+
+00:00:32.640 --> 00:00:35.069 align:start position:0%
+and and uh that are doing more more
+complicated<00:00:33.200><c> tasks</c><00:00:34.040><c> such</c><00:00:34.280><c> as</c><00:00:34.600><c> object</c>
+
+00:00:35.069 --> 00:00:35.079 align:start position:0%
+complicated tasks such as object
+ 
+
+00:00:35.079 --> 00:00:37.430 align:start position:0%
+complicated tasks such as object
+detection<00:00:36.079><c> semantic</c><00:00:36.559><c> segmentation</c><00:00:37.280><c> and</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+detection semantic segmentation and
+ 
+
+00:00:37.440 --> 00:00:40.670 align:start position:0%
+detection semantic segmentation and
+others<00:00:37.719><c> that</c><00:00:37.960><c> we</c><00:00:38.040><c> will</c><00:00:38.200><c> see</c><00:00:38.680><c> in</c><00:00:39.200><c> another</c><00:00:40.200><c> uh</c><00:00:40.559><c> in</c>
+
+00:00:40.670 --> 00:00:40.680 align:start position:0%
+others that we will see in another uh in
+ 
+
+00:00:40.680 --> 00:00:46.069 align:start position:0%
+others that we will see in another uh in
+another<00:00:41.280><c> video</c><00:00:42.280><c> uh</c><00:00:42.559><c> so</c><00:00:43.280><c> the</c><00:00:44.520><c> uh</c><00:00:45.520><c> history</c><00:00:46.000><c> if</c>
+
+00:00:46.069 --> 00:00:46.079 align:start position:0%
+another video uh so the uh history if
+ 
+
+00:00:46.079 --> 00:00:48.510 align:start position:0%
+another video uh so the uh history if
+you<00:00:46.239><c> like</c><00:00:46.440><c> of</c><00:00:46.640><c> their</c><00:00:47.120><c> introduction</c><00:00:48.120><c> uh</c><00:00:48.360><c> you</c>
+
+00:00:48.510 --> 00:00:48.520 align:start position:0%
+you like of their introduction uh you
+ 
+
+00:00:48.520 --> 00:00:52.430 align:start position:0%
+you like of their introduction uh you
+know<00:00:49.079><c> started</c><00:00:50.079><c> uh</c><00:00:50.239><c> around</c><00:00:50.879><c> 2015</c><00:00:51.879><c> where</c><00:00:52.120><c> people</c>
+
+00:00:52.430 --> 00:00:52.440 align:start position:0%
+know started uh around 2015 where people
+ 
+
+00:00:52.440 --> 00:00:56.069 align:start position:0%
+know started uh around 2015 where people
+realized<00:00:53.199><c> that</c><00:00:53.680><c> it's</c><00:00:54.399><c> um</c><00:00:55.280><c> not</c><00:00:55.559><c> really</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+realized that it's um not really
+ 
+
+00:00:56.079 --> 00:01:00.229 align:start position:0%
+realized that it's um not really
+possible<00:00:56.520><c> to</c><00:00:56.800><c> extend</c><00:00:57.800><c> the</c><00:00:58.039><c> so-called</c><00:00:58.879><c> uh</c>
+
+00:01:00.229 --> 00:01:00.239 align:start position:0%
+possible to extend the so-called uh
+ 
+
+00:01:00.239 --> 00:01:02.790 align:start position:0%
+possible to extend the so-called uh
+architectures<00:01:00.879><c> of</c><00:01:01.039><c> the</c><00:01:01.280><c> time</c><00:01:01.879><c> let's</c><00:01:02.079><c> say</c><00:01:02.359><c> the</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+architectures of the time let's say the
+ 
+
+00:01:02.800 --> 00:01:05.950 align:start position:0%
+architectures of the time let's say the
+vgg<00:01:03.920><c> architecture</c><00:01:04.920><c> uh</c><00:01:05.000><c> we've</c><00:01:05.199><c> seen</c><00:01:05.400><c> the</c><00:01:05.519><c> V</c>
+
+00:01:05.950 --> 00:01:05.960 align:start position:0%
+vgg architecture uh we've seen the V
+ 
+
+00:01:05.960 --> 00:01:08.990 align:start position:0%
+vgg architecture uh we've seen the V
+architecture<00:01:06.680><c> on</c><00:01:07.119><c> on</c><00:01:07.200><c> a</c><00:01:07.400><c> different</c><00:01:08.040><c> U</c><00:01:08.600><c> video</c>
+
+00:01:08.990 --> 00:01:09.000 align:start position:0%
+architecture on on a different U video
+ 
+
+00:01:09.000 --> 00:01:11.469 align:start position:0%
+architecture on on a different U video
+earlier<00:01:10.000><c> in</c><00:01:10.200><c> this</c><00:01:10.560><c> uh</c><00:01:10.720><c> in</c><00:01:10.880><c> this</c><00:01:11.080><c> actually</c>
+
+00:01:11.469 --> 00:01:11.479 align:start position:0%
+earlier in this uh in this actually
+ 
+
+00:01:11.479 --> 00:01:14.670 align:start position:0%
+earlier in this uh in this actually
+topic<00:01:11.840><c> over</c><00:01:12.240><c> here</c><00:01:13.240><c> uh</c><00:01:13.439><c> where</c><00:01:13.680><c> we</c><00:01:13.840><c> have</c><00:01:14.040><c> SE</c><00:01:14.520><c> we</c>
+
+00:01:14.670 --> 00:01:14.680 align:start position:0%
+topic over here uh where we have SE we
+ 
+
+00:01:14.680 --> 00:01:18.550 align:start position:0%
+topic over here uh where we have SE we
+have<00:01:14.840><c> seen</c><00:01:15.240><c> the</c><00:01:16.080><c> sort</c><00:01:16.360><c> of</c><00:01:16.759><c> uh</c><00:01:17.439><c> architecture</c><00:01:18.360><c> of</c>
+
+00:01:18.550 --> 00:01:18.560 align:start position:0%
+have seen the sort of uh architecture of
+ 
+
+00:01:18.560 --> 00:01:22.510 align:start position:0%
+have seen the sort of uh architecture of
+the<00:01:18.720><c> V16</c><00:01:19.880><c> Network</c><00:01:20.880><c> and</c><00:01:21.560><c> uh</c><00:01:21.680><c> what</c><00:01:21.960><c> was</c><00:01:22.159><c> actually</c>
+
+00:01:22.510 --> 00:01:22.520 align:start position:0%
+the V16 Network and uh what was actually
+ 
+
+00:01:22.520 --> 00:01:24.429 align:start position:0%
+the V16 Network and uh what was actually
+happening<00:01:23.000><c> then</c><00:01:23.439><c> and</c><00:01:23.560><c> now</c><00:01:23.799><c> that</c><00:01:24.000><c> we</c>
+
+00:01:24.429 --> 00:01:24.439 align:start position:0%
+happening then and now that we
+ 
+
+00:01:24.439 --> 00:01:26.870 align:start position:0%
+happening then and now that we
+understand<00:01:24.640><c> a</c><00:01:24.799><c> couple</c><00:01:25.000><c> of</c><00:01:25.200><c> things</c><00:01:25.479><c> about</c><00:01:25.840><c> back</c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+understand a couple of things about back
+ 
+
+00:01:26.880 --> 00:01:30.550 align:start position:0%
+understand a couple of things about back
+propagation<00:01:27.880><c> uh</c><00:01:28.200><c> the</c><00:01:29.200><c> uh</c><00:01:29.360><c> gradient</c>
+
+00:01:30.550 --> 00:01:30.560 align:start position:0%
+propagation uh the uh gradient
+ 
+
+00:01:30.560 --> 00:01:32.429 align:start position:0%
+propagation uh the uh gradient
+had<00:01:30.759><c> a</c><00:01:30.960><c> lot</c><00:01:31.119><c> of</c><00:01:31.360><c> problems</c><00:01:31.759><c> to</c>
+
+00:01:32.429 --> 00:01:32.439 align:start position:0%
+had a lot of problems to
+ 
+
+00:01:32.439 --> 00:01:35.429 align:start position:0%
+had a lot of problems to
+flow<00:01:33.439><c> all</c><00:01:33.640><c> the</c><00:01:33.799><c> way</c><00:01:34.000><c> to</c><00:01:34.200><c> the</c><00:01:34.399><c> input</c><00:01:34.799><c> of</c><00:01:34.920><c> the</c>
+
+00:01:35.429 --> 00:01:35.439 align:start position:0%
+flow all the way to the input of the
+ 
+
+00:01:35.439 --> 00:01:38.550 align:start position:0%
+flow all the way to the input of the
+network<00:01:36.439><c> uh</c><00:01:36.640><c> and</c><00:01:37.240><c> uh</c><00:01:37.600><c> the</c><00:01:37.920><c> U</c><00:01:38.119><c> sort</c><00:01:38.360><c> of</c>
+
+00:01:38.550 --> 00:01:38.560 align:start position:0%
+network uh and uh the U sort of
+ 
+
+00:01:38.560 --> 00:01:40.670 align:start position:0%
+network uh and uh the U sort of
+bottlenecks<00:01:39.320><c> that</c><00:01:39.520><c> were</c><00:01:39.720><c> actually</c><00:01:40.040><c> generated</c>
+
+00:01:40.670 --> 00:01:40.680 align:start position:0%
+bottlenecks that were actually generated
+ 
+
+00:01:40.680 --> 00:01:42.590 align:start position:0%
+bottlenecks that were actually generated
+created<00:01:41.119><c> a</c><00:01:41.320><c> significant</c><00:01:42.000><c> problems</c><00:01:42.320><c> in</c><00:01:42.439><c> the</c>
+
+00:01:42.590 --> 00:01:42.600 align:start position:0%
+created a significant problems in the
+ 
+
+00:01:42.600 --> 00:01:45.510 align:start position:0%
+created a significant problems in the
+training<00:01:43.000><c> of</c><00:01:43.320><c> these</c><00:01:44.320><c> uh</c><00:01:44.520><c> architectures</c><00:01:45.320><c> so</c>
+
+00:01:45.510 --> 00:01:45.520 align:start position:0%
+training of these uh architectures so
+ 
+
+00:01:45.520 --> 00:01:46.550 align:start position:0%
+training of these uh architectures so
+around
+
+00:01:46.550 --> 00:01:46.560 align:start position:0%
+around
+ 
+
+00:01:46.560 --> 00:01:49.630 align:start position:0%
+around
+2015<00:01:47.560><c> a</c><00:01:47.759><c> researcher</c><00:01:48.759><c> at</c>
+
+00:01:49.630 --> 00:01:49.640 align:start position:0%
+2015 a researcher at
+ 
+
+00:01:49.640 --> 00:01:52.830 align:start position:0%
+2015 a researcher at
+Microsoft<00:01:50.640><c> uh</c><00:01:51.200><c> you</c><00:01:51.320><c> know</c><00:01:51.520><c> found</c><00:01:51.880><c> a</c><00:01:52.079><c> solution</c>
+
+00:01:52.830 --> 00:01:52.840 align:start position:0%
+Microsoft uh you know found a solution
+ 
+
+00:01:52.840 --> 00:01:56.149 align:start position:0%
+Microsoft uh you know found a solution
+on<00:01:53.200><c> how</c><00:01:53.439><c> to</c><00:01:54.159><c> enable</c><00:01:55.159><c> uh</c><00:01:55.320><c> that</c><00:01:55.560><c> gradient</c><00:01:56.000><c> to</c>
+
+00:01:56.149 --> 00:01:56.159 align:start position:0%
+on how to enable uh that gradient to
+ 
+
+00:01:56.159 --> 00:01:57.670 align:start position:0%
+on how to enable uh that gradient to
+flow<00:01:57.000><c> uh</c>
+
+00:01:57.670 --> 00:01:57.680 align:start position:0%
+flow uh
+ 
+
+00:01:57.680 --> 00:02:00.550 align:start position:0%
+flow uh
+freely<00:01:58.680><c> in</c><00:01:59.119><c> uh</c><00:01:59.479><c> in</c><00:01:59.640><c> a</c><00:01:59.960><c> much</c><00:02:00.200><c> deeper</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+freely in uh in a much deeper
+ 
+
+00:02:00.560 --> 00:02:02.789 align:start position:0%
+freely in uh in a much deeper
+architectures<00:02:01.479><c> such</c><00:02:01.719><c> as</c><00:02:02.159><c> uh</c><00:02:02.320><c> the</c><00:02:02.439><c> ones</c><00:02:02.640><c> that</c>
+
+00:02:02.789 --> 00:02:02.799 align:start position:0%
+architectures such as uh the ones that
+ 
+
+00:02:02.799 --> 00:02:05.670 align:start position:0%
+architectures such as uh the ones that
+we<00:02:02.920><c> will</c><00:02:03.039><c> see</c><00:02:03.240><c> in</c><00:02:03.360><c> a</c><00:02:03.600><c> moment</c><00:02:04.600><c> and</c><00:02:05.039><c> uh</c><00:02:05.240><c> the</c><00:02:05.479><c> uh</c>
+
+00:02:05.670 --> 00:02:05.680 align:start position:0%
+we will see in a moment and uh the uh
+ 
+
+00:02:05.680 --> 00:02:08.749 align:start position:0%
+we will see in a moment and uh the uh
+this<00:02:05.960><c> gave</c><00:02:06.280><c> their</c><00:02:06.960><c> uh</c><00:02:07.479><c> the</c><00:02:07.640><c> name</c><00:02:08.000><c> residual</c>
+
+00:02:08.749 --> 00:02:08.759 align:start position:0%
+this gave their uh the name residual
+ 
+
+00:02:08.759 --> 00:02:11.270 align:start position:0%
+this gave their uh the name residual
+because<00:02:09.759><c> it</c><00:02:10.200><c> in</c><00:02:10.360><c> that</c><00:02:10.560><c> architecture</c><00:02:11.120><c> we</c>
+
+00:02:11.270 --> 00:02:11.280 align:start position:0%
+because it in that architecture we
+ 
+
+00:02:11.280 --> 00:02:13.550 align:start position:0%
+because it in that architecture we
+Implement<00:02:11.879><c> what</c><00:02:12.000><c> we</c><00:02:12.160><c> call</c><00:02:12.319><c> a</c><00:02:12.480><c> residual</c><00:02:13.040><c> unit</c>
+
+00:02:13.550 --> 00:02:13.560 align:start position:0%
+Implement what we call a residual unit
+ 
+
+00:02:13.560 --> 00:02:16.190 align:start position:0%
+Implement what we call a residual unit
+and<00:02:13.840><c> from</c><00:02:14.239><c> from</c><00:02:14.440><c> now</c><00:02:14.640><c> on</c><00:02:14.800><c> we'll</c><00:02:15.000><c> refer</c><00:02:15.400><c> to</c><00:02:16.000><c> to</c>
+
+00:02:16.190 --> 00:02:16.200 align:start position:0%
+and from from now on we'll refer to to
+ 
+
+00:02:16.200 --> 00:02:19.670 align:start position:0%
+and from from now on we'll refer to to
+those<00:02:16.400><c> networks</c><00:02:16.920><c> as</c><00:02:17.160><c> rest</c><00:02:17.599><c> nets</c><00:02:18.599><c> all</c><00:02:18.760><c> right</c><00:02:19.000><c> so</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+those networks as rest nets all right so
+ 
+
+00:02:19.680 --> 00:02:22.070 align:start position:0%
+those networks as rest nets all right so
+in<00:02:19.920><c> order</c><00:02:20.200><c> for</c><00:02:20.360><c> us</c><00:02:20.480><c> to</c><00:02:20.920><c> understand</c><00:02:21.519><c> what</c><00:02:21.800><c> is</c>
+
+00:02:22.070 --> 00:02:22.080 align:start position:0%
+in order for us to understand what is
+ 
+
+00:02:22.080 --> 00:02:23.630 align:start position:0%
+in order for us to understand what is
+going<00:02:22.280><c> on</c><00:02:22.480><c> with</c><00:02:22.680><c> rest</c><00:02:22.959><c> Nets</c><00:02:23.200><c> or</c><00:02:23.400><c> what</c><00:02:23.519><c> I'm</c>
+
+00:02:23.630 --> 00:02:23.640 align:start position:0%
+going on with rest Nets or what I'm
+ 
+
+00:02:23.640 --> 00:02:27.630 align:start position:0%
+going on with rest Nets or what I'm
+going<00:02:23.760><c> to</c><00:02:23.959><c> do</c><00:02:24.200><c> now</c><00:02:24.440><c> is</c><00:02:24.640><c> I'm</c><00:02:24.920><c> going</c><00:02:25.160><c> to</c><00:02:26.360><c> draw</c><00:02:27.360><c> uh</c>
+
+00:02:27.630 --> 00:02:27.640 align:start position:0%
+going to do now is I'm going to draw uh
+ 
+
+00:02:27.640 --> 00:02:31.190 align:start position:0%
+going to do now is I'm going to draw uh
+a<00:02:28.480><c> very</c><00:02:28.800><c> small</c><00:02:29.319><c> rest</c><00:02:30.200><c> architecture</c><00:02:30.959><c> just</c>
+
+00:02:31.190 --> 00:02:31.200 align:start position:0%
+a very small rest architecture just
+ 
+
+00:02:31.200 --> 00:02:33.150 align:start position:0%
+a very small rest architecture just
+consisting<00:02:31.720><c> of</c><00:02:31.959><c> three</c>
+
+00:02:33.150 --> 00:02:33.160 align:start position:0%
+consisting of three
+ 
+
+00:02:33.160 --> 00:02:37.030 align:start position:0%
+consisting of three
+units<00:02:34.160><c> U</c><00:02:34.959><c> and</c><00:02:35.560><c> if</c><00:02:35.680><c> I</c><00:02:35.840><c> may</c><00:02:36.040><c> draw</c><00:02:36.879><c> the</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+units U and if I may draw the
+ 
+
+00:02:37.040 --> 00:02:41.030 align:start position:0%
+units U and if I may draw the
+architecture<00:02:37.720><c> will</c><00:02:38.560><c> that's</c><00:02:39.400><c> my</c><00:02:40.400><c> uh</c><00:02:40.640><c> unit</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+architecture will that's my uh unit
+ 
+
+00:02:41.040 --> 00:02:45.350 align:start position:0%
+architecture will that's my uh unit
+which<00:02:41.239><c> I'll</c><00:02:41.519><c> abstract</c><00:02:42.120><c> with</c><00:02:42.519><c> the</c><00:02:43.519><c> letter</c>
+
+00:02:45.350 --> 00:02:45.360 align:start position:0%
+which I'll abstract with the letter
+ 
+
+00:02:45.360 --> 00:02:49.589 align:start position:0%
+which I'll abstract with the letter
+F1<00:02:46.360><c> so</c><00:02:46.599><c> the</c><00:02:46.760><c> input</c><00:02:47.159><c> to</c><00:02:47.560><c> the</c><00:02:48.560><c> so</c><00:02:48.720><c> I'll</c><00:02:48.920><c> use</c><00:02:49.120><c> a</c><00:02:49.280><c> bit</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+F1 so the input to the so I'll use a bit
+ 
+
+00:02:49.599 --> 00:02:51.750 align:start position:0%
+F1 so the input to the so I'll use a bit
+different<00:02:49.959><c> terminology</c><00:02:50.760><c> from</c><00:02:51.280><c> what</c><00:02:51.440><c> I</c><00:02:51.560><c> was</c>
+
+00:02:51.750 --> 00:02:51.760 align:start position:0%
+different terminology from what I was
+ 
+
+00:02:51.760 --> 00:02:53.750 align:start position:0%
+different terminology from what I was
+used<00:02:52.120><c> kind</c><00:02:52.280><c> of</c><00:02:52.480><c> earlier</c><00:02:52.920><c> so</c><00:02:53.080><c> I'll</c><00:02:53.239><c> be</c><00:02:53.360><c> calling</c>
+
+00:02:53.750 --> 00:02:53.760 align:start position:0%
+used kind of earlier so I'll be calling
+ 
+
+00:02:53.760 --> 00:02:57.630 align:start position:0%
+used kind of earlier so I'll be calling
+set<00:02:54.040><c> of</c><00:02:54.360><c> X</c><00:02:55.360><c> I'll</c><00:02:55.560><c> be</c><00:02:55.760><c> calling</c><00:02:56.200><c> it</c><00:02:56.760><c> y0</c><00:02:57.360><c> I</c><00:02:57.440><c> could</c>
+
+00:02:57.630 --> 00:02:57.640 align:start position:0%
+set of X I'll be calling it y0 I could
+ 
+
+00:02:57.640 --> 00:03:00.229 align:start position:0%
+set of X I'll be calling it y0 I could
+have<00:02:57.760><c> used</c><00:02:58.000><c> it</c><00:02:58.159><c> also</c><00:02:58.480><c> x0</c><00:02:59.080><c> but</c><00:02:59.280><c> in</c><00:02:59.400><c> my</c><00:02:59.560><c> not</c><00:03:00.000><c> over</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+have used it also x0 but in my not over
+ 
+
+00:03:00.239 --> 00:03:04.750 align:start position:0%
+have used it also x0 but in my not over
+here<00:03:00.440><c> I</c><00:03:00.720><c> have</c><00:03:01.720><c> uh</c><00:03:01.959><c> the</c><00:03:02.319><c> uh</c><00:03:02.920><c> this</c><00:03:03.080><c> as</c><00:03:03.400><c> y</c><00:03:03.680><c> z</c><00:03:04.599><c> okay</c>
+
+00:03:04.750 --> 00:03:04.760 align:start position:0%
+here I have uh the uh this as y z okay
+ 
+
+00:03:04.760 --> 00:03:10.110 align:start position:0%
+here I have uh the uh this as y z okay
+so<00:03:05.480><c> the</c><00:03:05.680><c> y</c><00:03:05.920><c> z</c><00:03:06.200><c> goes</c><00:03:06.519><c> into</c><00:03:07.560><c> a</c><00:03:08.640><c> block</c><00:03:09.640><c> that</c><00:03:09.799><c> will</c>
+
+00:03:10.110 --> 00:03:10.120 align:start position:0%
+so the y z goes into a block that will
+ 
+
+00:03:10.120 --> 00:03:12.470 align:start position:0%
+so the y z goes into a block that will
+consist<00:03:10.560><c> of</c><00:03:10.720><c> one</c><00:03:10.920><c> or</c><00:03:11.120><c> more</c><00:03:11.760><c> convolutional</c>
+
+00:03:12.470 --> 00:03:12.480 align:start position:0%
+consist of one or more convolutional
+ 
+
+00:03:12.480 --> 00:03:13.350 align:start position:0%
+consist of one or more convolutional
+kind<00:03:12.640><c> of</c>
+
+00:03:13.350 --> 00:03:13.360 align:start position:0%
+kind of
+ 
+
+00:03:13.360 --> 00:03:16.190 align:start position:0%
+kind of
+layers<00:03:14.360><c> and</c><00:03:14.519><c> in</c><00:03:14.640><c> the</c><00:03:14.840><c> residual</c><00:03:15.280><c> architecture</c>
+
+00:03:16.190 --> 00:03:16.200 align:start position:0%
+layers and in the residual architecture
+ 
+
+00:03:16.200 --> 00:03:20.350 align:start position:0%
+layers and in the residual architecture
+and<00:03:16.400><c> this</c><00:03:16.920><c> is</c><00:03:17.920><c> uh</c><00:03:18.159><c> why</c><00:03:18.519><c> we</c><00:03:18.720><c> call</c><00:03:18.920><c> it</c><00:03:19.560><c> residuals</c>
+
+00:03:20.350 --> 00:03:20.360 align:start position:0%
+and this is uh why we call it residuals
+ 
+
+00:03:20.360 --> 00:03:22.710 align:start position:0%
+and this is uh why we call it residuals
+we<00:03:21.360><c> take</c><00:03:21.720><c> the</c>
+
+00:03:22.710 --> 00:03:22.720 align:start position:0%
+we take the
+ 
+
+00:03:22.720 --> 00:03:27.550 align:start position:0%
+we take the
+input<00:03:23.720><c> and</c><00:03:24.360><c> add</c><00:03:25.000><c> it</c><00:03:26.000><c> with</c><00:03:26.159><c> a</c>
+
+00:03:27.550 --> 00:03:27.560 align:start position:0%
+input and add it with a
+ 
+
+00:03:27.560 --> 00:03:31.910 align:start position:0%
+input and add it with a
+unit<00:03:28.560><c> uh</c><00:03:28.760><c> gain</c><00:03:29.360><c> into</c><00:03:29.799><c> to</c><00:03:30.439><c> the</c><00:03:30.640><c> output</c><00:03:31.080><c> to</c><00:03:31.280><c> the</c>
+
+00:03:31.910 --> 00:03:31.920 align:start position:0%
+unit uh gain into to the output to the
+ 
+
+00:03:31.920 --> 00:03:35.670 align:start position:0%
+unit uh gain into to the output to the
+output<00:03:32.920><c> okay</c><00:03:33.120><c> so</c><00:03:33.519><c> to</c><00:03:33.720><c> form</c><00:03:34.360><c> what</c><00:03:34.519><c> we</c><00:03:34.760><c> call</c><00:03:35.360><c> now</c>
+
+00:03:35.670 --> 00:03:35.680 align:start position:0%
+output okay so to form what we call now
+ 
+
+00:03:35.680 --> 00:03:41.589 align:start position:0%
+output okay so to form what we call now
+a<00:03:36.239><c> y1</c><00:03:37.239><c> the</c><00:03:37.439><c> y1</c><00:03:38.159><c> is</c><00:03:38.760><c> uh</c><00:03:39.080><c> being</c><00:03:39.480><c> added</c>
+
+00:03:41.589 --> 00:03:41.599 align:start position:0%
+a y1 the y1 is uh being added
+ 
+
+00:03:41.599 --> 00:03:49.350 align:start position:0%
+a y1 the y1 is uh being added
+into<00:03:42.599><c> again</c><00:03:43.480><c> with</c><00:03:43.760><c> exactly</c><00:03:44.239><c> the</c><00:03:44.400><c> same</c>
+
+00:03:49.350 --> 00:03:49.360 align:start position:0%
+ 
+ 
+
+00:03:49.360 --> 00:03:52.869 align:start position:0%
+ 
+approach<00:03:50.360><c> and</c><00:03:50.640><c> this</c>
+
+00:03:52.869 --> 00:03:52.879 align:start position:0%
+ 
+ 
+
+00:03:52.879 --> 00:03:56.789 align:start position:0%
+ 
+is<00:03:53.879><c> the</c>
+
+00:03:56.789 --> 00:03:56.799 align:start position:0%
+ 
+ 
+
+00:03:56.799 --> 00:03:59.949 align:start position:0%
+ 
+output<00:03:57.799><c> Y2</c>
+
+00:03:59.949 --> 00:03:59.959 align:start position:0%
+output Y2
+ 
+
+00:03:59.959 --> 00:04:06.270 align:start position:0%
+output Y2
+and<00:04:00.400><c> uh</c><00:04:00.560><c> the</c><00:04:00.760><c> Y2</c><00:04:01.519><c> is</c><00:04:02.680><c> similarly</c>
+
+00:04:06.270 --> 00:04:06.280 align:start position:0%
+ 
+ 
+
+00:04:06.280 --> 00:04:11.069 align:start position:0%
+ 
+added<00:04:07.280><c> to</c><00:04:07.519><c> form</c><00:04:08.040><c> the</c>
+
+00:04:11.069 --> 00:04:11.079 align:start position:0%
+ 
+ 
+
+00:04:11.079 --> 00:04:15.110 align:start position:0%
+ 
+final<00:04:12.079><c> Y3</c><00:04:12.640><c> output</c><00:04:13.519><c> okay</c><00:04:13.760><c> so</c><00:04:13.920><c> this</c><00:04:14.040><c> is</c><00:04:14.280><c> the</c><00:04:14.959><c> kind</c>
+
+00:04:15.110 --> 00:04:15.120 align:start position:0%
+final Y3 output okay so this is the kind
+ 
+
+00:04:15.120 --> 00:04:17.430 align:start position:0%
+final Y3 output okay so this is the kind
+of<00:04:15.280><c> a</c><00:04:15.480><c> basic</c><00:04:15.959><c> rest</c><00:04:16.280><c> net</c><00:04:16.560><c> kind</c><00:04:16.720><c> of</c>
+
+00:04:17.430 --> 00:04:17.440 align:start position:0%
+of a basic rest net kind of
+ 
+
+00:04:17.440 --> 00:04:20.909 align:start position:0%
+of a basic rest net kind of
+architecture<00:04:18.440><c> uh</c><00:04:18.639><c> in</c><00:04:19.120><c> U</c><00:04:20.120><c> and</c><00:04:20.280><c> if</c><00:04:20.400><c> you</c><00:04:20.560><c> compare</c>
+
+00:04:20.909 --> 00:04:20.919 align:start position:0%
+architecture uh in U and if you compare
+ 
+
+00:04:20.919 --> 00:04:23.909 align:start position:0%
+architecture uh in U and if you compare
+what<00:04:21.040><c> we</c><00:04:21.160><c> have</c><00:04:21.320><c> seen</c><00:04:22.000><c> earlier</c><00:04:22.479><c> with</c><00:04:22.600><c> the</c><00:04:22.919><c> cnns</c>
+
+00:04:23.909 --> 00:04:23.919 align:start position:0%
+what we have seen earlier with the cnns
+ 
+
+00:04:23.919 --> 00:04:26.310 align:start position:0%
+what we have seen earlier with the cnns
+we<00:04:24.120><c> had</c><00:04:24.840><c> convolutional</c><00:04:25.479><c> layers</c><00:04:25.840><c> Max</c><00:04:26.120><c> pool</c>
+
+00:04:26.310 --> 00:04:26.320 align:start position:0%
+we had convolutional layers Max pool
+ 
+
+00:04:26.320 --> 00:04:28.510 align:start position:0%
+we had convolutional layers Max pool
+layers<00:04:26.600><c> and</c><00:04:26.720><c> so</c><00:04:26.960><c> nonlinear</c><00:04:27.720><c> evidently</c><00:04:28.199><c> over</c>
+
+00:04:28.510 --> 00:04:28.520 align:start position:0%
+layers and so nonlinear evidently over
+ 
+
+00:04:28.520 --> 00:04:30.830 align:start position:0%
+layers and so nonlinear evidently over
+here<00:04:29.160><c> but</c><00:04:29.280><c> we</c><00:04:29.440><c> never</c><00:04:29.840><c> had</c><00:04:30.080><c> this</c><00:04:30.240><c> kind</c><00:04:30.400><c> of</c><00:04:30.520><c> skip</c>
+
+00:04:30.830 --> 00:04:30.840 align:start position:0%
+here but we never had this kind of skip
+ 
+
+00:04:30.840 --> 00:04:35.590 align:start position:0%
+here but we never had this kind of skip
+over<00:04:31.600><c> connection</c><00:04:32.600><c> uh</c><00:04:32.759><c> as</c><00:04:32.880><c> we</c><00:04:33.080><c> call</c><00:04:33.600><c> it</c><00:04:34.600><c> okay</c><00:04:34.800><c> so</c>
+
+00:04:35.590 --> 00:04:35.600 align:start position:0%
+over connection uh as we call it okay so
+ 
+
+00:04:35.600 --> 00:04:38.830 align:start position:0%
+over connection uh as we call it okay so
+I<00:04:35.720><c> want</c><00:04:35.880><c> to</c><00:04:36.360><c> just</c><00:04:36.800><c> uh</c><00:04:37.120><c> go</c><00:04:37.320><c> ahead</c><00:04:37.600><c> and</c><00:04:37.880><c> write</c><00:04:38.400><c> now</c>
+
+00:04:38.830 --> 00:04:38.840 align:start position:0%
+I want to just uh go ahead and write now
+ 
+
+00:04:38.840 --> 00:04:41.189 align:start position:0%
+I want to just uh go ahead and write now
+the
+
+00:04:41.189 --> 00:04:41.199 align:start position:0%
+the
+ 
+
+00:04:41.199 --> 00:04:45.110 align:start position:0%
+the
+um<00:04:42.199><c> expression</c><00:04:42.960><c> of</c><00:04:43.400><c> the</c><00:04:43.639><c> output</c><00:04:44.400><c> of</c><00:04:44.639><c> each</c><00:04:44.880><c> of</c>
+
+00:04:45.110 --> 00:04:45.120 align:start position:0%
+um expression of the output of each of
+ 
+
+00:04:45.120 --> 00:04:46.790 align:start position:0%
+um expression of the output of each of
+these<00:04:45.560><c> uh</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+these uh
+ 
+
+00:04:46.800 --> 00:04:49.070 align:start position:0%
+these uh
+blocks<00:04:47.800><c> with</c><00:04:48.039><c> respect</c>
+
+00:04:49.070 --> 00:04:49.080 align:start position:0%
+blocks with respect
+ 
+
+00:04:49.080 --> 00:04:53.070 align:start position:0%
+blocks with respect
+to<00:04:50.080><c> the</c><00:04:50.440><c> input</c><00:04:51.440><c> so</c><00:04:52.000><c> I</c><00:04:52.120><c> hope</c><00:04:52.320><c> you</c>
+
+00:04:53.070 --> 00:04:53.080 align:start position:0%
+to the input so I hope you
+ 
+
+00:04:53.080 --> 00:04:56.270 align:start position:0%
+to the input so I hope you
+agree<00:04:54.080><c> uh</c><00:04:54.400><c> that</c><00:04:54.720><c> this</c><00:04:54.840><c> is</c><00:04:55.160><c> exactly</c><00:04:55.720><c> what</c><00:04:55.960><c> each</c>
+
+00:04:56.270 --> 00:04:56.280 align:start position:0%
+agree uh that this is exactly what each
+ 
+
+00:04:56.280 --> 00:05:00.710 align:start position:0%
+agree uh that this is exactly what each
+of<00:04:56.560><c> these</c><00:04:57.280><c> blocks</c><00:04:57.919><c> is</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+of these blocks is
+ 
+
+00:05:00.720 --> 00:05:05.430 align:start position:0%
+of these blocks is
+Implement<00:05:01.720><c> okay</c><00:05:01.880><c> so</c><00:05:02.160><c> we</c><00:05:02.360><c> have</c><00:05:02.800><c> uh</c><00:05:03.479><c> the</c><00:05:03.720><c> FI</c><00:05:04.479><c> of</c><00:05:04.800><c> Y</c>
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+Implement okay so we have uh the FI of Y
+ 
+
+00:05:05.440 --> 00:05:08.870 align:start position:0%
+Implement okay so we have uh the FI of Y
+IUS<00:05:06.080><c> one</c><00:05:06.479><c> plus</c><00:05:07.080><c> the</c><00:05:07.280><c> Y</c><00:05:07.520><c> IUS</c><00:05:08.080><c> one</c><00:05:08.320><c> in</c><00:05:08.479><c> each</c><00:05:08.639><c> of</c>
+
+00:05:08.870 --> 00:05:08.880 align:start position:0%
+IUS one plus the Y IUS one in each of
+ 
+
+00:05:08.880 --> 00:05:11.189 align:start position:0%
+IUS one plus the Y IUS one in each of
+these<00:05:09.479><c> so</c><00:05:09.680><c> if</c><00:05:09.800><c> I</c><00:05:09.919><c> may</c><00:05:10.320><c> write</c><00:05:10.639><c> down</c><00:05:10.919><c> these</c>
+
+00:05:11.189 --> 00:05:11.199 align:start position:0%
+these so if I may write down these
+ 
+
+00:05:11.199 --> 00:05:14.990 align:start position:0%
+these so if I may write down these
+equations<00:05:11.759><c> for</c><00:05:12.320><c> uh</c><00:05:12.520><c> let's</c><00:05:12.680><c> say</c><00:05:12.919><c> the</c>
+
+00:05:14.990 --> 00:05:15.000 align:start position:0%
+equations for uh let's say the
+ 
+
+00:05:15.000 --> 00:05:20.350 align:start position:0%
+equations for uh let's say the
+Y3<00:05:16.000><c> is</c><00:05:16.199><c> equal</c><00:05:16.520><c> to</c><00:05:16.759><c> F3</c><00:05:17.400><c> of</c><00:05:18.039><c> Y2</c><00:05:19.039><c> +</c>
+
+00:05:20.350 --> 00:05:20.360 align:start position:0%
+Y3 is equal to F3 of Y2 +
+ 
+
+00:05:20.360 --> 00:05:24.990 align:start position:0%
+Y3 is equal to F3 of Y2 +
+Y2<00:05:21.360><c> um</c><00:05:22.240><c> the</c><00:05:22.479><c> Y2</c>
+
+00:05:24.990 --> 00:05:25.000 align:start position:0%
+Y2 um the Y2
+ 
+
+00:05:25.000 --> 00:05:30.230 align:start position:0%
+Y2 um the Y2
+itself<00:05:26.000><c> is</c><00:05:26.880><c> FS2</c><00:05:27.639><c> of</c><00:05:27.919><c> y1</c><00:05:28.520><c> +</c><00:05:28.960><c> y1</c>
+
+00:05:30.230 --> 00:05:30.240 align:start position:0%
+itself is FS2 of y1 + y1
+ 
+
+00:05:30.240 --> 00:05:36.749 align:start position:0%
+itself is FS2 of y1 + y1
+and<00:05:30.400><c> the</c><00:05:30.639><c> y1</c><00:05:31.400><c> is</c><00:05:32.440><c> fub1</c><00:05:33.440><c> of</c><00:05:33.720><c> y0</c><00:05:34.600><c> +</c><00:05:35.280><c> y0</c><00:05:36.280><c> these</c><00:05:36.440><c> are</c>
+
+00:05:36.749 --> 00:05:36.759 align:start position:0%
+and the y1 is fub1 of y0 + y0 these are
+ 
+
+00:05:36.759 --> 00:05:39.590 align:start position:0%
+and the y1 is fub1 of y0 + y0 these are
+the<00:05:37.199><c> three</c><00:05:37.479><c> equations</c><00:05:38.240><c> for</c><00:05:38.520><c> each</c><00:05:38.720><c> of</c><00:05:38.960><c> the</c>
+
+00:05:39.590 --> 00:05:39.600 align:start position:0%
+the three equations for each of the
+ 
+
+00:05:39.600 --> 00:05:41.990 align:start position:0%
+the three equations for each of the
+three<00:05:39.919><c> blocks</c><00:05:40.199><c> that</c><00:05:40.360><c> I</c><00:05:40.560><c> have</c><00:05:40.840><c> here</c><00:05:41.560><c> and</c><00:05:41.759><c> what</c><00:05:41.880><c> I</c>
+
+00:05:41.990 --> 00:05:42.000 align:start position:0%
+three blocks that I have here and what I
+ 
+
+00:05:42.000 --> 00:05:44.029 align:start position:0%
+three blocks that I have here and what I
+want<00:05:42.120><c> to</c><00:05:42.280><c> do</c><00:05:42.520><c> now</c><00:05:42.759><c> is</c><00:05:42.880><c> I</c><00:05:43.000><c> want</c><00:05:43.160><c> to</c><00:05:43.440><c> start</c>
+
+00:05:44.029 --> 00:05:44.039 align:start position:0%
+want to do now is I want to start
+ 
+
+00:05:44.039 --> 00:05:49.230 align:start position:0%
+want to do now is I want to start
+replacing<00:05:45.039><c> the</c><00:05:45.560><c> Y2</c><00:05:46.560><c> uh</c><00:05:46.800><c> and</c><00:05:47.600><c> y1</c><00:05:48.600><c> uh</c><00:05:48.759><c> into</c><00:05:49.039><c> the</c>
+
+00:05:49.230 --> 00:05:49.240 align:start position:0%
+replacing the Y2 uh and y1 uh into the
+ 
+
+00:05:49.240 --> 00:05:51.990 align:start position:0%
+replacing the Y2 uh and y1 uh into the
+equation<00:05:49.680><c> Y3</c><00:05:50.199><c> because</c><00:05:50.400><c> I</c><00:05:50.520><c> want</c><00:05:50.680><c> to</c><00:05:50.840><c> write</c><00:05:51.160><c> down</c>
+
+00:05:51.990 --> 00:05:52.000 align:start position:0%
+equation Y3 because I want to write down
+ 
+
+00:05:52.000 --> 00:05:55.909 align:start position:0%
+equation Y3 because I want to write down
+the<00:05:52.360><c> equation</c><00:05:53.039><c> the</c><00:05:53.280><c> the</c><00:05:53.400><c> form</c><00:05:54.000><c> of</c><00:05:54.240><c> the</c><00:05:54.560><c> Y3</c><00:05:55.560><c> as</c><00:05:55.720><c> a</c>
+
+00:05:55.909 --> 00:05:55.919 align:start position:0%
+the equation the the form of the Y3 as a
+ 
+
+00:05:55.919 --> 00:06:02.749 align:start position:0%
+the equation the the form of the Y3 as a
+function<00:05:56.560><c> of</c><00:05:57.400><c> only</c><00:05:58.400><c> the</c><00:05:58.639><c> y0</c><00:05:59.400><c> and</c><00:05:59.960><c> the</c><00:06:00.680><c> two</c><00:06:01.759><c> um</c>
+
+00:06:02.749 --> 00:06:02.759 align:start position:0%
+function of only the y0 and the two um
+ 
+
+00:06:02.759 --> 00:06:04.870 align:start position:0%
+function of only the y0 and the two um
+functions<00:06:03.560><c> that</c><00:06:03.720><c> are</c><00:06:04.120><c> involved</c><00:06:04.600><c> in</c><00:06:04.720><c> the</c>
+
+00:06:04.870 --> 00:06:04.880 align:start position:0%
+functions that are involved in the
+ 
+
+00:06:04.880 --> 00:06:08.070 align:start position:0%
+functions that are involved in the
+blocks<00:06:05.319><c> F1</c><00:06:05.720><c> and</c><00:06:05.880><c> F2</c><00:06:06.720><c> okay</c><00:06:06.919><c> so</c><00:06:07.360><c> all</c><00:06:07.520><c> right</c><00:06:07.759><c> so</c>
+
+00:06:08.070 --> 00:06:08.080 align:start position:0%
+blocks F1 and F2 okay so all right so
+ 
+
+00:06:08.080 --> 00:06:10.589 align:start position:0%
+blocks F1 and F2 okay so all right so
+what<00:06:08.240><c> I'm</c><00:06:08.360><c> going</c><00:06:08.520><c> to</c><00:06:09.240><c> do</c><00:06:09.520><c> now</c><00:06:09.919><c> is</c><00:06:10.199><c> I'm</c><00:06:10.319><c> going</c><00:06:10.440><c> to</c>
+
+00:06:10.589 --> 00:06:10.599 align:start position:0%
+what I'm going to do now is I'm going to
+ 
+
+00:06:10.599 --> 00:06:12.110 align:start position:0%
+what I'm going to do now is I'm going to
+write<00:06:11.080><c> it</c><00:06:11.280><c> as</c>
+
+00:06:12.110 --> 00:06:12.120 align:start position:0%
+write it as
+ 
+
+00:06:12.120 --> 00:06:15.309 align:start position:0%
+write it as
+F3<00:06:13.120><c> of</c>
+
+00:06:15.309 --> 00:06:15.319 align:start position:0%
+F3 of
+ 
+
+00:06:15.319 --> 00:06:22.270 align:start position:0%
+F3 of
+Y2<00:06:16.319><c> I'm</c><00:06:16.520><c> sorry</c><00:06:16.840><c> F3</c><00:06:17.319><c> of</c>
+
+00:06:22.270 --> 00:06:22.280 align:start position:0%
+ 
+ 
+
+00:06:22.280 --> 00:06:26.870 align:start position:0%
+ 
+FS2<00:06:23.280><c> of</c><00:06:24.120><c> y1</c><00:06:25.120><c> +</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+FS2 of y1 +
+ 
+
+00:06:26.880 --> 00:06:31.950 align:start position:0%
+FS2 of y1 +
+y1<00:06:27.880><c> +</c><00:06:28.240><c> FS2</c><00:06:29.120><c> of</c><00:06:29.360><c> Y</c><00:06:29.599><c> y</c><00:06:29.919><c> 1</c><00:06:30.919><c> +</c>
+
+00:06:31.950 --> 00:06:31.960 align:start position:0%
+y1 + FS2 of Y y 1 +
+ 
+
+00:06:31.960 --> 00:06:35.990 align:start position:0%
+y1 + FS2 of Y y 1 +
+y1<00:06:32.960><c> okay</c><00:06:33.080><c> so</c><00:06:33.240><c> I</c><00:06:33.400><c> just</c><00:06:33.560><c> replace</c><00:06:33.960><c> it</c><00:06:34.199><c> Y2</c><00:06:35.039><c> with</c><00:06:35.199><c> it</c>
+
+00:06:35.990 --> 00:06:36.000 align:start position:0%
+y1 okay so I just replace it Y2 with it
+ 
+
+00:06:36.000 --> 00:06:46.990 align:start position:0%
+y1 okay so I just replace it Y2 with it
+equal<00:06:36.800><c> and</c><00:06:37.039><c> now</c><00:06:37.400><c> I</c><00:06:37.639><c> can</c><00:06:38.160><c> uh</c><00:06:39.080><c> uh</c><00:06:39.280><c> replace</c>
+
+00:06:46.990 --> 00:06:47.000 align:start position:0%
+ 
+ 
+
+00:06:47.000 --> 00:06:49.909 align:start position:0%
+ 
+now<00:06:48.000><c> let</c><00:06:48.160><c> me</c><00:06:48.360><c> write</c><00:06:48.560><c> it</c><00:06:48.759><c> over</c><00:06:49.080><c> here</c><00:06:49.479><c> because</c><00:06:49.720><c> I</c>
+
+00:06:49.909 --> 00:06:49.919 align:start position:0%
+now let me write it over here because I
+ 
+
+00:06:49.919 --> 00:06:54.029 align:start position:0%
+now let me write it over here because I
+just<00:06:50.080><c> need</c><00:06:50.280><c> a</c><00:06:50.479><c> long</c><00:06:50.880><c> line</c><00:06:51.720><c> to</c><00:06:52.000><c> replace</c>
+
+00:06:54.029 --> 00:06:54.039 align:start position:0%
+just need a long line to replace
+ 
+
+00:06:54.039 --> 00:06:56.990 align:start position:0%
+just need a long line to replace
+it<00:06:55.039><c> to</c><00:06:55.240><c> make</c><00:06:55.479><c> the</c><00:06:55.639><c> final</c><00:06:55.960><c> replacement</c><00:06:56.680><c> so</c><00:06:56.879><c> it</c>
+
+00:06:56.990 --> 00:06:57.000 align:start position:0%
+it to make the final replacement so it
+ 
+
+00:06:57.000 --> 00:06:58.510 align:start position:0%
+it to make the final replacement so it
+is
+
+00:06:58.510 --> 00:06:58.520 align:start position:0%
+is
+ 
+
+00:06:58.520 --> 00:07:01.749 align:start position:0%
+is
+F3<00:06:59.599><c> of</c><00:06:59.759><c> F2</c><00:07:00.160><c> now</c><00:07:00.319><c> I'm</c><00:07:00.440><c> going</c><00:07:00.520><c> to</c><00:07:00.680><c> replace</c><00:07:01.120><c> the</c><00:07:01.440><c> F</c>
+
+00:07:01.749 --> 00:07:01.759 align:start position:0%
+F3 of F2 now I'm going to replace the F
+ 
+
+00:07:01.759 --> 00:07:07.629 align:start position:0%
+F3 of F2 now I'm going to replace the F
+y1<00:07:02.319><c> with</c><00:07:02.479><c> its</c><00:07:03.199><c> equal</c><00:07:04.199><c> to</c><00:07:04.919><c> uh</c><00:07:05.360><c> obtain</c><00:07:05.800><c> the</c>
+
+00:07:07.629 --> 00:07:07.639 align:start position:0%
+y1 with its equal to uh obtain the
+ 
+
+00:07:07.639 --> 00:07:18.790 align:start position:0%
+y1 with its equal to uh obtain the
+final
+
+00:07:18.790 --> 00:07:18.800 align:start position:0%
+ 
+ 
+
+00:07:18.800 --> 00:07:21.110 align:start position:0%
+ 
+expression<00:07:19.800><c> and</c><00:07:20.000><c> this</c><00:07:20.120><c> is</c><00:07:20.360><c> now</c><00:07:20.599><c> the</c><00:07:20.800><c> second</c>
+
+00:07:21.110 --> 00:07:21.120 align:start position:0%
+expression and this is now the second
+ 
+
+00:07:21.120 --> 00:07:26.469 align:start position:0%
+expression and this is now the second
+square
+
+00:07:26.469 --> 00:07:26.479 align:start position:0%
+ 
+ 
+
+00:07:26.479 --> 00:07:29.550 align:start position:0%
+ 
+bracket<00:07:27.479><c> okay</c><00:07:28.400><c> so</c><00:07:28.639><c> it</c><00:07:28.759><c> is</c><00:07:28.960><c> really</c><00:07:29.240><c> this</c>
+
+00:07:29.550 --> 00:07:29.560 align:start position:0%
+bracket okay so it is really this
+ 
+
+00:07:29.560 --> 00:07:32.550 align:start position:0%
+bracket okay so it is really this
+bracket<00:07:29.919><c> over</c><00:07:30.240><c> here</c>
+
+00:07:32.550 --> 00:07:32.560 align:start position:0%
+bracket over here
+ 
+
+00:07:32.560 --> 00:07:34.550 align:start position:0%
+bracket over here
+plus
+
+00:07:34.550 --> 00:07:34.560 align:start position:0%
+plus
+ 
+
+00:07:34.560 --> 00:07:36.909 align:start position:0%
+plus
+plus<00:07:35.560><c> I</c><00:07:35.759><c> have</c>
+
+00:07:36.909 --> 00:07:36.919 align:start position:0%
+plus I have
+ 
+
+00:07:36.919 --> 00:07:40.950 align:start position:0%
+plus I have
+FS2<00:07:37.919><c> of</c><00:07:38.160><c> FS1</c><00:07:38.800><c> of</c><00:07:39.039><c> y0</c><00:07:39.639><c> +</c>
+
+00:07:40.950 --> 00:07:40.960 align:start position:0%
+FS2 of FS1 of y0 +
+ 
+
+00:07:40.960 --> 00:07:43.230 align:start position:0%
+FS2 of FS1 of y0 +
+y0<00:07:41.960><c> plus</c>
+
+00:07:43.230 --> 00:07:43.240 align:start position:0%
+y0 plus
+ 
+
+00:07:43.240 --> 00:07:46.350 align:start position:0%
+y0 plus
+fub1<00:07:44.240><c> of</c><00:07:44.479><c> y0</c><00:07:45.080><c> +</c><00:07:45.440><c> y</c>
+
+00:07:46.350 --> 00:07:46.360 align:start position:0%
+fub1 of y0 + y
+ 
+
+00:07:46.360 --> 00:07:51.749 align:start position:0%
+fub1 of y0 + y
+z<00:07:47.360><c> okay</c><00:07:47.520><c> so</c><00:07:47.759><c> this</c><00:07:47.879><c> is</c><00:07:48.479><c> uh</c><00:07:49.280><c> my</c><00:07:49.840><c> final</c><00:07:50.759><c> expression</c>
+
+00:07:51.749 --> 00:07:51.759 align:start position:0%
+z okay so this is uh my final expression
+ 
+
+00:07:51.759 --> 00:07:53.430 align:start position:0%
+z okay so this is uh my final expression
+with<00:07:52.039><c> respect</c>
+
+00:07:53.430 --> 00:07:53.440 align:start position:0%
+with respect
+ 
+
+00:07:53.440 --> 00:07:58.070 align:start position:0%
+with respect
+to<00:07:54.440><c> the</c><00:07:54.599><c> output</c><00:07:55.000><c> of</c><00:07:55.400><c> Y3</c><00:07:56.400><c> and</c><00:07:56.639><c> why</c><00:07:56.840><c> I</c><00:07:57.000><c> did</c><00:07:57.280><c> that</c><00:07:58.000><c> I</c>
+
+00:07:58.070 --> 00:07:58.080 align:start position:0%
+to the output of Y3 and why I did that I
+ 
+
+00:07:58.080 --> 00:08:00.589 align:start position:0%
+to the output of Y3 and why I did that I
+want<00:07:58.280><c> to</c><00:07:58.479><c> take</c><00:07:58.840><c> this</c><00:07:59.039><c> kind</c><00:07:59.199><c> of</c><00:07:59.599><c> architecture</c>
+
+00:08:00.589 --> 00:08:00.599 align:start position:0%
+want to take this kind of architecture
+ 
+
+00:08:00.599 --> 00:08:04.309 align:start position:0%
+want to take this kind of architecture
+and<00:08:00.840><c> write</c><00:08:01.199><c> its</c><00:08:01.759><c> equivalent</c><00:08:02.759><c> that</c><00:08:03.039><c> we</c><00:08:03.479><c> just</c>
+
+00:08:04.309 --> 00:08:04.319 align:start position:0%
+and write its equivalent that we just
+ 
+
+00:08:04.319 --> 00:08:07.629 align:start position:0%
+and write its equivalent that we just
+based<00:08:04.599><c> on</c><00:08:04.800><c> this</c><00:08:05.039><c> equation</c><00:08:06.000><c> and</c><00:08:06.479><c> that</c><00:08:06.680><c> kind</c><00:08:06.879><c> of</c>
+
+00:08:07.629 --> 00:08:07.639 align:start position:0%
+based on this equation and that kind of
+ 
+
+00:08:07.639 --> 00:08:10.670 align:start position:0%
+based on this equation and that kind of
+re-<00:08:08.400><c> plotting</c><00:08:08.840><c> or</c><00:08:09.080><c> redraw</c><00:08:09.759><c> drawing</c><00:08:10.159><c> of</c><00:08:10.440><c> this</c>
+
+00:08:10.670 --> 00:08:10.680 align:start position:0%
+re- plotting or redraw drawing of this
+ 
+
+00:08:10.680 --> 00:08:12.350 align:start position:0%
+re- plotting or redraw drawing of this
+kind<00:08:10.840><c> of</c><00:08:11.000><c> architecture</c><00:08:11.599><c> will</c><00:08:11.759><c> help</c><00:08:12.000><c> me</c><00:08:12.199><c> kind</c>
+
+00:08:12.350 --> 00:08:12.360 align:start position:0%
+kind of architecture will help me kind
+ 
+
+00:08:12.360 --> 00:08:14.350 align:start position:0%
+kind of architecture will help me kind
+of<00:08:12.800><c> understand</c><00:08:12.919><c> a</c><00:08:13.080><c> couple</c><00:08:13.280><c> of</c><00:08:13.440><c> things</c><00:08:13.759><c> about</c>
+
+00:08:14.350 --> 00:08:14.360 align:start position:0%
+of understand a couple of things about
+ 
+
+00:08:14.360 --> 00:08:18.110 align:start position:0%
+of understand a couple of things about
+the<00:08:14.560><c> advantages</c><00:08:15.080><c> of</c><00:08:15.280><c> rest</c><00:08:15.639><c> Nets</c><00:08:16.360><c> and</c><00:08:16.680><c> why</c><00:08:17.680><c> they</c>
+
+00:08:18.110 --> 00:08:18.120 align:start position:0%
+the advantages of rest Nets and why they
+ 
+
+00:08:18.120 --> 00:08:20.510 align:start position:0%
+the advantages of rest Nets and why they
+solve<00:08:18.520><c> the</c><00:08:18.800><c> problem</c><00:08:19.319><c> of</c><00:08:19.759><c> gradient</c><00:08:20.159><c> flow</c>
+
+00:08:20.510 --> 00:08:20.520 align:start position:0%
+solve the problem of gradient flow
+ 
+
+00:08:20.520 --> 00:08:21.710 align:start position:0%
+solve the problem of gradient flow
+throughout<00:08:20.879><c> the</c>
+
+00:08:21.710 --> 00:08:21.720 align:start position:0%
+throughout the
+ 
+
+00:08:21.720 --> 00:08:25.710 align:start position:0%
+throughout the
+network<00:08:22.720><c> okay</c><00:08:22.919><c> so</c><00:08:23.759><c> I</c><00:08:23.879><c> am</c><00:08:24.080><c> going</c><00:08:24.319><c> to</c><00:08:24.720><c> start</c><00:08:25.479><c> so</c>
+
+00:08:25.710 --> 00:08:25.720 align:start position:0%
+network okay so I am going to start so
+ 
+
+00:08:25.720 --> 00:08:29.990 align:start position:0%
+network okay so I am going to start so
+I'm<00:08:25.919><c> dividing</c><00:08:26.479><c> this</c><00:08:26.720><c> into</c><00:08:27.479><c> um</c><00:08:28.120><c> two</c><00:08:28.400><c> parts</c><00:08:29.680><c> uh</c><00:08:29.879><c> I</c>
+
+00:08:29.990 --> 00:08:30.000 align:start position:0%
+I'm dividing this into um two parts uh I
+ 
+
+00:08:30.000 --> 00:08:33.149 align:start position:0%
+I'm dividing this into um two parts uh I
+am<00:08:30.240><c> going</c><00:08:30.759><c> to</c><00:08:31.759><c> um</c>
+
+00:08:33.149 --> 00:08:33.159 align:start position:0%
+am going to um
+ 
+
+00:08:33.159 --> 00:08:36.589 align:start position:0%
+am going to um
+first<00:08:34.159><c> uh</c><00:08:34.599><c> draw</c>
+
+00:08:36.589 --> 00:08:36.599 align:start position:0%
+first uh draw
+ 
+
+00:08:36.599 --> 00:08:40.509 align:start position:0%
+first uh draw
+the<00:08:37.599><c> long</c><00:08:38.599><c> part</c><00:08:38.919><c> over</c><00:08:39.240><c> here</c><00:08:39.599><c> this</c><00:08:39.959><c> F3</c>
+
+00:08:40.509 --> 00:08:40.519 align:start position:0%
+the long part over here this F3
+ 
+
+00:08:40.519 --> 00:08:43.550 align:start position:0%
+the long part over here this F3
+expression<00:08:41.320><c> here</c><00:08:41.479><c> at</c><00:08:41.640><c> the</c><00:08:41.959><c> at</c><00:08:42.080><c> the</c><00:08:42.320><c> bottom</c><00:08:43.320><c> so</c>
+
+00:08:43.550 --> 00:08:43.560 align:start position:0%
+expression here at the at the bottom so
+ 
+
+00:08:43.560 --> 00:08:47.430 align:start position:0%
+expression here at the at the bottom so
+I<00:08:43.680><c> am</c><00:08:43.880><c> going</c><00:08:44.279><c> to</c><00:08:45.279><c> take</c><00:08:45.839><c> this</c><00:08:46.160><c> accepts</c><00:08:46.600><c> as</c><00:08:46.839><c> input</c>
+
+00:08:47.430 --> 00:08:47.440 align:start position:0%
+I am going to take this accepts as input
+ 
+
+00:08:47.440 --> 00:08:50.430 align:start position:0%
+I am going to take this accepts as input
+y0<00:08:48.240><c> that's</c><00:08:48.440><c> the</c><00:08:48.600><c> only</c><00:08:48.880><c> input</c><00:08:49.200><c> in</c><00:08:49.360><c> this</c>
+
+00:08:50.430 --> 00:08:50.440 align:start position:0%
+y0 that's the only input in this
+ 
+
+00:08:50.440 --> 00:08:54.910 align:start position:0%
+y0 that's the only input in this
+diagram<00:08:51.440><c> um</c><00:08:51.800><c> so</c><00:08:52.080><c> y0</c><00:08:52.760><c> is</c><00:08:52.920><c> going</c><00:08:53.680><c> into</c><00:08:54.680><c> the</c>
+
+00:08:54.910 --> 00:08:54.920 align:start position:0%
+diagram um so y0 is going into the
+ 
+
+00:08:54.920 --> 00:08:57.750 align:start position:0%
+diagram um so y0 is going into the
+function
+
+00:08:57.750 --> 00:08:57.760 align:start position:0%
+ 
+ 
+
+00:08:57.760 --> 00:09:00.230 align:start position:0%
+ 
+F1<00:08:58.760><c> F1</c>
+
+00:09:00.230 --> 00:09:00.240 align:start position:0%
+F1 F1
+ 
+
+00:09:00.240 --> 00:09:03.430 align:start position:0%
+F1 F1
+we<00:09:00.360><c> are</c><00:09:00.640><c> adding</c><00:09:01.120><c> now</c><00:09:01.800><c> the</c><00:09:02.000><c> function</c>
+
+00:09:03.430 --> 00:09:03.440 align:start position:0%
+we are adding now the function
+ 
+
+00:09:03.440 --> 00:09:08.310 align:start position:0%
+we are adding now the function
+uh<00:09:04.440><c> the</c><00:09:04.680><c> the</c><00:09:04.959><c> y</c><00:09:05.240><c> z</c><00:09:05.519><c> into</c><00:09:06.040><c> it</c><00:09:07.040><c> okay</c><00:09:07.160><c> so</c><00:09:07.519><c> that's</c>
+
+00:09:08.310 --> 00:09:08.320 align:start position:0%
+uh the the y z into it okay so that's
+ 
+
+00:09:08.320 --> 00:09:11.710 align:start position:0%
+uh the the y z into it okay so that's
+basically<00:09:09.320><c> uh</c><00:09:09.640><c> this</c>
+
+00:09:11.710 --> 00:09:11.720 align:start position:0%
+basically uh this
+ 
+
+00:09:11.720 --> 00:09:14.750 align:start position:0%
+basically uh this
+term<00:09:12.720><c> all</c><00:09:12.920><c> right</c><00:09:13.120><c> so</c><00:09:13.360><c> then</c><00:09:13.519><c> we</c><00:09:13.720><c> take</c><00:09:14.040><c> the</c><00:09:14.200><c> FS2</c>
+
+00:09:14.750 --> 00:09:14.760 align:start position:0%
+term all right so then we take the FS2
+ 
+
+00:09:14.760 --> 00:09:16.870 align:start position:0%
+term all right so then we take the FS2
+of<00:09:15.000><c> this</c><00:09:15.160><c> term</c><00:09:15.519><c> so</c><00:09:15.800><c> the</c><00:09:15.920><c> output</c><00:09:16.279><c> of</c><00:09:16.480><c> this</c><00:09:16.680><c> is</c>
+
+00:09:16.870 --> 00:09:16.880 align:start position:0%
+of this term so the output of this is
+ 
+
+00:09:16.880 --> 00:09:19.670 align:start position:0%
+of this term so the output of this is
+being<00:09:17.120><c> fed</c><00:09:17.720><c> to</c>
+
+00:09:19.670 --> 00:09:19.680 align:start position:0%
+being fed to
+ 
+
+00:09:19.680 --> 00:09:27.069 align:start position:0%
+being fed to
+F2<00:09:20.680><c> and</c><00:09:21.279><c> uh</c><00:09:21.959><c> what</c><00:09:22.120><c> we</c><00:09:22.680><c> do</c><00:09:23.680><c> is</c><00:09:24.279><c> uh</c><00:09:25.160><c> we</c><00:09:25.800><c> add</c><00:09:26.800><c> for</c>
+
+00:09:27.069 --> 00:09:27.079 align:start position:0%
+F2 and uh what we do is uh we add for
+ 
+
+00:09:27.079 --> 00:09:31.030 align:start position:0%
+F2 and uh what we do is uh we add for
+this<00:09:27.320><c> FS2</c><00:09:27.959><c> we</c><00:09:28.160><c> add</c><00:09:28.560><c> this</c><00:09:28.800><c> term</c><00:09:29.079><c> over</c><00:09:29.519><c> here</c><00:09:30.279><c> F1</c><00:09:30.839><c> y</c>
+
+00:09:31.030 --> 00:09:31.040 align:start position:0%
+this FS2 we add this term over here F1 y
+ 
+
+00:09:31.040 --> 00:09:42.949 align:start position:0%
+this FS2 we add this term over here F1 y
+0<00:09:31.360><c> +</c><00:09:31.760><c> y0</c><00:09:32.760><c> so</c><00:09:32.959><c> we</c><00:09:33.200><c> add</c><00:09:33.480><c> to</c><00:09:33.680><c> it</c>
+
+00:09:42.949 --> 00:09:42.959 align:start position:0%
+ 
+ 
+
+00:09:42.959 --> 00:09:44.509 align:start position:0%
+ 
+another
+
+00:09:44.509 --> 00:09:44.519 align:start position:0%
+another
+ 
+
+00:09:44.519 --> 00:09:51.350 align:start position:0%
+another
+block<00:09:45.519><c> involving</c><00:09:46.240><c> the</c><00:09:46.399><c> function</c>
+
+00:09:51.350 --> 00:09:51.360 align:start position:0%
+ 
+ 
+
+00:09:51.360 --> 00:09:54.829 align:start position:0%
+ 
+F1<00:09:52.360><c> okay</c><00:09:52.560><c> so</c><00:09:52.880><c> this</c><00:09:53.000><c> is</c><00:09:53.760><c> basically</c><00:09:54.240><c> this</c><00:09:54.440><c> inner</c>
+
+00:09:54.829 --> 00:09:54.839 align:start position:0%
+F1 okay so this is basically this inner
+ 
+
+00:09:54.839 --> 00:09:57.630 align:start position:0%
+F1 okay so this is basically this inner
+term<00:09:55.120><c> over</c><00:09:55.440><c> here</c><00:09:55.720><c> and</c><00:09:55.839><c> then</c><00:09:56.279><c> finally</c><00:09:57.279><c> we</c><00:09:57.399><c> are</c>
+
+00:09:57.630 --> 00:09:57.640 align:start position:0%
+term over here and then finally we are
+ 
+
+00:09:57.640 --> 00:10:00.190 align:start position:0%
+term over here and then finally we are
+taking<00:09:58.040><c> the</c><00:09:58.240><c> F3</c><00:09:58.839><c> of</c><00:09:59.079><c> that</c><00:09:59.560><c> so</c><00:09:59.800><c> this</c><00:09:59.920><c> is</c>
+
+00:10:00.190 --> 00:10:00.200 align:start position:0%
+taking the F3 of that so this is
+ 
+
+00:10:00.200 --> 00:10:09.110 align:start position:0%
+taking the F3 of that so this is
+basically<00:10:00.839><c> my</c><00:10:02.200><c> F3</c><00:10:03.200><c> so</c><00:10:03.440><c> if</c><00:10:03.640><c> I</c><00:10:03.839><c> am</c><00:10:04.040><c> a</c><00:10:04.839><c> um</c>
+
+00:10:09.110 --> 00:10:09.120 align:start position:0%
+ 
+ 
+
+00:10:09.120 --> 00:10:13.110 align:start position:0%
+ 
+Circle<00:10:10.120><c> if</c><00:10:10.279><c> I</c><00:10:10.399><c> may</c><00:10:10.640><c> Circle</c><00:10:11.480><c> this</c><00:10:12.480><c> uh</c><00:10:12.680><c> this</c><00:10:12.839><c> will</c>
+
+00:10:13.110 --> 00:10:13.120 align:start position:0%
+Circle if I may Circle this uh this will
+ 
+
+00:10:13.120 --> 00:10:14.750 align:start position:0%
+Circle if I may Circle this uh this will
+be<00:10:13.680><c> let's</c><00:10:13.920><c> say</c>
+
+00:10:14.750 --> 00:10:14.760 align:start position:0%
+be let's say
+ 
+
+00:10:14.760 --> 00:10:19.750 align:start position:0%
+be let's say
+a<00:10:15.760><c> this</c><00:10:16.040><c> a</c><00:10:16.440><c> will</c><00:10:16.640><c> be</c><00:10:16.920><c> available</c><00:10:17.480><c> over</c>
+
+00:10:19.750 --> 00:10:19.760 align:start position:0%
+a this a will be available over
+ 
+
+00:10:19.760 --> 00:10:22.269 align:start position:0%
+a this a will be available over
+here<00:10:20.760><c> okay</c><00:10:20.920><c> so</c><00:10:21.120><c> we</c><00:10:21.279><c> have</c><00:10:21.519><c> now</c><00:10:21.800><c> finished</c><00:10:22.160><c> with</c>
+
+00:10:22.269 --> 00:10:22.279 align:start position:0%
+here okay so we have now finished with
+ 
+
+00:10:22.279 --> 00:10:25.350 align:start position:0%
+here okay so we have now finished with
+the<00:10:22.440><c> plotting</c><00:10:22.839><c> of</c><00:10:23.000><c> the</c><00:10:23.160><c> first</c><00:10:23.720><c> term</c><00:10:24.720><c> and</c><00:10:24.920><c> now</c>
+
+00:10:25.350 --> 00:10:25.360 align:start position:0%
+the plotting of the first term and now
+ 
+
+00:10:25.360 --> 00:10:27.509 align:start position:0%
+the plotting of the first term and now
+let's<00:10:25.600><c> look</c><00:10:25.839><c> at</c><00:10:26.000><c> the</c><00:10:26.240><c> second</c>
+
+00:10:27.509 --> 00:10:27.519 align:start position:0%
+let's look at the second
+ 
+
+00:10:27.519 --> 00:10:32.069 align:start position:0%
+let's look at the second
+term<00:10:28.519><c> so</c><00:10:28.839><c> the</c><00:10:29.040><c> second</c><00:10:29.600><c> term</c><00:10:29.959><c> is</c><00:10:30.959><c> simply</c><00:10:31.399><c> FS2</c><00:10:31.880><c> of</c>
+
+00:10:32.069 --> 00:10:32.079 align:start position:0%
+term so the second term is simply FS2 of
+ 
+
+00:10:32.079 --> 00:10:42.310 align:start position:0%
+term so the second term is simply FS2 of
+y1<00:10:32.640><c> y</c><00:10:32.800><c> 0</c><00:10:33.120><c> +</c><00:10:33.880><c> y0</c><00:10:34.880><c> so</c><00:10:35.480><c> I</c><00:10:35.600><c> am</c><00:10:35.839><c> going</c><00:10:36.040><c> to</c><00:10:36.279><c> go</c><00:10:37.200><c> again</c>
+
+00:10:42.310 --> 00:10:42.320 align:start position:0%
+ 
+ 
+
+00:10:42.320 --> 00:10:50.069 align:start position:0%
+ 
+here<00:10:43.320><c> this</c><00:10:43.480><c> is</c><00:10:43.680><c> in</c><00:10:44.360><c> fact</c><00:10:45.360><c> just</c><00:10:45.920><c> one</c>
+
+00:10:50.069 --> 00:10:50.079 align:start position:0%
+ 
+ 
+
+00:10:50.079 --> 00:10:54.470 align:start position:0%
+ 
+line<00:10:51.079><c> so</c><00:10:51.279><c> I'm</c><00:10:51.399><c> going</c><00:10:51.560><c> to</c><00:10:51.760><c> just</c><00:10:51.959><c> take</c><00:10:52.279><c> again</c>
+
+00:10:54.470 --> 00:10:54.480 align:start position:0%
+line so I'm going to just take again
+ 
+
+00:10:54.480 --> 00:10:56.269 align:start position:0%
+line so I'm going to just take again
+fub1<00:10:55.480><c> of</c>
+
+00:10:56.269 --> 00:10:56.279 align:start position:0%
+fub1 of
+ 
+
+00:10:56.279 --> 00:10:59.710 align:start position:0%
+fub1 of
+y0<00:10:57.279><c> +</c><00:10:57.720><c> y0</c>
+
+00:10:59.710 --> 00:10:59.720 align:start position:0%
+y0 + y0
+ 
+
+00:10:59.720 --> 00:11:05.389 align:start position:0%
+y0 + y0
+and<00:10:59.920><c> I'm</c><00:11:00.120><c> simply</c><00:11:00.680><c> going</c><00:11:00.920><c> to</c><00:11:01.160><c> take</c><00:11:01.440><c> the</c><00:11:01.600><c> F2</c><00:11:02.040><c> of</c>
+
+00:11:05.389 --> 00:11:05.399 align:start position:0%
+ 
+ 
+
+00:11:05.399 --> 00:11:09.790 align:start position:0%
+ 
+that<00:11:06.399><c> and</c><00:11:06.839><c> uh</c><00:11:07.079><c> this</c><00:11:07.360><c> thing</c><00:11:07.639><c> over</c><00:11:08.000><c> here</c>
+
+00:11:09.790 --> 00:11:09.800 align:start position:0%
+that and uh this thing over here
+ 
+
+00:11:09.800 --> 00:11:14.150 align:start position:0%
+that and uh this thing over here
+is<00:11:10.800><c> the</c><00:11:11.040><c> point</c>
+
+00:11:14.150 --> 00:11:14.160 align:start position:0%
+ 
+ 
+
+00:11:14.160 --> 00:11:19.069 align:start position:0%
+ 
+B<00:11:15.240><c> however</c><00:11:16.600><c> however</c><00:11:17.600><c> uh</c><00:11:18.240><c> this</c><00:11:18.519><c> so</c><00:11:18.760><c> this</c><00:11:18.880><c> is</c>
+
+00:11:19.069 --> 00:11:19.079 align:start position:0%
+B however however uh this so this is
+ 
+
+00:11:19.079 --> 00:11:25.150 align:start position:0%
+B however however uh this so this is
+basically<00:11:19.600><c> B</c><00:11:20.160><c> let</c><00:11:20.320><c> me</c><00:11:20.959><c> uh</c><00:11:21.959><c> throw</c><00:11:22.279><c> it</c><00:11:22.440><c> over</c>
+
+00:11:25.150 --> 00:11:25.160 align:start position:0%
+ 
+ 
+
+00:11:25.160 --> 00:11:28.670 align:start position:0%
+ 
+here<00:11:26.160><c> to</c><00:11:26.399><c> B</c><00:11:26.720><c> now</c><00:11:27.079><c> what</c><00:11:27.240><c> we</c><00:11:27.440><c> have</c><00:11:27.680><c> is</c><00:11:27.880><c> we</c><00:11:28.079><c> simply</c>
+
+00:11:28.670 --> 00:11:28.680 align:start position:0%
+here to B now what we have is we simply
+ 
+
+00:11:28.680 --> 00:11:37.710 align:start position:0%
+here to B now what we have is we simply
+add<00:11:29.440><c> another</c><00:11:29.839><c> of</c><00:11:30.040><c> these</c>
+
+00:11:37.710 --> 00:11:37.720 align:start position:0%
+ 
+ 
+
+00:11:37.720 --> 00:11:40.670 align:start position:0%
+ 
+guys<00:11:38.720><c> we</c><00:11:38.920><c> add</c><00:11:39.279><c> to</c>
+
+00:11:40.670 --> 00:11:40.680 align:start position:0%
+guys we add to
+ 
+
+00:11:40.680 --> 00:11:44.590 align:start position:0%
+guys we add to
+be<00:11:41.680><c> this</c><00:11:42.000><c> and</c><00:11:42.160><c> I</c><00:11:42.279><c> would</c><00:11:42.480><c> like</c><00:11:42.760><c> to</c><00:11:43.760><c> Circle</c><00:11:44.360><c> that</c>
+
+00:11:44.590 --> 00:11:44.600 align:start position:0%
+be this and I would like to Circle that
+ 
+
+00:11:44.600 --> 00:11:48.190 align:start position:0%
+be this and I would like to Circle that
+over<00:11:45.079><c> because</c><00:11:45.600><c> we</c><00:11:45.839><c> see</c><00:11:46.680><c> here</c><00:11:47.680><c> three</c><00:11:47.959><c> things</c>
+
+00:11:48.190 --> 00:11:48.200 align:start position:0%
+over because we see here three things
+ 
+
+00:11:48.200 --> 00:11:52.910 align:start position:0%
+over because we see here three things
+being<00:11:48.519><c> involved</c><00:11:49.079><c> a</c><00:11:49.320><c> b</c><00:11:49.639><c> and</c><00:11:49.880><c> c</c><00:11:50.240><c> so</c><00:11:50.480><c> this</c><00:11:50.639><c> is</c>
+
+00:11:52.910 --> 00:11:52.920 align:start position:0%
+ 
+ 
+
+00:11:52.920 --> 00:11:56.069 align:start position:0%
+ 
+C<00:11:53.920><c> and</c><00:11:54.120><c> then</c><00:11:55.000><c> B</c><00:11:55.320><c> and</c>
+
+00:11:56.069 --> 00:11:56.079 align:start position:0%
+C and then B and
+ 
+
+00:11:56.079 --> 00:12:04.269 align:start position:0%
+C and then B and
+C<00:11:57.079><c> are</c><00:11:57.399><c> added</c><00:11:57.880><c> to</c><00:11:58.160><c> a</c>
+
+00:12:04.269 --> 00:12:04.279 align:start position:0%
+ 
+ 
+
+00:12:04.279 --> 00:12:07.590 align:start position:0%
+ 
+and<00:12:04.480><c> this</c><00:12:04.639><c> will</c><00:12:04.959><c> actually</c><00:12:05.279><c> be</c><00:12:05.519><c> my</c>
+
+00:12:07.590 --> 00:12:07.600 align:start position:0%
+and this will actually be my
+ 
+
+00:12:07.600 --> 00:12:10.069 align:start position:0%
+and this will actually be my
+Y3<00:12:08.600><c> and</c><00:12:08.720><c> now</c><00:12:08.920><c> that</c><00:12:09.079><c> we</c><00:12:09.240><c> have</c><00:12:09.480><c> this</c><00:12:09.680><c> kind</c><00:12:09.839><c> of</c>
+
+00:12:10.069 --> 00:12:10.079 align:start position:0%
+Y3 and now that we have this kind of
+ 
+
+00:12:10.079 --> 00:12:12.710 align:start position:0%
+Y3 and now that we have this kind of
+diagram<00:12:10.600><c> we</c><00:12:10.839><c> actually</c><00:12:11.120><c> can</c><00:12:11.360><c> make</c><00:12:11.920><c> some</c><00:12:12.360><c> really</c>
+
+00:12:12.710 --> 00:12:12.720 align:start position:0%
+diagram we actually can make some really
+ 
+
+00:12:12.720 --> 00:12:17.470 align:start position:0%
+diagram we actually can make some really
+nice<00:12:13.600><c> conclusions</c><00:12:14.279><c> out</c><00:12:14.480><c> of</c><00:12:14.760><c> it</c><00:12:15.760><c> uh</c><00:12:16.279><c> as</c><00:12:16.399><c> you</c><00:12:16.560><c> can</c>
+
+00:12:17.470 --> 00:12:17.480 align:start position:0%
+nice conclusions out of it uh as you can
+ 
+
+00:12:17.480 --> 00:12:21.030 align:start position:0%
+nice conclusions out of it uh as you can
+see<00:12:18.480><c> uh</c><00:12:19.079><c> the</c><00:12:19.320><c> gradient</c><00:12:19.880><c> in</c><00:12:20.040><c> the</c><00:12:20.199><c> backward</c><00:12:20.720><c> pass</c>
+
+00:12:21.030 --> 00:12:21.040 align:start position:0%
+see uh the gradient in the backward pass
+ 
+
+00:12:21.040 --> 00:12:22.509 align:start position:0%
+see uh the gradient in the backward pass
+so<00:12:21.279><c> the</c><00:12:21.480><c> point</c><00:12:21.720><c> number</c><00:12:21.959><c> one</c><00:12:22.120><c> I</c><00:12:22.240><c> want</c><00:12:22.399><c> to</c>
+
+00:12:22.509 --> 00:12:22.519 align:start position:0%
+so the point number one I want to
+ 
+
+00:12:22.519 --> 00:12:29.350 align:start position:0%
+so the point number one I want to
+mention<00:12:22.839><c> is</c><00:12:23.000><c> about</c><00:12:23.279><c> the</c><00:12:23.440><c> gradient</c><00:12:23.839><c> flow</c>
+
+00:12:29.350 --> 00:12:29.360 align:start position:0%
+ 
+ 
+
+00:12:29.360 --> 00:12:31.030 align:start position:0%
+ 
+so<00:12:29.560><c> you</c><00:12:29.680><c> can</c><00:12:29.800><c> see</c><00:12:30.040><c> the</c><00:12:30.160><c> gradient</c><00:12:30.560><c> flow</c><00:12:30.839><c> in</c><00:12:30.920><c> the</c>
+
+00:12:31.030 --> 00:12:31.040 align:start position:0%
+so you can see the gradient flow in the
+ 
+
+00:12:31.040 --> 00:12:33.750 align:start position:0%
+so you can see the gradient flow in the
+backward<00:12:31.600><c> pass</c><00:12:32.120><c> during</c><00:12:32.480><c> back</c><00:12:32.800><c> propagation</c>
+
+00:12:33.750 --> 00:12:33.760 align:start position:0%
+backward pass during back propagation
+ 
+
+00:12:33.760 --> 00:12:38.870 align:start position:0%
+backward pass during back propagation
+now<00:12:34.279><c> has</c><00:12:35.279><c> a</c><00:12:35.880><c> a</c><00:12:36.160><c> diverse</c><00:12:36.760><c> set</c><00:12:37.040><c> of</c><00:12:37.440><c> paths</c><00:12:38.000><c> and</c><00:12:38.600><c> to</c>
+
+00:12:38.870 --> 00:12:38.880 align:start position:0%
+now has a a diverse set of paths and to
+ 
+
+00:12:38.880 --> 00:12:41.629 align:start position:0%
+now has a a diverse set of paths and to
+actually<00:12:39.160><c> flow</c><00:12:39.920><c> all</c><00:12:40.120><c> the</c><00:12:40.279><c> way</c><00:12:40.440><c> to</c><00:12:40.600><c> the</c><00:12:40.760><c> input</c>
+
+00:12:41.629 --> 00:12:41.639 align:start position:0%
+actually flow all the way to the input
+ 
+
+00:12:41.639 --> 00:12:44.670 align:start position:0%
+actually flow all the way to the input
+let's<00:12:41.880><c> say</c><00:12:42.040><c> it</c><00:12:42.199><c> has</c><00:12:42.480><c> this</c><00:12:43.000><c> path</c><00:12:43.399><c> that</c><00:12:44.079><c> simply</c>
+
+00:12:44.670 --> 00:12:44.680 align:start position:0%
+let's say it has this path that simply
+ 
+
+00:12:44.680 --> 00:12:47.550 align:start position:0%
+let's say it has this path that simply
+just<00:12:44.880><c> follows</c><00:12:45.519><c> all</c><00:12:45.680><c> the</c><00:12:45.800><c> way</c><00:12:46.000><c> to</c><00:12:46.199><c> the</c><00:12:46.720><c> input</c><00:12:47.279><c> y</c>
+
+00:12:47.550 --> 00:12:47.560 align:start position:0%
+just follows all the way to the input y
+ 
+
+00:12:47.560 --> 00:12:50.470 align:start position:0%
+just follows all the way to the input y
+z<00:12:48.519><c> the</c><00:12:48.680><c> other</c><00:12:49.040><c> path</c><00:12:49.279><c> that</c><00:12:49.480><c> goes</c>
+
+00:12:50.470 --> 00:12:50.480 align:start position:0%
+z the other path that goes
+ 
+
+00:12:50.480 --> 00:12:54.590 align:start position:0%
+z the other path that goes
+through<00:12:51.480><c> this</c><00:12:51.800><c> F1</c><00:12:52.680><c> to</c><00:12:52.880><c> go</c><00:12:53.040><c> to</c><00:12:53.240><c> the</c><00:12:53.399><c> input</c><00:12:54.279><c> this</c>
+
+00:12:54.590 --> 00:12:54.600 align:start position:0%
+through this F1 to go to the input this
+ 
+
+00:12:54.600 --> 00:12:57.389 align:start position:0%
+through this F1 to go to the input this
+path<00:12:54.880><c> through</c><00:12:55.160><c> F2</c><00:12:56.079><c> and</c><00:12:56.320><c> F</c><00:12:56.600><c> the</c><00:12:56.720><c> concatenation</c>
+
+00:12:57.389 --> 00:12:57.399 align:start position:0%
+path through F2 and F the concatenation
+ 
+
+00:12:57.399 --> 00:13:00.629 align:start position:0%
+path through F2 and F the concatenation
+F2<00:12:57.839><c> and</c><00:12:58.079><c> and</c><00:12:58.240><c> fub1</c><00:12:59.199><c> or</c><00:12:59.399><c> via</c><00:12:59.800><c> this</c><00:13:00.279><c> skip</c>
+
+00:13:00.629 --> 00:13:00.639 align:start position:0%
+F2 and and fub1 or via this skip
+ 
+
+00:13:00.639 --> 00:13:02.829 align:start position:0%
+F2 and and fub1 or via this skip
+connection<00:13:01.120><c> to</c><00:13:01.279><c> go</c><00:13:01.440><c> to</c><00:13:01.600><c> F0</c><00:13:02.079><c> and</c><00:13:02.199><c> so</c><00:13:02.360><c> on</c><00:13:02.519><c> and</c><00:13:02.680><c> so</c>
+
+00:13:02.829 --> 00:13:02.839 align:start position:0%
+connection to go to F0 and so on and so
+ 
+
+00:13:02.839 --> 00:13:08.069 align:start position:0%
+connection to go to F0 and so on and so
+on<00:13:03.120><c> so</c><00:13:03.680><c> what</c><00:13:03.800><c> we</c><00:13:03.959><c> see</c><00:13:04.240><c> here</c><00:13:04.440><c> is</c><00:13:04.639><c> we</c><00:13:04.839><c> have</c><00:13:05.199><c> a</c><00:13:05.920><c> a</c>
+
+00:13:08.069 --> 00:13:08.079 align:start position:0%
+on so what we see here is we have a a
+ 
+
+00:13:08.079 --> 00:13:13.750 align:start position:0%
+on so what we see here is we have a a
+diverse<00:13:09.079><c> uh</c><00:13:09.240><c> set</c><00:13:09.519><c> of</c>
+
+00:13:13.750 --> 00:13:13.760 align:start position:0%
+ 
+ 
+
+00:13:13.760 --> 00:13:17.629 align:start position:0%
+ 
+paths<00:13:14.760><c> uh</c>
+
+00:13:17.629 --> 00:13:17.639 align:start position:0%
+ 
+ 
+
+00:13:17.639 --> 00:13:20.670 align:start position:0%
+ 
+through<00:13:18.639><c> uh</c>
+
+00:13:20.670 --> 00:13:20.680 align:start position:0%
+through uh
+ 
+
+00:13:20.680 --> 00:13:23.949 align:start position:0%
+through uh
+each
+
+00:13:23.949 --> 00:13:23.959 align:start position:0%
+ 
+ 
+
+00:13:23.959 --> 00:13:25.949 align:start position:0%
+ 
+goes
+
+00:13:25.949 --> 00:13:25.959 align:start position:0%
+goes
+ 
+
+00:13:25.959 --> 00:13:30.430 align:start position:0%
+goes
+through<00:13:27.240><c> um</c><00:13:28.240><c> of</c><00:13:28.639><c> uh</c><00:13:28.720><c> s</c><00:13:29.000><c> of</c><00:13:29.160><c> of</c><00:13:29.760><c> gates</c><00:13:30.120><c> I</c><00:13:30.240><c> will</c>
+
+00:13:30.430 --> 00:13:30.440 align:start position:0%
+through um of uh s of of gates I will
+ 
+
+00:13:30.440 --> 00:13:32.750 align:start position:0%
+through um of uh s of of gates I will
+call<00:13:30.680><c> it</c><00:13:31.680><c> because</c><00:13:32.000><c> this</c><00:13:32.120><c> is</c><00:13:32.320><c> what</c><00:13:32.440><c> we</c><00:13:32.600><c> have</c>
+
+00:13:32.750 --> 00:13:32.760 align:start position:0%
+call it because this is what we have
+ 
+
+00:13:32.760 --> 00:13:35.230 align:start position:0%
+call it because this is what we have
+used<00:13:33.680><c> as</c><00:13:33.800><c> a</c><00:13:33.959><c> term</c><00:13:34.199><c> from</c><00:13:34.399><c> back</c>
+
+00:13:35.230 --> 00:13:35.240 align:start position:0%
+used as a term from back
+ 
+
+00:13:35.240 --> 00:13:41.310 align:start position:0%
+used as a term from back
+propagation<00:13:36.240><c> of</c>
+
+00:13:41.310 --> 00:13:41.320 align:start position:0%
+ 
+ 
+
+00:13:41.320 --> 00:13:44.069 align:start position:0%
+ 
+varing<00:13:42.320><c> uh</c>
+
+00:13:44.069 --> 00:13:44.079 align:start position:0%
+varing uh
+ 
+
+00:13:44.079 --> 00:13:47.110 align:start position:0%
+varing uh
+depth<00:13:45.079><c> okay</c><00:13:45.320><c> for</c><00:13:45.560><c> varing</c><00:13:46.000><c> depth</c><00:13:46.720><c> so</c><00:13:46.920><c> that's</c>
+
+00:13:47.110 --> 00:13:47.120 align:start position:0%
+depth okay for varing depth so that's
+ 
+
+00:13:47.120 --> 00:13:49.389 align:start position:0%
+depth okay for varing depth so that's
+kind<00:13:47.279><c> of</c><00:13:47.480><c> important</c><00:13:48.160><c> earlier</c><00:13:48.760><c> what</c><00:13:48.920><c> we</c><00:13:49.120><c> had</c>
+
+00:13:49.389 --> 00:13:49.399 align:start position:0%
+kind of important earlier what we had
+ 
+
+00:13:49.399 --> 00:13:51.470 align:start position:0%
+kind of important earlier what we had
+without<00:13:49.800><c> those</c><00:13:50.040><c> kind</c><00:13:50.160><c> of</c><00:13:50.279><c> skip</c><00:13:50.560><c> connections</c>
+
+00:13:51.470 --> 00:13:51.480 align:start position:0%
+without those kind of skip connections
+ 
+
+00:13:51.480 --> 00:13:55.030 align:start position:0%
+without those kind of skip connections
+we<00:13:51.639><c> had</c><00:13:51.839><c> simply</c><00:13:52.240><c> F1</c><00:13:52.720><c> con</c><00:13:53.399><c> with</c><00:13:53.800><c> two3</c><00:13:54.800><c> in</c><00:13:54.920><c> the</c>
+
+00:13:55.030 --> 00:13:55.040 align:start position:0%
+we had simply F1 con with two3 in the
+ 
+
+00:13:55.040 --> 00:13:57.829 align:start position:0%
+we had simply F1 con with two3 in the
+So-Cal<00:13:55.519><c> let's</c><00:13:55.639><c> say</c><00:13:55.800><c> V</c><00:13:56.320><c> architecture</c><00:13:57.320><c> so</c><00:13:57.600><c> here</c>
+
+00:13:57.829 --> 00:13:57.839 align:start position:0%
+So-Cal let's say V architecture so here
+ 
+
+00:13:57.839 --> 00:14:01.710 align:start position:0%
+So-Cal let's say V architecture so here
+we<00:13:58.040><c> had</c><00:13:58.360><c> a</c><00:13:58.880><c> a</c><00:13:59.120><c> back</c><00:13:59.440><c> propagation</c><00:14:00.440><c> that</c><00:14:00.639><c> it</c><00:14:00.800><c> was</c>
+
+00:14:01.710 --> 00:14:01.720 align:start position:0%
+we had a a back propagation that it was
+ 
+
+00:14:01.720 --> 00:14:04.670 align:start position:0%
+we had a a back propagation that it was
+involving<00:14:02.720><c> um</c><00:14:03.079><c> just</c><00:14:03.519><c> a</c><00:14:03.639><c> single</c><00:14:04.000><c> trajectory</c><00:14:04.560><c> a</c>
+
+00:14:04.670 --> 00:14:04.680 align:start position:0%
+involving um just a single trajectory a
+ 
+
+00:14:04.680 --> 00:14:06.269 align:start position:0%
+involving um just a single trajectory a
+single<00:14:05.040><c> path</c><00:14:05.279><c> through</c><00:14:05.600><c> all</c><00:14:05.759><c> all</c><00:14:05.880><c> of</c><00:14:06.040><c> these</c>
+
+00:14:06.269 --> 00:14:06.279 align:start position:0%
+single path through all all of these
+ 
+
+00:14:06.279 --> 00:14:08.389 align:start position:0%
+single path through all all of these
+Gates<00:14:06.839><c> and</c><00:14:07.079><c> at</c><00:14:07.199><c> some</c><00:14:07.399><c> point</c><00:14:07.600><c> the</c><00:14:07.759><c> gradient</c><00:14:08.199><c> was</c>
+
+00:14:08.389 --> 00:14:08.399 align:start position:0%
+Gates and at some point the gradient was
+ 
+
+00:14:08.399 --> 00:14:10.990 align:start position:0%
+Gates and at some point the gradient was
+actually<00:14:09.040><c> dying</c><00:14:09.959><c> and</c><00:14:10.120><c> of</c><00:14:10.240><c> course</c><00:14:10.440><c> a</c><00:14:10.639><c> dying</c>
+
+00:14:10.990 --> 00:14:11.000 align:start position:0%
+actually dying and of course a dying
+ 
+
+00:14:11.000 --> 00:14:13.069 align:start position:0%
+actually dying and of course a dying
+gradient<00:14:11.480><c> means</c><00:14:11.920><c> that</c><00:14:12.639><c> specific</c>
+
+00:14:13.069 --> 00:14:13.079 align:start position:0%
+gradient means that specific
+ 
+
+00:14:13.079 --> 00:14:16.150 align:start position:0%
+gradient means that specific
+functionality<00:14:13.639><c> of</c><00:14:13.759><c> my</c><00:14:14.360><c> network</c><00:14:15.360><c> uh</c><00:14:15.600><c> they</c><00:14:15.720><c> are</c>
+
+00:14:16.150 --> 00:14:16.160 align:start position:0%
+functionality of my network uh they are
+ 
+
+00:14:16.160 --> 00:14:18.150 align:start position:0%
+functionality of my network uh they are
+being<00:14:16.600><c> uh</c><00:14:16.920><c> updated</c><00:14:17.399><c> the</c><00:14:17.560><c> parameters</c><00:14:18.000><c> are</c>
+
+00:14:18.150 --> 00:14:18.160 align:start position:0%
+being uh updated the parameters are
+ 
+
+00:14:18.160 --> 00:14:20.590 align:start position:0%
+being uh updated the parameters are
+being<00:14:18.399><c> updated</c><00:14:19.120><c> very</c><00:14:19.399><c> very</c><00:14:19.600><c> slowly</c><00:14:20.120><c> or</c><00:14:20.399><c> just</c>
+
+00:14:20.590 --> 00:14:20.600 align:start position:0%
+being updated very very slowly or just
+ 
+
+00:14:20.600 --> 00:14:23.590 align:start position:0%
+being updated very very slowly or just
+simply<00:14:20.959><c> seize</c><00:14:21.399><c> to</c><00:14:21.560><c> be</c><00:14:21.759><c> updated</c><00:14:22.320><c> so</c><00:14:22.519><c> that's</c><00:14:22.839><c> not</c>
+
+00:14:23.590 --> 00:14:23.600 align:start position:0%
+simply seize to be updated so that's not
+ 
+
+00:14:23.600 --> 00:14:25.509 align:start position:0%
+simply seize to be updated so that's not
+uh<00:14:23.759><c> really</c><00:14:24.040><c> I</c><00:14:24.120><c> mean</c><00:14:24.279><c> this</c><00:14:24.360><c> is</c><00:14:24.920><c> one</c><00:14:25.040><c> of</c><00:14:25.199><c> the</c><00:14:25.320><c> key</c>
+
+00:14:25.509 --> 00:14:25.519 align:start position:0%
+uh really I mean this is one of the key
+ 
+
+00:14:25.519 --> 00:14:27.829 align:start position:0%
+uh really I mean this is one of the key
+observations<00:14:26.120><c> that</c><00:14:26.279><c> led</c><00:14:26.519><c> to</c><00:14:26.680><c> some</c><00:14:26.959><c> kind</c><00:14:27.120><c> of</c>
+
+00:14:27.829 --> 00:14:27.839 align:start position:0%
+observations that led to some kind of
+ 
+
+00:14:27.839 --> 00:14:31.350 align:start position:0%
+observations that led to some kind of
+leveling<00:14:28.440><c> of</c><00:14:29.120><c> of</c><00:14:29.240><c> the</c><00:14:29.519><c> performance</c><00:14:30.519><c> of</c><00:14:30.800><c> these</c>
+
+00:14:31.350 --> 00:14:31.360 align:start position:0%
+leveling of of the performance of these
+ 
+
+00:14:31.360 --> 00:14:34.110 align:start position:0%
+leveling of of the performance of these
+earlier<00:14:31.839><c> kind</c><00:14:32.040><c> of</c><00:14:32.639><c> architectures</c><00:14:33.639><c> uh</c><00:14:33.800><c> as</c><00:14:33.959><c> the</c>
+
+00:14:34.110 --> 00:14:34.120 align:start position:0%
+earlier kind of architectures uh as the
+ 
+
+00:14:34.120 --> 00:14:36.350 align:start position:0%
+earlier kind of architectures uh as the
+number<00:14:34.360><c> of</c><00:14:34.480><c> layers</c><00:14:34.839><c> were</c><00:14:35.040><c> being</c><00:14:35.279><c> added</c><00:14:35.639><c> up</c><00:14:36.199><c> in</c>
+
+00:14:36.350 --> 00:14:36.360 align:start position:0%
+number of layers were being added up in
+ 
+
+00:14:36.360 --> 00:14:39.269 align:start position:0%
+number of layers were being added up in
+this<00:14:36.560><c> kind</c><00:14:36.720><c> of</c><00:14:36.839><c> architecture</c><00:14:37.639><c> we</c><00:14:38.279><c> are</c>
+
+00:14:39.269 --> 00:14:39.279 align:start position:0%
+this kind of architecture we are
+ 
+
+00:14:39.279 --> 00:14:40.990 align:start position:0%
+this kind of architecture we are
+effectively<00:14:39.880><c> Implement</c><00:14:40.399><c> what</c><00:14:40.519><c> is</c><00:14:40.720><c> actually</c>
+
+00:14:40.990 --> 00:14:41.000 align:start position:0%
+effectively Implement what is actually
+ 
+
+00:14:41.000 --> 00:14:44.030 align:start position:0%
+effectively Implement what is actually
+known<00:14:41.320><c> as</c><00:14:41.560><c> Highway</c><00:14:42.240><c> networks</c><00:14:43.240><c> and</c><00:14:43.759><c> those</c>
+
+00:14:44.030 --> 00:14:44.040 align:start position:0%
+known as Highway networks and those
+ 
+
+00:14:44.040 --> 00:14:46.749 align:start position:0%
+known as Highway networks and those
+Highway<00:14:44.920><c> highways</c><00:14:45.399><c> that</c><00:14:45.560><c> we</c><00:14:45.759><c> creating</c><00:14:46.480><c> for</c>
+
+00:14:46.749 --> 00:14:46.759 align:start position:0%
+Highway highways that we creating for
+ 
+
+00:14:46.759 --> 00:14:50.110 align:start position:0%
+Highway highways that we creating for
+the<00:14:47.279><c> gradient</c><00:14:48.279><c> uh</c><00:14:48.839><c> empirically</c><00:14:49.440><c> has</c><00:14:49.600><c> shown</c>
+
+00:14:50.110 --> 00:14:50.120 align:start position:0%
+the gradient uh empirically has shown
+ 
+
+00:14:50.120 --> 00:14:51.829 align:start position:0%
+the gradient uh empirically has shown
+that<00:14:50.320><c> we</c><00:14:50.440><c> are</c><00:14:50.600><c> actually</c><00:14:50.880><c> can</c><00:14:51.120><c> go</c><00:14:51.360><c> much</c><00:14:51.600><c> much</c>
+
+00:14:51.829 --> 00:14:51.839 align:start position:0%
+that we are actually can go much much
+ 
+
+00:14:51.839 --> 00:14:55.230 align:start position:0%
+that we are actually can go much much
+deeper<00:14:52.199><c> so</c><00:14:52.360><c> we'll</c><00:14:52.560><c> see</c><00:14:52.759><c> now</c><00:14:53.079><c> some</c><00:14:54.000><c> depths</c><00:14:54.800><c> uh</c>
+
+00:14:55.230 --> 00:14:55.240 align:start position:0%
+deeper so we'll see now some depths uh
+ 
+
+00:14:55.240 --> 00:14:57.430 align:start position:0%
+deeper so we'll see now some depths uh
+uh<00:14:55.399><c> typical</c><00:14:55.759><c> depths</c><00:14:56.040><c> that</c><00:14:56.199><c> we</c><00:14:56.480><c> experience</c><00:14:57.079><c> in</c>
+
+00:14:57.430 --> 00:14:57.440 align:start position:0%
+uh typical depths that we experience in
+ 
+
+00:14:57.440 --> 00:14:59.629 align:start position:0%
+uh typical depths that we experience in
+uh<00:14:57.720><c> we</c><00:14:57.880><c> we</c><00:14:58.000><c> have</c><00:14:58.160><c> in</c><00:14:58.240><c> a</c><00:14:58.360><c> resent</c><00:14:58.720><c> architect</c><00:14:59.360><c> in</c><00:14:59.480><c> a</c>
+
+00:14:59.629 --> 00:14:59.639 align:start position:0%
+uh we we have in a resent architect in a
+ 
+
+00:14:59.639 --> 00:15:01.509 align:start position:0%
+uh we we have in a resent architect in a
+moment<00:15:00.560><c> the</c>
+
+00:15:01.509 --> 00:15:01.519 align:start position:0%
+moment the
+ 
+
+00:15:01.519 --> 00:15:04.870 align:start position:0%
+moment the
+second<00:15:02.519><c> uh</c><00:15:02.759><c> aspect</c><00:15:03.120><c> of</c><00:15:03.360><c> that</c><00:15:04.000><c> is</c><00:15:04.199><c> a</c><00:15:04.399><c> bit</c><00:15:04.600><c> more</c>
+
+00:15:04.870 --> 00:15:04.880 align:start position:0%
+second uh aspect of that is a bit more
+ 
+
+00:15:04.880 --> 00:15:06.990 align:start position:0%
+second uh aspect of that is a bit more
+nuanced<00:15:05.519><c> and</c><00:15:05.639><c> it</c><00:15:05.800><c> has</c><00:15:05.959><c> to</c><00:15:06.120><c> do</c><00:15:06.360><c> with</c><00:15:06.600><c> what</c><00:15:06.759><c> we</c>
+
+00:15:06.990 --> 00:15:07.000 align:start position:0%
+nuanced and it has to do with what we
+ 
+
+00:15:07.000 --> 00:15:14.509 align:start position:0%
+nuanced and it has to do with what we
+call<00:15:07.759><c> an</c><00:15:08.040><c> ensample</c>
+
+00:15:14.509 --> 00:15:14.519 align:start position:0%
+ 
+ 
+
+00:15:14.519 --> 00:15:16.749 align:start position:0%
+ 
+learning<00:15:15.519><c> so</c><00:15:15.680><c> in</c><00:15:15.839><c> this</c><00:15:16.000><c> kind</c><00:15:16.120><c> of</c><00:15:16.279><c> Ensemble</c>
+
+00:15:16.749 --> 00:15:16.759 align:start position:0%
+learning so in this kind of Ensemble
+ 
+
+00:15:16.759 --> 00:15:19.590 align:start position:0%
+learning so in this kind of Ensemble
+learning<00:15:17.160><c> architecture</c><00:15:17.800><c> what</c><00:15:17.959><c> we</c><00:15:18.199><c> see</c><00:15:19.199><c> is</c><00:15:19.440><c> we</c>
+
+00:15:19.590 --> 00:15:19.600 align:start position:0%
+learning architecture what we see is we
+ 
+
+00:15:19.600 --> 00:15:23.310 align:start position:0%
+learning architecture what we see is we
+see<00:15:20.240><c> U</c><00:15:21.240><c> uh</c><00:15:21.480><c> the</c><00:15:21.680><c> concatenation</c><00:15:22.639><c> the</c><00:15:22.880><c> the</c>
+
+00:15:23.310 --> 00:15:23.320 align:start position:0%
+see U uh the concatenation the the
+ 
+
+00:15:23.320 --> 00:15:26.189 align:start position:0%
+see U uh the concatenation the the
+combination<00:15:24.320><c> of</c><00:15:24.959><c> three</c><00:15:25.320><c> predictors</c><00:15:25.920><c> here</c>
+
+00:15:26.189 --> 00:15:26.199 align:start position:0%
+combination of three predictors here
+ 
+
+00:15:26.199 --> 00:15:28.189 align:start position:0%
+combination of three predictors here
+three<00:15:26.440><c> main</c><00:15:26.880><c> prediction</c><00:15:27.360><c> architectures</c><00:15:28.040><c> each</c>
+
+00:15:28.189 --> 00:15:28.199 align:start position:0%
+three main prediction architectures each
+ 
+
+00:15:28.199 --> 00:15:31.069 align:start position:0%
+three main prediction architectures each
+of<00:15:28.360><c> those</c><00:15:28.560><c> predictors</c><00:15:29.199><c> has</c><00:15:30.199><c> a</c>
+
+00:15:31.069 --> 00:15:31.079 align:start position:0%
+of those predictors has a
+ 
+
+00:15:31.079 --> 00:15:34.430 align:start position:0%
+of those predictors has a
+varying<00:15:32.079><c> uh</c><00:15:32.279><c> kind</c><00:15:32.480><c> of</c><00:15:32.920><c> functionality</c><00:15:33.720><c> so</c><00:15:33.880><c> we</c>
+
+00:15:34.430 --> 00:15:34.440 align:start position:0%
+varying uh kind of functionality so we
+ 
+
+00:15:34.440 --> 00:15:38.269 align:start position:0%
+varying uh kind of functionality so we
+see<00:15:35.440><c> a</c><00:15:35.959><c> fairly</c><00:15:36.959><c> involved</c><00:15:37.399><c> predictor</c><00:15:37.920><c> which</c><00:15:38.079><c> we</c>
+
+00:15:38.269 --> 00:15:38.279 align:start position:0%
+see a fairly involved predictor which we
+ 
+
+00:15:38.279 --> 00:15:40.749 align:start position:0%
+see a fairly involved predictor which we
+call<00:15:38.560><c> a</c><00:15:39.319><c> we</c><00:15:39.440><c> see</c><00:15:39.720><c> another</c><00:15:40.079><c> predictor</c><00:15:40.519><c> which</c>
+
+00:15:40.749 --> 00:15:40.759 align:start position:0%
+call a we see another predictor which
+ 
+
+00:15:40.759 --> 00:15:43.030 align:start position:0%
+call a we see another predictor which
+call<00:15:41.040><c> B</c><00:15:41.440><c> and</c><00:15:41.639><c> another</c><00:15:42.000><c> predictor</c><00:15:42.720><c> that</c><00:15:42.880><c> we</c>
+
+00:15:43.030 --> 00:15:43.040 align:start position:0%
+call B and another predictor that we
+ 
+
+00:15:43.040 --> 00:15:46.550 align:start position:0%
+call B and another predictor that we
+call<00:15:43.519><c> C</c><00:15:44.519><c> and</c><00:15:44.759><c> what</c><00:15:45.000><c> we</c><00:15:45.120><c> see</c><00:15:45.360><c> at</c><00:15:45.519><c> the</c><00:15:45.639><c> output</c><00:15:46.120><c> are</c>
+
+00:15:46.550 --> 00:15:46.560 align:start position:0%
+call C and what we see at the output are
+ 
+
+00:15:46.560 --> 00:15:50.309 align:start position:0%
+call C and what we see at the output are
+the<00:15:46.920><c> kind</c><00:15:47.120><c> of</c><00:15:47.319><c> combination</c><00:15:48.079><c> of</c><00:15:49.079><c> of</c><00:15:49.319><c> those</c>
+
+00:15:50.309 --> 00:15:50.319 align:start position:0%
+the kind of combination of of those
+ 
+
+00:15:50.319 --> 00:15:53.550 align:start position:0%
+the kind of combination of of those
+simply<00:15:51.319><c> um</c><00:15:51.560><c> I</c><00:15:51.600><c> mean</c><00:15:52.360><c> if</c><00:15:52.480><c> you</c><00:15:52.959><c> are</c><00:15:53.160><c> familiar</c>
+
+00:15:53.550 --> 00:15:53.560 align:start position:0%
+simply um I mean if you are familiar
+ 
+
+00:15:53.560 --> 00:15:55.949 align:start position:0%
+simply um I mean if you are familiar
+with<00:15:53.920><c> ample</c><00:15:54.440><c> kind</c><00:15:54.600><c> of</c><00:15:54.800><c> methods</c><00:15:55.319><c> which</c><00:15:55.480><c> I'll</c>
+
+00:15:55.949 --> 00:15:55.959 align:start position:0%
+with ample kind of methods which I'll
+ 
+
+00:15:55.959 --> 00:15:57.309 align:start position:0%
+with ample kind of methods which I'll
+provide<00:15:56.240><c> some</c><00:15:56.440><c> kind</c><00:15:56.600><c> of</c><00:15:56.720><c> background</c><00:15:57.079><c> in</c><00:15:57.199><c> a</c>
+
+00:15:57.309 --> 00:15:57.319 align:start position:0%
+provide some kind of background in a
+ 
+
+00:15:57.319 --> 00:16:00.509 align:start position:0%
+provide some kind of background in a
+moment<00:15:57.920><c> we</c><00:15:58.040><c> are</c><00:15:58.279><c> adding</c><00:15:59.279><c> the</c><00:15:59.720><c> individual</c>
+
+00:16:00.509 --> 00:16:00.519 align:start position:0%
+moment we are adding the individual
+ 
+
+00:16:00.519 --> 00:16:02.230 align:start position:0%
+moment we are adding the individual
+prediction<00:16:01.519><c> uh</c>
+
+00:16:02.230 --> 00:16:02.240 align:start position:0%
+prediction uh
+ 
+
+00:16:02.240 --> 00:16:06.790 align:start position:0%
+prediction uh
+results<00:16:03.240><c> given</c><00:16:03.560><c> the</c><00:16:03.720><c> input</c><00:16:04.160><c> y</c><00:16:04.519><c> z</c><00:16:05.519><c> uh</c><00:16:06.160><c> at</c><00:16:06.360><c> the</c><00:16:06.600><c> to</c>
+
+00:16:06.790 --> 00:16:06.800 align:start position:0%
+results given the input y z uh at the to
+ 
+
+00:16:06.800 --> 00:16:09.230 align:start position:0%
+results given the input y z uh at the to
+to<00:16:07.000><c> obtain</c><00:16:07.319><c> our</c><00:16:07.560><c> final</c><00:16:07.920><c> prediction</c><00:16:08.399><c> output</c>
+
+00:16:09.230 --> 00:16:09.240 align:start position:0%
+to obtain our final prediction output
+ 
+
+00:16:09.240 --> 00:16:12.749 align:start position:0%
+to obtain our final prediction output
+the<00:16:09.519><c> the</c><00:16:09.639><c> so-called</c><00:16:10.160><c> Y3</c><00:16:10.680><c> hat</c><00:16:11.600><c> okay</c><00:16:11.880><c> and</c><00:16:12.360><c> and</c><00:16:12.480><c> so</c>
+
+00:16:12.749 --> 00:16:12.759 align:start position:0%
+the the so-called Y3 hat okay and and so
+ 
+
+00:16:12.759 --> 00:16:13.870 align:start position:0%
+the the so-called Y3 hat okay and and so
+that's
+
+00:16:13.870 --> 00:16:13.880 align:start position:0%
+that's
+ 
+
+00:16:13.880 --> 00:16:19.590 align:start position:0%
+that's
+um<00:16:14.880><c> uh</c><00:16:15.440><c> um</c><00:16:15.759><c> ample</c><00:16:16.279><c> methods</c><00:16:16.880><c> have</c><00:16:17.880><c> uh</c><00:16:18.839><c> proven</c><00:16:19.440><c> in</c>
+
+00:16:19.590 --> 00:16:19.600 align:start position:0%
+um uh um ample methods have uh proven in
+ 
+
+00:16:19.600 --> 00:16:22.269 align:start position:0%
+um uh um ample methods have uh proven in
+the<00:16:19.720><c> field</c><00:16:20.079><c> to</c><00:16:20.240><c> be</c><00:16:20.360><c> a</c><00:16:20.560><c> very</c><00:16:20.839><c> powerful</c><00:16:21.800><c> uh</c>
+
+00:16:22.269 --> 00:16:22.279 align:start position:0%
+the field to be a very powerful uh
+ 
+
+00:16:22.279 --> 00:16:25.309 align:start position:0%
+the field to be a very powerful uh
+approach<00:16:23.279><c> uh</c><00:16:23.399><c> in</c><00:16:23.600><c> solving</c><00:16:24.560><c> um</c><00:16:24.959><c> you</c><00:16:25.079><c> know</c>
+
+00:16:25.309 --> 00:16:25.319 align:start position:0%
+approach uh in solving um you know
+ 
+
+00:16:25.319 --> 00:16:28.710 align:start position:0%
+approach uh in solving um you know
+complex<00:16:25.800><c> kind</c><00:16:25.959><c> of</c><00:16:26.240><c> tasks</c><00:16:27.240><c> and</c><00:16:27.680><c> uh</c><00:16:27.839><c> in</c><00:16:28.040><c> fact</c>
+
+00:16:28.710 --> 00:16:28.720 align:start position:0%
+complex kind of tasks and uh in fact
+ 
+
+00:16:28.720 --> 00:16:30.749 align:start position:0%
+complex kind of tasks and uh in fact
+some<00:16:29.120><c> methods</c><00:16:29.399><c> are</c><00:16:29.680><c> being</c><00:16:29.920><c> used</c><00:16:30.319><c> both</c><00:16:30.519><c> for</c>
+
+00:16:30.749 --> 00:16:30.759 align:start position:0%
+some methods are being used both for
+ 
+
+00:16:30.759 --> 00:16:33.470 align:start position:0%
+some methods are being used both for
+structure<00:16:31.319><c> and</c><00:16:31.519><c> unstructured</c><00:16:32.240><c> data</c><00:16:33.160><c> and</c><00:16:33.319><c> in</c>
+
+00:16:33.470 --> 00:16:33.480 align:start position:0%
+structure and unstructured data and in
+ 
+
+00:16:33.480 --> 00:16:35.749 align:start position:0%
+structure and unstructured data and in
+the<00:16:33.720><c> structure</c><00:16:34.199><c> kind</c><00:16:34.319><c> of</c><00:16:34.480><c> data</c><00:16:34.720><c> field</c><00:16:35.040><c> you</c>
+
+00:16:35.749 --> 00:16:35.759 align:start position:0%
+the structure kind of data field you
+ 
+
+00:16:35.759 --> 00:16:38.150 align:start position:0%
+the structure kind of data field you
+have<00:16:36.399><c> methods</c><00:16:36.959><c> such</c><00:16:37.120><c> as</c><00:16:37.279><c> gradient</c><00:16:37.720><c> boosting</c>
+
+00:16:38.150 --> 00:16:38.160 align:start position:0%
+have methods such as gradient boosting
+ 
+
+00:16:38.160 --> 00:16:40.309 align:start position:0%
+have methods such as gradient boosting
+and<00:16:38.319><c> so</c><00:16:38.519><c> on</c><00:16:39.199><c> providing</c><00:16:39.680><c> some</c><00:16:40.000><c> real</c>
+
+00:16:40.309 --> 00:16:40.319 align:start position:0%
+and so on providing some real
+ 
+
+00:16:40.319 --> 00:16:43.710 align:start position:0%
+and so on providing some real
+state-of-the-art<00:16:41.160><c> results</c><00:16:41.560><c> today</c><00:16:42.440><c> so</c><00:16:43.360><c> a</c><00:16:43.480><c> few</c>
+
+00:16:43.710 --> 00:16:43.720 align:start position:0%
+state-of-the-art results today so a few
+ 
+
+00:16:43.720 --> 00:16:46.710 align:start position:0%
+state-of-the-art results today so a few
+words<00:16:44.000><c> about</c><00:16:44.360><c> ample</c><00:16:44.880><c> methods</c><00:16:45.240><c> is</c><00:16:45.560><c> arguably</c><00:16:46.079><c> a</c>
+
+00:16:46.710 --> 00:16:46.720 align:start position:0%
+words about ample methods is arguably a
+ 
+
+00:16:46.720 --> 00:16:48.710 align:start position:0%
+words about ample methods is arguably a
+parenthesis<00:16:47.720><c> uh</c><00:16:47.880><c> but</c><00:16:48.000><c> I</c><00:16:48.120><c> think</c><00:16:48.240><c> it's</c><00:16:48.399><c> a</c><00:16:48.600><c> kind</c>
+
+00:16:48.710 --> 00:16:48.720 align:start position:0%
+parenthesis uh but I think it's a kind
+ 
+
+00:16:48.720 --> 00:16:49.910 align:start position:0%
+parenthesis uh but I think it's a kind
+of
+
+00:16:49.910 --> 00:16:49.920 align:start position:0%
+of
+ 
+
+00:16:49.920 --> 00:16:52.389 align:start position:0%
+of
+worthwhile<00:16:50.920><c> uh</c><00:16:51.399><c> sort</c><00:16:51.639><c> of</c><00:16:51.839><c> discussing</c><00:16:52.279><c> a</c>
+
+00:16:52.389 --> 00:16:52.399 align:start position:0%
+worthwhile uh sort of discussing a
+ 
+
+00:16:52.399 --> 00:17:00.350 align:start position:0%
+worthwhile uh sort of discussing a
+little<00:16:52.639><c> bit</c><00:16:52.880><c> about</c><00:16:53.199><c> ensample</c><00:16:53.800><c> methods</c>
+
+00:17:00.350 --> 00:17:00.360 align:start position:0%
+ 
+ 
+
+00:17:00.360 --> 00:17:02.710 align:start position:0%
+ 
+so<00:17:01.160><c> there</c><00:17:01.279><c> are</c><00:17:01.440><c> various</c><00:17:01.759><c> asample</c><00:17:02.199><c> methods</c><00:17:02.560><c> but</c>
+
+00:17:02.710 --> 00:17:02.720 align:start position:0%
+so there are various asample methods but
+ 
+
+00:17:02.720 --> 00:17:05.549 align:start position:0%
+so there are various asample methods but
+I<00:17:02.839><c> think</c><00:17:03.399><c> a</c><00:17:03.560><c> common</c><00:17:03.920><c> denominator</c><00:17:04.640><c> for</c><00:17:05.079><c> many</c><00:17:05.360><c> of</c>
+
+00:17:05.549 --> 00:17:05.559 align:start position:0%
+I think a common denominator for many of
+ 
+
+00:17:05.559 --> 00:17:10.110 align:start position:0%
+I think a common denominator for many of
+them<00:17:06.360><c> is</c><00:17:06.600><c> that</c><00:17:07.000><c> the</c><00:17:07.360><c> um</c><00:17:08.319><c> prediction</c><00:17:09.039><c> why</c><00:17:09.439><c> hat</c>
+
+00:17:10.110 --> 00:17:10.120 align:start position:0%
+them is that the um prediction why hat
+ 
+
+00:17:10.120 --> 00:17:12.870 align:start position:0%
+them is that the um prediction why hat
+that<00:17:10.319><c> we</c><00:17:10.520><c> get</c><00:17:11.280><c> from</c><00:17:11.600><c> the</c><00:17:11.720><c> so-called</c><00:17:12.240><c> ensample</c>
+
+00:17:12.870 --> 00:17:12.880 align:start position:0%
+that we get from the so-called ensample
+ 
+
+00:17:12.880 --> 00:17:21.230 align:start position:0%
+that we get from the so-called ensample
+also<00:17:13.120><c> known</c><00:17:13.400><c> as</c><00:17:13.640><c> committee</c>
+
+00:17:21.230 --> 00:17:21.240 align:start position:0%
+ 
+ 
+
+00:17:21.240 --> 00:17:24.110 align:start position:0%
+ 
+methods<00:17:22.240><c> where</c><00:17:22.439><c> we</c><00:17:22.640><c> for</c><00:17:22.919><c> form</c><00:17:23.199><c> a</c><00:17:23.400><c> committee</c><00:17:23.919><c> a</c>
+
+00:17:24.110 --> 00:17:24.120 align:start position:0%
+methods where we for form a committee a
+ 
+
+00:17:24.120 --> 00:17:27.110 align:start position:0%
+methods where we for form a committee a
+group<00:17:24.480><c> of</c><00:17:24.919><c> experts</c><00:17:25.480><c> or</c><00:17:26.000><c> weak</c><00:17:26.319><c> Learners</c><00:17:26.799><c> as</c><00:17:26.959><c> we</c>
+
+00:17:27.110 --> 00:17:27.120 align:start position:0%
+group of experts or weak Learners as we
+ 
+
+00:17:27.120 --> 00:17:30.590 align:start position:0%
+group of experts or weak Learners as we
+call<00:17:27.360><c> them</c><00:17:28.360><c> um</c><00:17:28.559><c> is</c><00:17:29.120><c> uh</c><00:17:29.240><c> let</c><00:17:29.400><c> me</c><00:17:29.559><c> call</c><00:17:29.760><c> it</c><00:17:30.280><c> why</c>
+
+00:17:30.590 --> 00:17:30.600 align:start position:0%
+call them um is uh let me call it why
+ 
+
+00:17:30.600 --> 00:17:35.070 align:start position:0%
+call them um is uh let me call it why
+hat<00:17:30.799><c> committee</c><00:17:31.799><c> is</c><00:17:32.600><c> simply</c><00:17:33.600><c> uh</c><00:17:33.760><c> the</c><00:17:34.080><c> average</c>
+
+00:17:35.070 --> 00:17:35.080 align:start position:0%
+hat committee is simply uh the average
+ 
+
+00:17:35.080 --> 00:17:38.070 align:start position:0%
+hat committee is simply uh the average
+let<00:17:35.200><c> me</c><00:17:35.400><c> call</c><00:17:35.559><c> it</c><00:17:35.720><c> 1</c><00:17:35.919><c> /</c><00:17:36.320><c> capital</c><00:17:36.720><c> K</c><00:17:37.679><c> of</c><00:17:37.919><c> the</c>
+
+00:17:38.070 --> 00:17:38.080 align:start position:0%
+let me call it 1 / capital K of the
+ 
+
+00:17:38.080 --> 00:17:40.669 align:start position:0%
+let me call it 1 / capital K of the
+summation<00:17:38.960><c> from</c><00:17:39.440><c> small</c><00:17:39.799><c> letter</c><00:17:40.080><c> K</c><00:17:40.280><c> is</c><00:17:40.400><c> equal</c>
+
+00:17:40.669 --> 00:17:40.679 align:start position:0%
+summation from small letter K is equal
+ 
+
+00:17:40.679 --> 00:17:43.990 align:start position:0%
+summation from small letter K is equal
+to<00:17:40.799><c> 1</c><00:17:41.039><c> to</c><00:17:41.280><c> capital</c><00:17:41.720><c> K</c><00:17:42.720><c> where</c><00:17:43.000><c> capital</c><00:17:43.400><c> K</c><00:17:43.679><c> is</c><00:17:43.840><c> the</c>
+
+00:17:43.990 --> 00:17:44.000 align:start position:0%
+to 1 to capital K where capital K is the
+ 
+
+00:17:44.000 --> 00:17:46.789 align:start position:0%
+to 1 to capital K where capital K is the
+number<00:17:44.480><c> of</c><00:17:45.400><c> predictors</c><00:17:45.919><c> that</c><00:17:46.120><c> we</c><00:17:46.280><c> have</c><00:17:46.520><c> here</c>
+
+00:17:46.789 --> 00:17:46.799 align:start position:0%
+number of predictors that we have here
+ 
+
+00:17:46.799 --> 00:17:48.510 align:start position:0%
+number of predictors that we have here
+we<00:17:46.919><c> had</c><00:17:47.200><c> three</c><00:17:47.679><c> in</c><00:17:47.840><c> the</c><00:17:48.000><c> rest</c><00:17:48.280><c> net</c>
+
+00:17:48.510 --> 00:17:48.520 align:start position:0%
+we had three in the rest net
+ 
+
+00:17:48.520 --> 00:17:51.789 align:start position:0%
+we had three in the rest net
+architecture<00:17:49.520><c> of</c><00:17:49.760><c> Y</c><00:17:50.039><c> hat</c><00:17:50.440><c> subk</c><00:17:51.440><c> so</c><00:17:51.640><c> the</c>
+
+00:17:51.789 --> 00:17:51.799 align:start position:0%
+architecture of Y hat subk so the
+ 
+
+00:17:51.799 --> 00:17:54.190 align:start position:0%
+architecture of Y hat subk so the
+premise<00:17:52.120><c> of</c><00:17:52.280><c> emble</c><00:17:52.720><c> method</c><00:17:53.120><c> is</c><00:17:53.240><c> that</c><00:17:53.840><c> we</c><00:17:53.960><c> don't</c>
+
+00:17:54.190 --> 00:17:54.200 align:start position:0%
+premise of emble method is that we don't
+ 
+
+00:17:54.200 --> 00:17:56.390 align:start position:0%
+premise of emble method is that we don't
+necessarily<00:17:54.640><c> to</c><00:17:54.880><c> have</c><00:17:55.159><c> the</c><00:17:55.480><c> single</c><00:17:55.840><c> server</c>
+
+00:17:56.390 --> 00:17:56.400 align:start position:0%
+necessarily to have the single server
+ 
+
+00:17:56.400 --> 00:17:58.950 align:start position:0%
+necessarily to have the single server
+bullet<00:17:57.400><c> uh</c><00:17:57.840><c> that</c><00:17:57.960><c> will</c><00:17:58.159><c> solve</c><00:17:58.440><c> the</c><00:17:58.600><c> very</c>
+
+00:17:58.950 --> 00:17:58.960 align:start position:0%
+bullet uh that will solve the very
+ 
+
+00:17:58.960 --> 00:18:01.789 align:start position:0%
+bullet uh that will solve the very
+complicated<00:17:59.480><c> kind</c><00:17:59.640><c> of</c><00:17:59.799><c> task</c><00:18:00.080><c> of</c><00:18:00.400><c> us</c><00:18:01.400><c> uh</c><00:18:01.679><c> that</c>
+
+00:18:01.789 --> 00:18:01.799 align:start position:0%
+complicated kind of task of us uh that
+ 
+
+00:18:01.799 --> 00:18:05.110 align:start position:0%
+complicated kind of task of us uh that
+we<00:18:01.919><c> have</c><00:18:02.039><c> in</c><00:18:02.159><c> front</c><00:18:02.360><c> of</c><00:18:02.480><c> us</c><00:18:03.000><c> but</c><00:18:04.000><c> uh</c><00:18:04.120><c> a</c><00:18:04.280><c> number</c>
+
+00:18:05.110 --> 00:18:05.120 align:start position:0%
+we have in front of us but uh a number
+ 
+
+00:18:05.120 --> 00:18:12.430 align:start position:0%
+we have in front of us but uh a number
+of<00:18:05.440><c> what</c><00:18:05.600><c> we</c><00:18:05.799><c> call</c><00:18:06.200><c> the</c><00:18:06.840><c> so-called</c><00:18:07.360><c> weak</c>
+
+00:18:12.430 --> 00:18:12.440 align:start position:0%
+ 
+ 
+
+00:18:12.440 --> 00:18:16.310 align:start position:0%
+ 
+predictors<00:18:13.440><c> uh</c><00:18:13.679><c> that</c><00:18:13.880><c> it</c><00:18:14.039><c> will</c><00:18:14.919><c> U</c><00:18:15.159><c> not</c><00:18:15.480><c> perform</c>
+
+00:18:16.310 --> 00:18:16.320 align:start position:0%
+predictors uh that it will U not perform
+ 
+
+00:18:16.320 --> 00:18:19.149 align:start position:0%
+predictors uh that it will U not perform
+individually<00:18:17.120><c> very</c><00:18:17.400><c> well</c><00:18:18.080><c> but</c><00:18:18.280><c> on</c><00:18:18.559><c> aggregate</c>
+
+00:18:19.149 --> 00:18:19.159 align:start position:0%
+individually very well but on aggregate
+ 
+
+00:18:19.159 --> 00:18:21.270 align:start position:0%
+individually very well but on aggregate
+they<00:18:19.320><c> will</c><00:18:19.520><c> actually</c><00:18:19.840><c> perform</c><00:18:20.280><c> much</c>
+
+00:18:21.270 --> 00:18:21.280 align:start position:0%
+they will actually perform much
+ 
+
+00:18:21.280 --> 00:18:23.430 align:start position:0%
+they will actually perform much
+better<00:18:22.280><c> that</c><00:18:22.480><c> and</c><00:18:22.640><c> that</c><00:18:22.840><c> is</c><00:18:23.000><c> really</c><00:18:23.240><c> the</c>
+
+00:18:23.430 --> 00:18:23.440 align:start position:0%
+better that and that is really the
+ 
+
+00:18:23.440 --> 00:18:26.950 align:start position:0%
+better that and that is really the
+premise<00:18:24.400><c> of</c><00:18:24.640><c> that</c><00:18:24.880><c> and</c><00:18:25.159><c> you</c><00:18:25.280><c> know</c><00:18:25.520><c> one</c><00:18:26.520><c> uh</c>
+
+00:18:26.950 --> 00:18:26.960 align:start position:0%
+premise of that and you know one uh
+ 
+
+00:18:26.960 --> 00:18:29.549 align:start position:0%
+premise of that and you know one uh
+parallel<00:18:27.960><c> uh</c><00:18:28.080><c> architecture</c><00:18:28.600><c> with</c><00:18:28.919><c> have</c><00:18:29.400><c> in</c>
+
+00:18:29.549 --> 00:18:29.559 align:start position:0%
+parallel uh architecture with have in
+ 
+
+00:18:29.559 --> 00:18:32.190 align:start position:0%
+parallel uh architecture with have in
+the<00:18:29.720><c> earlier</c><00:18:30.440><c> method</c><00:18:31.440><c> uh</c><00:18:31.559><c> that</c><00:18:31.679><c> we</c><00:18:31.840><c> call</c><00:18:32.080><c> the</c>
+
+00:18:32.190 --> 00:18:32.200 align:start position:0%
+the earlier method uh that we call the
+ 
+
+00:18:32.200 --> 00:18:34.430 align:start position:0%
+the earlier method uh that we call the
+rest<00:18:32.520><c> net</c><00:18:32.760><c> is</c><00:18:33.000><c> kind</c><00:18:33.159><c> of</c><00:18:33.559><c> resembles</c><00:18:34.120><c> that</c><00:18:34.280><c> kind</c>
+
+00:18:34.430 --> 00:18:34.440 align:start position:0%
+rest net is kind of resembles that kind
+ 
+
+00:18:34.440 --> 00:18:36.510 align:start position:0%
+rest net is kind of resembles that kind
+of<00:18:34.559><c> architecture</c><00:18:35.200><c> because</c><00:18:35.480><c> we</c><00:18:35.679><c> have</c><00:18:36.280><c> some</c>
+
+00:18:36.510 --> 00:18:36.520 align:start position:0%
+of architecture because we have some
+ 
+
+00:18:36.520 --> 00:18:38.990 align:start position:0%
+of architecture because we have some
+kind<00:18:36.679><c> of</c><00:18:36.840><c> a</c><00:18:37.000><c> summation</c><00:18:37.679><c> combination</c><00:18:38.240><c> of</c><00:18:38.440><c> these</c>
+
+00:18:38.990 --> 00:18:39.000 align:start position:0%
+kind of a summation combination of these
+ 
+
+00:18:39.000 --> 00:18:41.510 align:start position:0%
+kind of a summation combination of these
+weak<00:18:39.400><c> predictions</c><00:18:40.320><c> the</c><00:18:40.480><c> so-called</c><00:18:40.919><c> abs</c><00:18:41.360><c> and</c>
+
+00:18:41.510 --> 00:18:41.520 align:start position:0%
+weak predictions the so-called abs and
+ 
+
+00:18:41.520 --> 00:18:44.909 align:start position:0%
+weak predictions the so-called abs and
+C's<00:18:41.919><c> that</c><00:18:42.120><c> I</c><00:18:42.280><c> have</c><00:18:42.960><c> explained</c><00:18:43.520><c> earlier</c><00:18:44.520><c> uh</c><00:18:44.600><c> so</c>
+
+00:18:44.909 --> 00:18:44.919 align:start position:0%
+C's that I have explained earlier uh so
+ 
+
+00:18:44.919 --> 00:18:48.110 align:start position:0%
+C's that I have explained earlier uh so
+the<00:18:45.559><c> um</c><00:18:46.559><c> uh</c><00:18:46.640><c> in</c><00:18:47.000><c> Sample</c><00:18:47.320><c> methods</c><00:18:47.640><c> in</c><00:18:47.760><c> general</c>
+
+00:18:48.110 --> 00:18:48.120 align:start position:0%
+the um uh in Sample methods in general
+ 
+
+00:18:48.120 --> 00:18:50.669 align:start position:0%
+the um uh in Sample methods in general
+we<00:18:48.280><c> have</c><00:18:49.000><c> we</c><00:18:49.159><c> can</c><00:18:49.360><c> consider</c><00:18:49.799><c> performance</c><00:18:50.360><c> wise</c>
+
+00:18:50.669 --> 00:18:50.679 align:start position:0%
+we have we can consider performance wise
+ 
+
+00:18:50.679 --> 00:18:53.390 align:start position:0%
+we have we can consider performance wise
+to<00:18:50.880><c> consist</c><00:18:51.320><c> of</c><00:18:51.799><c> uh</c><00:18:52.039><c> in</c><00:18:52.520><c> somewhere</c><00:18:52.960><c> in</c><00:18:53.080><c> between</c>
+
+00:18:53.390 --> 00:18:53.400 align:start position:0%
+to consist of uh in somewhere in between
+ 
+
+00:18:53.400 --> 00:18:57.230 align:start position:0%
+to consist of uh in somewhere in between
+two<00:18:53.640><c> bounds</c><00:18:54.559><c> so</c><00:18:54.799><c> the</c><00:18:55.159><c> lower</c><00:18:55.600><c> bound</c><00:18:56.320><c> the</c><00:18:56.480><c> So-Cal</c>
+
+00:18:57.230 --> 00:18:57.240 align:start position:0%
+two bounds so the lower bound the So-Cal
+ 
+
+00:18:57.240 --> 00:19:00.270 align:start position:0%
+two bounds so the lower bound the So-Cal
+lower<00:18:58.240><c> performance</c>
+
+00:19:00.270 --> 00:19:00.280 align:start position:0%
+lower performance
+ 
+
+00:19:00.280 --> 00:19:04.110 align:start position:0%
+lower performance
+bound<00:19:01.280><c> is</c><00:19:01.919><c> obtained</c><00:19:02.919><c> uh</c><00:19:03.120><c> evidently</c><00:19:03.799><c> when</c>
+
+00:19:04.110 --> 00:19:04.120 align:start position:0%
+bound is obtained uh evidently when
+ 
+
+00:19:04.120 --> 00:19:07.149 align:start position:0%
+bound is obtained uh evidently when
+you're<00:19:04.880><c> you</c><00:19:05.120><c> have</c><00:19:05.520><c> very</c><00:19:06.159><c> correlated</c>
+
+00:19:07.149 --> 00:19:07.159 align:start position:0%
+you're you have very correlated
+ 
+
+00:19:07.159 --> 00:19:10.710 align:start position:0%
+you're you have very correlated
+predictions<00:19:08.000><c> and</c><00:19:08.720><c> if</c><00:19:08.880><c> you</c><00:19:09.280><c> are</c><00:19:09.559><c> not</c><00:19:09.880><c> able</c><00:19:10.200><c> to</c>
+
+00:19:10.710 --> 00:19:10.720 align:start position:0%
+predictions and if you are not able to
+ 
+
+00:19:10.720 --> 00:19:12.750 align:start position:0%
+predictions and if you are not able to
+randomize<00:19:11.320><c> the</c><00:19:11.480><c> operation</c><00:19:11.919><c> of</c><00:19:12.120><c> each</c><00:19:12.320><c> of</c><00:19:12.520><c> these</c>
+
+00:19:12.750 --> 00:19:12.760 align:start position:0%
+randomize the operation of each of these
+ 
+
+00:19:12.760 --> 00:19:16.549 align:start position:0%
+randomize the operation of each of these
+predictors<00:19:13.760><c> somehow</c><00:19:14.760><c> uh</c><00:19:15.280><c> we</c><00:19:15.440><c> are</c><00:19:16.000><c> going</c><00:19:16.240><c> to</c>
+
+00:19:16.549 --> 00:19:16.559 align:start position:0%
+predictors somehow uh we are going to
+ 
+
+00:19:16.559 --> 00:19:18.909 align:start position:0%
+predictors somehow uh we are going to
+exhibit<00:19:17.000><c> this</c><00:19:17.159><c> kind</c><00:19:17.280><c> of</c><00:19:17.400><c> lower</c><00:19:17.720><c> bound</c><00:19:18.159><c> where</c>
+
+00:19:18.909 --> 00:19:18.919 align:start position:0%
+exhibit this kind of lower bound where
+ 
+
+00:19:18.919 --> 00:19:21.270 align:start position:0%
+exhibit this kind of lower bound where
+either<00:19:19.240><c> you</c><00:19:19.400><c> form</c><00:19:19.720><c> a</c><00:19:19.880><c> committee</c><00:19:20.360><c> or</c><00:19:20.559><c> not</c><00:19:21.080><c> you</c>
+
+00:19:21.270 --> 00:19:21.280 align:start position:0%
+either you form a committee or not you
+ 
+
+00:19:21.280 --> 00:19:23.590 align:start position:0%
+either you form a committee or not you
+get<00:19:21.559><c> exactly</c><00:19:21.960><c> the</c><00:19:22.080><c> same</c><00:19:22.400><c> performance</c><00:19:23.400><c> it's</c>
+
+00:19:23.590 --> 00:19:23.600 align:start position:0%
+get exactly the same performance it's
+ 
+
+00:19:23.600 --> 00:19:26.430 align:start position:0%
+get exactly the same performance it's
+just<00:19:23.799><c> like</c><00:19:24.080><c> the</c><00:19:24.760><c> analogy</c><00:19:25.760><c> or</c><00:19:25.919><c> the</c><00:19:26.080><c> equivalent</c>
+
+00:19:26.430 --> 00:19:26.440 align:start position:0%
+just like the analogy or the equivalent
+ 
+
+00:19:26.440 --> 00:19:28.710 align:start position:0%
+just like the analogy or the equivalent
+analogy<00:19:26.919><c> I</c><00:19:27.000><c> would</c><00:19:27.200><c> like</c><00:19:27.400><c> to</c><00:19:28.039><c> uh</c><00:19:28.120><c> sort</c><00:19:28.360><c> of</c><00:19:28.480><c> share</c>
+
+00:19:28.710 --> 00:19:28.720 align:start position:0%
+analogy I would like to uh sort of share
+ 
+
+00:19:28.720 --> 00:19:31.070 align:start position:0%
+analogy I would like to uh sort of share
+sh<00:19:28.960><c> is</c><00:19:29.720><c> uh</c><00:19:29.840><c> you</c><00:19:30.000><c> have</c><00:19:30.200><c> a</c><00:19:30.400><c> committee</c><00:19:30.760><c> of</c><00:19:30.919><c> let's</c>
+
+00:19:31.070 --> 00:19:31.080 align:start position:0%
+sh is uh you have a committee of let's
+ 
+
+00:19:31.080 --> 00:19:33.990 align:start position:0%
+sh is uh you have a committee of let's
+say<00:19:31.280><c> a</c><00:19:31.440><c> human</c><00:19:32.159><c> uh</c><00:19:33.159><c> Committee</c><00:19:33.520><c> of</c><00:19:33.679><c> human</c>
+
+00:19:33.990 --> 00:19:34.000 align:start position:0%
+say a human uh Committee of human
+ 
+
+00:19:34.000 --> 00:19:36.510 align:start position:0%
+say a human uh Committee of human
+experts<00:19:34.840><c> but</c><00:19:35.039><c> each</c><00:19:35.280><c> expert</c><00:19:35.640><c> went</c><00:19:35.880><c> to</c><00:19:36.159><c> exactly</c>
+
+00:19:36.510 --> 00:19:36.520 align:start position:0%
+experts but each expert went to exactly
+ 
+
+00:19:36.520 --> 00:19:38.990 align:start position:0%
+experts but each expert went to exactly
+the<00:19:36.679><c> same</c><00:19:36.919><c> school</c><00:19:37.840><c> studied</c><00:19:38.320><c> exactly</c><00:19:38.679><c> the</c><00:19:38.799><c> same</c>
+
+00:19:38.990 --> 00:19:39.000 align:start position:0%
+the same school studied exactly the same
+ 
+
+00:19:39.000 --> 00:19:42.270 align:start position:0%
+the same school studied exactly the same
+field<00:19:39.600><c> had</c><00:19:39.960><c> exactly</c><00:19:40.360><c> the</c><00:19:40.480><c> same</c><00:19:41.480><c> uh</c><00:19:41.600><c> University</c>
+
+00:19:42.270 --> 00:19:42.280 align:start position:0%
+field had exactly the same uh University
+ 
+
+00:19:42.280 --> 00:19:44.310 align:start position:0%
+field had exactly the same uh University
+professors<00:19:42.960><c> and</c><00:19:43.200><c> they</c><00:19:43.360><c> are</c><00:19:43.640><c> actually</c><00:19:44.000><c> now</c>
+
+00:19:44.310 --> 00:19:44.320 align:start position:0%
+professors and they are actually now
+ 
+
+00:19:44.320 --> 00:19:47.230 align:start position:0%
+professors and they are actually now
+called<00:19:44.679><c> to</c><00:19:44.840><c> solve</c><00:19:45.200><c> the</c><00:19:45.520><c> problem</c><00:19:46.520><c> and</c><00:19:47.000><c> guess</c>
+
+00:19:47.230 --> 00:19:47.240 align:start position:0%
+called to solve the problem and guess
+ 
+
+00:19:47.240 --> 00:19:48.630 align:start position:0%
+called to solve the problem and guess
+what<00:19:47.480><c> each</c><00:19:47.679><c> one</c><00:19:47.880><c> of</c><00:19:48.039><c> them</c><00:19:48.200><c> is</c><00:19:48.360><c> actually</c>
+
+00:19:48.630 --> 00:19:48.640 align:start position:0%
+what each one of them is actually
+ 
+
+00:19:48.640 --> 00:19:50.950 align:start position:0%
+what each one of them is actually
+offering<00:19:49.120><c> exactly</c><00:19:49.520><c> the</c><00:19:49.640><c> same</c><00:19:49.880><c> view</c><00:19:50.720><c> well</c>
+
+00:19:50.950 --> 00:19:50.960 align:start position:0%
+offering exactly the same view well
+ 
+
+00:19:50.960 --> 00:19:52.470 align:start position:0%
+offering exactly the same view well
+that's<00:19:51.200><c> basically</c><00:19:51.640><c> where</c><00:19:51.880><c> the</c><00:19:52.080><c> point</c><00:19:52.320><c> where</c>
+
+00:19:52.470 --> 00:19:52.480 align:start position:0%
+that's basically where the point where
+ 
+
+00:19:52.480 --> 00:19:54.310 align:start position:0%
+that's basically where the point where
+you<00:19:52.720><c> experiencing</c><00:19:53.240><c> a</c><00:19:53.360><c> lower</c><00:19:53.760><c> performance</c>
+
+00:19:54.310 --> 00:19:54.320 align:start position:0%
+you experiencing a lower performance
+ 
+
+00:19:54.320 --> 00:19:56.830 align:start position:0%
+you experiencing a lower performance
+bound<00:19:55.320><c> and</c><00:19:55.480><c> the</c><00:19:55.600><c> upper</c><00:19:56.000><c> performance</c><00:19:56.440><c> bound</c><00:19:56.720><c> is</c>
+
+00:19:56.830 --> 00:19:56.840 align:start position:0%
+bound and the upper performance bound is
+ 
+
+00:19:56.840 --> 00:19:59.270 align:start position:0%
+bound and the upper performance bound is
+a<00:19:57.000><c> bit</c><00:19:57.200><c> more</c><00:19:58.120><c> nuanced</c><00:19:58.760><c> a</c><00:19:58.880><c> bit</c><00:19:59.039><c> more</c>
+
+00:19:59.270 --> 00:19:59.280 align:start position:0%
+a bit more nuanced a bit more
+ 
+
+00:19:59.280 --> 00:20:02.190 align:start position:0%
+a bit more nuanced a bit more
+complicated<00:20:00.080><c> to</c><00:20:00.520><c> kind</c><00:20:00.679><c> of</c><00:20:01.240><c> understand</c><00:20:01.760><c> but</c>
+
+00:20:02.190 --> 00:20:02.200 align:start position:0%
+complicated to kind of understand but
+ 
+
+00:20:02.200 --> 00:20:04.110 align:start position:0%
+complicated to kind of understand but
+the<00:20:03.200><c> best</c>
+
+00:20:04.110 --> 00:20:04.120 align:start position:0%
+the best
+ 
+
+00:20:04.120 --> 00:20:06.909 align:start position:0%
+the best
+performance<00:20:05.120><c> uh</c><00:20:05.480><c> what</c><00:20:05.640><c> we</c><00:20:05.799><c> can</c><00:20:06.039><c> actually</c>
+
+00:20:06.909 --> 00:20:06.919 align:start position:0%
+performance uh what we can actually
+ 
+
+00:20:06.919 --> 00:20:09.669 align:start position:0%
+performance uh what we can actually
+get<00:20:07.919><c> um</c><00:20:08.600><c> I</c><00:20:08.679><c> think</c><00:20:08.840><c> it's</c><00:20:09.000><c> better</c><00:20:09.240><c> understood</c>
+
+00:20:09.669 --> 00:20:09.679 align:start position:0%
+get um I think it's better understood
+ 
+
+00:20:09.679 --> 00:20:12.510 align:start position:0%
+get um I think it's better understood
+with<00:20:09.799><c> an</c><00:20:10.240><c> analogy</c><00:20:11.240><c> um</c><00:20:11.440><c> you</c><00:20:11.559><c> don't</c><00:20:11.919><c> expect</c>
+
+00:20:12.510 --> 00:20:12.520 align:start position:0%
+with an analogy um you don't expect
+ 
+
+00:20:12.520 --> 00:20:14.669 align:start position:0%
+with an analogy um you don't expect
+every<00:20:13.000><c> Committee</c><00:20:13.480><c> Member</c><00:20:13.840><c> to</c><00:20:14.000><c> not</c><00:20:14.240><c> make</c>
+
+00:20:14.669 --> 00:20:14.679 align:start position:0%
+every Committee Member to not make
+ 
+
+00:20:14.679 --> 00:20:17.950 align:start position:0%
+every Committee Member to not make
+mistakes<00:20:15.200><c> they</c><00:20:15.360><c> will</c><00:20:15.679><c> make</c><00:20:16.000><c> mistakes</c><00:20:17.000><c> but</c><00:20:17.799><c> uh</c>
+
+00:20:17.950 --> 00:20:17.960 align:start position:0%
+mistakes they will make mistakes but uh
+ 
+
+00:20:17.960 --> 00:20:20.630 align:start position:0%
+mistakes they will make mistakes but uh
+what<00:20:18.080><c> you</c><00:20:18.240><c> want</c><00:20:18.400><c> to</c><00:20:18.600><c> do</c><00:20:19.120><c> is</c><00:20:19.360><c> to</c><00:20:20.240><c> have</c><00:20:20.440><c> a</c>
+
+00:20:20.630 --> 00:20:20.640 align:start position:0%
+what you want to do is to have a
+ 
+
+00:20:20.640 --> 00:20:22.430 align:start position:0%
+what you want to do is to have a
+committee<00:20:21.080><c> that</c><00:20:21.280><c> they</c><00:20:21.440><c> don't</c><00:20:21.720><c> make</c><00:20:22.039><c> the</c><00:20:22.159><c> same</c>
+
+00:20:22.430 --> 00:20:22.440 align:start position:0%
+committee that they don't make the same
+ 
+
+00:20:22.440 --> 00:20:24.990 align:start position:0%
+committee that they don't make the same
+mistake<00:20:22.919><c> at</c><00:20:23.080><c> the</c><00:20:23.240><c> same</c><00:20:23.679><c> time</c><00:20:24.679><c> so</c><00:20:24.880><c> the</c>
+
+00:20:24.990 --> 00:20:25.000 align:start position:0%
+mistake at the same time so the
+ 
+
+00:20:25.000 --> 00:20:26.230 align:start position:0%
+mistake at the same time so the
+so-called
+
+00:20:26.230 --> 00:20:26.240 align:start position:0%
+so-called
+ 
+
+00:20:26.240 --> 00:20:29.430 align:start position:0%
+so-called
+uncorrelated<00:20:27.240><c> uh</c><00:20:27.440><c> errors</c><00:20:28.159><c> are</c><00:20:28.679><c> are</c><00:20:28.919><c> involved</c>
+
+00:20:29.430 --> 00:20:29.440 align:start position:0%
+uncorrelated uh errors are are involved
+ 
+
+00:20:29.440 --> 00:20:32.470 align:start position:0%
+uncorrelated uh errors are are involved
+in<00:20:30.360><c> uh</c><00:20:30.520><c> sort</c><00:20:30.720><c> of</c><00:20:30.880><c> show</c><00:20:31.280><c> showing</c><00:20:32.000><c> some</c><00:20:32.200><c> kind</c><00:20:32.360><c> of</c>
+
+00:20:32.470 --> 00:20:32.480 align:start position:0%
+in uh sort of show showing some kind of
+ 
+
+00:20:32.480 --> 00:20:34.270 align:start position:0%
+in uh sort of show showing some kind of
+a<00:20:32.600><c> performance</c><00:20:33.080><c> bound</c><00:20:33.480><c> that</c><00:20:33.720><c> that</c><00:20:33.840><c> is</c><00:20:34.000><c> kind</c><00:20:34.120><c> of</c>
+
+00:20:34.270 --> 00:20:34.280 align:start position:0%
+a performance bound that that is kind of
+ 
+
+00:20:34.280 --> 00:20:37.310 align:start position:0%
+a performance bound that that is kind of
+outside<00:20:34.679><c> of</c><00:20:34.840><c> the</c><00:20:34.960><c> scope</c><00:20:35.720><c> of</c><00:20:35.919><c> this</c><00:20:36.080><c> course</c><00:20:36.480><c> but</c>
+
+00:20:37.310 --> 00:20:37.320 align:start position:0%
+outside of the scope of this course but
+ 
+
+00:20:37.320 --> 00:20:40.270 align:start position:0%
+outside of the scope of this course but
+uh<00:20:37.480><c> I</c><00:20:37.559><c> think</c><00:20:37.720><c> it's</c><00:20:37.919><c> worthwhile</c><00:20:38.919><c> um</c><00:20:39.760><c> providing</c>
+
+00:20:40.270 --> 00:20:40.280 align:start position:0%
+uh I think it's worthwhile um providing
+ 
+
+00:20:40.280 --> 00:20:43.149 align:start position:0%
+uh I think it's worthwhile um providing
+some<00:20:40.559><c> kind</c><00:20:40.679><c> of</c><00:20:41.000><c> guidance</c><00:20:41.520><c> as</c><00:20:41.720><c> to</c><00:20:42.159><c> where</c><00:20:42.880><c> and</c>
+
+00:20:43.149 --> 00:20:43.159 align:start position:0%
+some kind of guidance as to where and
+ 
+
+00:20:43.159 --> 00:20:44.909 align:start position:0%
+some kind of guidance as to where and
+how<00:20:43.360><c> we</c><00:20:43.480><c> will</c><00:20:43.720><c> be</c><00:20:43.880><c> able</c><00:20:44.120><c> to</c><00:20:44.320><c> achieve</c><00:20:44.720><c> that</c>
+
+00:20:44.909 --> 00:20:44.919 align:start position:0%
+how we will be able to achieve that
+ 
+
+00:20:44.919 --> 00:20:47.870 align:start position:0%
+how we will be able to achieve that
+upper<00:20:45.280><c> bound</c><00:20:46.280><c> uh</c><00:20:46.400><c> so</c><00:20:46.640><c> the</c><00:20:47.039><c> the</c><00:20:47.280><c> main</c><00:20:47.600><c> three</c>
+
+00:20:47.870 --> 00:20:47.880 align:start position:0%
+upper bound uh so the the main three
+ 
+
+00:20:47.880 --> 00:20:49.510 align:start position:0%
+upper bound uh so the the main three
+ways<00:20:48.159><c> that</c><00:20:48.320><c> we</c><00:20:48.440><c> can</c><00:20:48.640><c> achieve</c><00:20:49.000><c> this</c><00:20:49.200><c> kind</c><00:20:49.360><c> of</c>
+
+00:20:49.510 --> 00:20:49.520 align:start position:0%
+ways that we can achieve this kind of
+ 
+
+00:20:49.520 --> 00:20:51.870 align:start position:0%
+ways that we can achieve this kind of
+upper<00:20:49.799><c> bound</c><00:20:50.080><c> or</c><00:20:50.280><c> try</c><00:20:50.520><c> to</c><00:20:50.720><c> achieve</c><00:20:51.080><c> the</c><00:20:51.559><c> best</c>
+
+00:20:51.870 --> 00:20:51.880 align:start position:0%
+upper bound or try to achieve the best
+ 
+
+00:20:51.880 --> 00:20:53.990 align:start position:0%
+upper bound or try to achieve the best
+possible<00:20:52.679><c> performance</c><00:20:53.120><c> out</c><00:20:53.320><c> of</c><00:20:53.520><c> ample</c>
+
+00:20:53.990 --> 00:20:54.000 align:start position:0%
+possible performance out of ample
+ 
+
+00:20:54.000 --> 00:20:58.070 align:start position:0%
+possible performance out of ample
+methods<00:20:54.799><c> the</c><00:20:55.039><c> first</c><00:20:55.919><c> is</c><00:20:56.919><c> the</c><00:20:57.120><c> data</c><00:20:57.520><c> component</c>
+
+00:20:58.070 --> 00:20:58.080 align:start position:0%
+methods the first is the data component
+ 
+
+00:20:58.080 --> 00:20:59.950 align:start position:0%
+methods the first is the data component
+can<00:20:58.280><c> we</c>
+
+00:20:59.950 --> 00:20:59.960 align:start position:0%
+can we
+ 
+
+00:20:59.960 --> 00:21:04.029 align:start position:0%
+can we
+provide<00:21:00.799><c> in</c><00:21:01.240><c> some</c><00:21:01.559><c> way</c><00:21:02.280><c> uh</c><00:21:02.559><c> different</c><00:21:03.200><c> data</c><00:21:03.720><c> to</c>
+
+00:21:04.029 --> 00:21:04.039 align:start position:0%
+provide in some way uh different data to
+ 
+
+00:21:04.039 --> 00:21:06.950 align:start position:0%
+provide in some way uh different data to
+different<00:21:04.640><c> of</c><00:21:05.480><c> to</c><00:21:05.720><c> the</c><00:21:06.080><c> various</c><00:21:06.440><c> kind</c><00:21:06.640><c> of</c><00:21:06.760><c> weak</c>
+
+00:21:06.950 --> 00:21:06.960 align:start position:0%
+different of to the various kind of weak
+ 
+
+00:21:06.960 --> 00:21:09.350 align:start position:0%
+different of to the various kind of weak
+predictors<00:21:07.440><c> that</c><00:21:07.600><c> we</c><00:21:07.799><c> have</c><00:21:08.080><c> here</c><00:21:08.799><c> so</c><00:21:09.000><c> that</c><00:21:09.200><c> we</c>
+
+00:21:09.350 --> 00:21:09.360 align:start position:0%
+predictors that we have here so that we
+ 
+
+00:21:09.360 --> 00:21:12.590 align:start position:0%
+predictors that we have here so that we
+do<00:21:09.559><c> not</c><00:21:10.200><c> cause</c><00:21:11.159><c> um</c><00:21:11.440><c> exactly</c><00:21:11.880><c> the</c><00:21:12.039><c> same</c>
+
+00:21:12.590 --> 00:21:12.600 align:start position:0%
+do not cause um exactly the same
+ 
+
+00:21:12.600 --> 00:21:15.830 align:start position:0%
+do not cause um exactly the same
+conclusion<00:21:13.200><c> for</c><00:21:13.520><c> each</c><00:21:13.720><c> one</c><00:21:13.880><c> of</c><00:21:14.080><c> them</c><00:21:14.360><c> so</c><00:21:14.760><c> the</c>
+
+00:21:15.830 --> 00:21:15.840 align:start position:0%
+conclusion for each one of them so the
+ 
+
+00:21:15.840 --> 00:21:20.190 align:start position:0%
+conclusion for each one of them so the
+second<00:21:16.840><c> is</c><00:21:17.600><c> to</c><00:21:17.919><c> somehow</c><00:21:18.919><c> randomize</c><00:21:19.559><c> their</c>
+
+00:21:20.190 --> 00:21:20.200 align:start position:0%
+second is to somehow randomize their
+ 
+
+00:21:20.200 --> 00:21:22.110 align:start position:0%
+second is to somehow randomize their
+operation<00:21:21.200><c> um</c>
+
+00:21:22.110 --> 00:21:22.120 align:start position:0%
+operation um
+ 
+
+00:21:22.120 --> 00:21:27.269 align:start position:0%
+operation um
+so
+
+00:21:27.269 --> 00:21:27.279 align:start position:0%
+ 
+ 
+
+00:21:27.279 --> 00:21:30.630 align:start position:0%
+ 
+randomization<00:21:28.279><c> is</c><00:21:28.960><c> um</c><00:21:29.520><c> the</c><00:21:29.679><c> second</c><00:21:30.240><c> kind</c><00:21:30.400><c> of</c>
+
+00:21:30.630 --> 00:21:30.640 align:start position:0%
+randomization is um the second kind of
+ 
+
+00:21:30.640 --> 00:21:32.669 align:start position:0%
+randomization is um the second kind of
+approach<00:21:31.120><c> there</c><00:21:31.679><c> and</c><00:21:31.799><c> I</c><00:21:31.960><c> can</c><00:21:32.159><c> actually</c><00:21:32.480><c> can</c>
+
+00:21:32.669 --> 00:21:32.679 align:start position:0%
+approach there and I can actually can
+ 
+
+00:21:32.679 --> 00:21:34.230 align:start position:0%
+approach there and I can actually can
+offer<00:21:32.960><c> an</c><00:21:33.159><c> example</c><00:21:33.520><c> of</c>
+
+00:21:34.230 --> 00:21:34.240 align:start position:0%
+offer an example of
+ 
+
+00:21:34.240 --> 00:21:36.230 align:start position:0%
+offer an example of
+randomization<00:21:35.240><c> maybe</c><00:21:35.559><c> we</c><00:21:35.679><c> can</c><00:21:35.919><c> actually</c>
+
+00:21:36.230 --> 00:21:36.240 align:start position:0%
+randomization maybe we can actually
+ 
+
+00:21:36.240 --> 00:21:39.630 align:start position:0%
+randomization maybe we can actually
+offer<00:21:36.760><c> a</c><00:21:37.360><c> different</c><00:21:38.360><c> um</c><00:21:38.679><c> set</c><00:21:38.919><c> of</c>
+
+00:21:39.630 --> 00:21:39.640 align:start position:0%
+offer a different um set of
+ 
+
+00:21:39.640 --> 00:21:42.470 align:start position:0%
+offer a different um set of
+hyperparameters<00:21:40.640><c> um</c><00:21:40.840><c> sort</c><00:21:41.080><c> of</c><00:21:41.760><c> picked</c><00:21:42.240><c> by</c>
+
+00:21:42.470 --> 00:21:42.480 align:start position:0%
+hyperparameters um sort of picked by
+ 
+
+00:21:42.480 --> 00:21:43.710 align:start position:0%
+hyperparameters um sort of picked by
+some<00:21:42.760><c> kind</c><00:21:42.919><c> of</c>
+
+00:21:43.710 --> 00:21:43.720 align:start position:0%
+some kind of
+ 
+
+00:21:43.720 --> 00:21:46.789 align:start position:0%
+some kind of
+distribution<00:21:44.720><c> uh</c><00:21:44.919><c> in</c><00:21:45.159><c> this</c><00:21:45.600><c> uh</c><00:21:45.799><c> architecture</c>
+
+00:21:46.789 --> 00:21:46.799 align:start position:0%
+distribution uh in this uh architecture
+ 
+
+00:21:46.799 --> 00:21:50.909 align:start position:0%
+distribution uh in this uh architecture
+see<00:21:47.440><c> over</c><00:21:47.919><c> here</c><00:21:48.919><c> uh</c><00:21:49.200><c> in</c><00:21:49.480><c> in</c><00:21:49.640><c> this</c><00:21:49.840><c> course</c><00:21:50.600><c> u</c><00:21:50.720><c> in</c>
+
+00:21:50.909 --> 00:21:50.919 align:start position:0%
+see over here uh in in this course u in
+ 
+
+00:21:50.919 --> 00:21:52.750 align:start position:0%
+see over here uh in in this course u in
+some<00:21:51.159><c> other</c><00:21:51.600><c> approaches</c><00:21:52.159><c> where</c><00:21:52.360><c> we</c><00:21:52.559><c> have</c>
+
+00:21:52.750 --> 00:21:52.760 align:start position:0%
+some other approaches where we have
+ 
+
+00:21:52.760 --> 00:21:55.430 align:start position:0%
+some other approaches where we have
+let's<00:21:53.000><c> say</c><00:21:53.840><c> uh</c><00:21:54.000><c> decision</c><00:21:54.440><c> trees</c><00:21:54.880><c> involved</c><00:21:55.279><c> in</c>
+
+00:21:55.430 --> 00:21:55.440 align:start position:0%
+let's say uh decision trees involved in
+ 
+
+00:21:55.440 --> 00:21:57.269 align:start position:0%
+let's say uh decision trees involved in
+these<00:21:55.799><c> predictors</c><00:21:56.400><c> again</c><00:21:56.600><c> for</c><00:21:56.840><c> structure</c>
+
+00:21:57.269 --> 00:21:57.279 align:start position:0%
+these predictors again for structure
+ 
+
+00:21:57.279 --> 00:21:59.310 align:start position:0%
+these predictors again for structure
+data<00:21:57.520><c> I'm</c><00:21:57.679><c> referring</c><00:21:58.080><c> to</c><00:21:58.799><c> then</c><00:21:59.000><c> we</c><00:21:59.120><c> can</c>
+
+00:21:59.310 --> 00:21:59.320 align:start position:0%
+data I'm referring to then we can
+ 
+
+00:21:59.320 --> 00:22:01.669 align:start position:0%
+data I'm referring to then we can
+randomize<00:21:59.919><c> their</c><00:22:00.360><c> operation</c><00:22:01.000><c> by</c><00:22:01.200><c> picking</c>
+
+00:22:01.669 --> 00:22:01.679 align:start position:0%
+randomize their operation by picking
+ 
+
+00:22:01.679 --> 00:22:04.510 align:start position:0%
+randomize their operation by picking
+different<00:22:02.400><c> uh</c><00:22:02.559><c> features</c><00:22:03.000><c> that</c><00:22:03.159><c> they</c><00:22:03.360><c> split</c><00:22:04.360><c> uh</c>
+
+00:22:04.510 --> 00:22:04.520 align:start position:0%
+different uh features that they split uh
+ 
+
+00:22:04.520 --> 00:22:07.830 align:start position:0%
+different uh features that they split uh
+their<00:22:05.159><c> uh</c><00:22:05.559><c> sort</c><00:22:05.799><c> of</c><00:22:06.200><c> trees</c><00:22:07.200><c> and</c><00:22:07.400><c> there</c><00:22:07.520><c> are</c><00:22:07.679><c> so</c>
+
+00:22:07.830 --> 00:22:07.840 align:start position:0%
+their uh sort of trees and there are so
+ 
+
+00:22:07.840 --> 00:22:10.110 align:start position:0%
+their uh sort of trees and there are so
+many<00:22:08.159><c> approaches</c><00:22:08.640><c> that</c><00:22:08.799><c> are</c><00:22:09.240><c> you</c><00:22:09.400><c> know</c><00:22:10.000><c> I</c>
+
+00:22:10.110 --> 00:22:10.120 align:start position:0%
+many approaches that are you know I
+ 
+
+00:22:10.120 --> 00:22:12.630 align:start position:0%
+many approaches that are you know I
+guess<00:22:10.320><c> too</c><00:22:10.520><c> many</c><00:22:10.760><c> to</c><00:22:11.120><c> to</c><00:22:11.320><c> quote</c><00:22:11.720><c> over</c><00:22:12.000><c> here</c><00:22:12.520><c> but</c>
+
+00:22:12.630 --> 00:22:12.640 align:start position:0%
+guess too many to to quote over here but
+ 
+
+00:22:12.640 --> 00:22:14.110 align:start position:0%
+guess too many to to quote over here but
+the<00:22:12.799><c> third</c><00:22:13.120><c> approach</c><00:22:13.480><c> is</c><00:22:13.640><c> a</c><00:22:13.760><c> bit</c><00:22:13.919><c> more</c>
+
+00:22:14.110 --> 00:22:14.120 align:start position:0%
+the third approach is a bit more
+ 
+
+00:22:14.120 --> 00:22:16.070 align:start position:0%
+the third approach is a bit more
+relevant<00:22:14.720><c> in</c><00:22:14.880><c> this</c><00:22:15.120><c> specific</c><00:22:15.520><c> rest</c><00:22:15.919><c> not</c>
+
+00:22:16.070 --> 00:22:16.080 align:start position:0%
+relevant in this specific rest not
+ 
+
+00:22:16.080 --> 00:22:25.470 align:start position:0%
+relevant in this specific rest not
+architecture<00:22:16.679><c> is</c><00:22:16.840><c> to</c><00:22:17.480><c> Simply</c><00:22:17.919><c> use</c><00:22:18.559><c> different</c>
+
+00:22:25.470 --> 00:22:25.480 align:start position:0%
+ 
+ 
+
+00:22:25.480 --> 00:22:32.149 align:start position:0%
+ 
+predictors<00:22:26.480><c> or</c><00:22:26.919><c> weak</c><00:22:27.240><c> learners</c>
+
+00:22:32.149 --> 00:22:32.159 align:start position:0%
+ 
+ 
+
+00:22:32.159 --> 00:22:34.149 align:start position:0%
+ 
+so<00:22:32.400><c> the</c><00:22:32.559><c> weak</c><00:22:32.799><c> Learners</c><00:22:33.240><c> that</c><00:22:33.400><c> we</c><00:22:33.559><c> called</c><00:22:33.840><c> over</c>
+
+00:22:34.149 --> 00:22:34.159 align:start position:0%
+so the weak Learners that we called over
+ 
+
+00:22:34.159 --> 00:22:37.430 align:start position:0%
+so the weak Learners that we called over
+here<00:22:34.880><c> are</c><00:22:35.720><c> uh</c><00:22:35.919><c> involved</c><00:22:36.600><c> in</c><00:22:36.760><c> the</c><00:22:36.919><c> rest</c><00:22:37.240><c> net</c>
+
+00:22:37.430 --> 00:22:37.440 align:start position:0%
+here are uh involved in the rest net
+ 
+
+00:22:37.440 --> 00:22:41.430 align:start position:0%
+here are uh involved in the rest net
+architecture<00:22:38.440><c> and</c><00:22:38.919><c> uh</c><00:22:39.720><c> so</c><00:22:40.720><c> here</c><00:22:40.919><c> we</c><00:22:41.120><c> have</c><00:22:41.240><c> a</c>
+
+00:22:41.430 --> 00:22:41.440 align:start position:0%
+architecture and uh so here we have a
+ 
+
+00:22:41.440 --> 00:22:44.029 align:start position:0%
+architecture and uh so here we have a
+predictor<00:22:41.919><c> of</c><00:22:42.080><c> some</c><00:22:42.679><c> complexity</c><00:22:43.679><c> we</c><00:22:43.840><c> have</c>
+
+00:22:44.029 --> 00:22:44.039 align:start position:0%
+predictor of some complexity we have
+ 
+
+00:22:44.039 --> 00:22:46.190 align:start position:0%
+predictor of some complexity we have
+here<00:22:44.240><c> another</c>
+
+00:22:46.190 --> 00:22:46.200 align:start position:0%
+here another
+ 
+
+00:22:46.200 --> 00:22:49.110 align:start position:0%
+here another
+predictor<00:22:47.200><c> larger</c><00:22:47.679><c> complexity</c><00:22:48.679><c> and</c><00:22:48.919><c> yet</c>
+
+00:22:49.110 --> 00:22:49.120 align:start position:0%
+predictor larger complexity and yet
+ 
+
+00:22:49.120 --> 00:22:51.549 align:start position:0%
+predictor larger complexity and yet
+another<00:22:49.480><c> predictor</c><00:22:50.120><c> or</c><00:22:50.360><c> even</c><00:22:51.120><c> larger</c>
+
+00:22:51.549 --> 00:22:51.559 align:start position:0%
+another predictor or even larger
+ 
+
+00:22:51.559 --> 00:22:54.350 align:start position:0%
+another predictor or even larger
+complexity<00:22:52.120><c> we</c><00:22:52.279><c> have</c><00:22:53.200><c> effectively</c>
+
+00:22:54.350 --> 00:22:54.360 align:start position:0%
+complexity we have effectively
+ 
+
+00:22:54.360 --> 00:22:56.710 align:start position:0%
+complexity we have effectively
+implementing<00:22:55.360><c> um</c><00:22:55.919><c> you</c><00:22:56.039><c> know</c><00:22:56.200><c> the</c><00:22:56.360><c> third</c>
+
+00:22:56.710 --> 00:22:56.720 align:start position:0%
+implementing um you know the third
+ 
+
+00:22:56.720 --> 00:22:59.190 align:start position:0%
+implementing um you know the third
+approach<00:22:57.120><c> where</c><00:22:57.279><c> we</c><00:22:57.520><c> have</c><00:22:58.240><c> um</c>
+
+00:22:59.190 --> 00:22:59.200 align:start position:0%
+approach where we have um
+ 
+
+00:22:59.200 --> 00:23:01.750 align:start position:0%
+approach where we have um
+those<00:22:59.679><c> different</c><00:23:00.520><c> week</c><00:23:00.840><c> Learners</c><00:23:01.400><c> each</c><00:23:01.559><c> one</c>
+
+00:23:01.750 --> 00:23:01.760 align:start position:0%
+those different week Learners each one
+ 
+
+00:23:01.760 --> 00:23:04.950 align:start position:0%
+those different week Learners each one
+is<00:23:01.919><c> offering</c><00:23:02.320><c> a</c><00:23:02.520><c> view</c><00:23:03.400><c> and</c><00:23:03.600><c> then</c><00:23:04.039><c> uh</c><00:23:04.559><c> finally</c>
+
+00:23:04.950 --> 00:23:04.960 align:start position:0%
+is offering a view and then uh finally
+ 
+
+00:23:04.960 --> 00:23:06.950 align:start position:0%
+is offering a view and then uh finally
+the<00:23:05.120><c> network</c><00:23:05.600><c> is</c><00:23:05.840><c> deciding</c><00:23:06.360><c> based</c><00:23:06.640><c> on</c><00:23:06.760><c> the</c>
+
+00:23:06.950 --> 00:23:06.960 align:start position:0%
+the network is deciding based on the
+ 
+
+00:23:06.960 --> 00:23:10.070 align:start position:0%
+the network is deciding based on the
+composition<00:23:07.520><c> of</c><00:23:07.720><c> those</c><00:23:07.919><c> views</c><00:23:08.760><c> okay</c><00:23:08.960><c> so</c><00:23:09.720><c> that</c>
+
+00:23:10.070 --> 00:23:10.080 align:start position:0%
+composition of those views okay so that
+ 
+
+00:23:10.080 --> 00:23:13.630 align:start position:0%
+composition of those views okay so that
+has<00:23:10.240><c> been</c><00:23:10.360><c> shown</c><00:23:10.919><c> to</c><00:23:11.919><c> uh</c><00:23:12.320><c> sort</c><00:23:12.559><c> of</c><00:23:13.000><c> provide</c>
+
+00:23:13.630 --> 00:23:13.640 align:start position:0%
+has been shown to uh sort of provide
+ 
+
+00:23:13.640 --> 00:23:15.669 align:start position:0%
+has been shown to uh sort of provide
+performance<00:23:14.080><c> advantages</c><00:23:14.799><c> and</c><00:23:15.080><c> and</c><00:23:15.480><c> that's</c>
+
+00:23:15.669 --> 00:23:15.679 align:start position:0%
+performance advantages and and that's
+ 
+
+00:23:15.679 --> 00:23:17.870 align:start position:0%
+performance advantages and and that's
+what<00:23:15.960><c> we</c><00:23:16.679><c> kind</c><00:23:16.840><c> of</c><00:23:17.000><c> had</c><00:23:17.200><c> this</c><00:23:17.400><c> discussion</c>
+
+00:23:17.870 --> 00:23:17.880 align:start position:0%
+what we kind of had this discussion
+ 
+
+00:23:17.880 --> 00:23:20.630 align:start position:0%
+what we kind of had this discussion
+about<00:23:18.159><c> and</c><00:23:18.400><c> Sample</c><00:23:18.760><c> methods</c><00:23:19.679><c> and</c><00:23:19.799><c> the</c><00:23:20.000><c> third</c>
+
+00:23:20.630 --> 00:23:20.640 align:start position:0%
+about and Sample methods and the third
+ 
+
+00:23:20.640 --> 00:23:23.070 align:start position:0%
+about and Sample methods and the third
+uh<00:23:20.760><c> kind</c><00:23:20.919><c> of</c><00:23:21.159><c> Advantage</c><00:23:21.640><c> I</c><00:23:21.760><c> wanted</c><00:23:22.039><c> to</c><00:23:22.720><c> quote</c>
+
+00:23:23.070 --> 00:23:23.080 align:start position:0%
+uh kind of Advantage I wanted to quote
+ 
+
+00:23:23.080 --> 00:23:29.590 align:start position:0%
+uh kind of Advantage I wanted to quote
+here<00:23:23.279><c> for</c><00:23:23.600><c> rest</c><00:23:23.840><c> n</c><00:23:24.080><c> is</c><00:23:24.279><c> there</c><00:23:24.520><c> scalability</c>
+
+00:23:29.590 --> 00:23:29.600 align:start position:0%
+ 
+ 
+
+00:23:29.600 --> 00:23:30.750 align:start position:0%
+ 
+so<00:23:29.840><c> the</c>
+
+00:23:30.750 --> 00:23:30.760 align:start position:0%
+so the
+ 
+
+00:23:30.760 --> 00:23:33.149 align:start position:0%
+so the
+scalability<00:23:31.760><c> um</c><00:23:32.039><c> should</c><00:23:32.279><c> be</c><00:23:32.480><c> understood</c><00:23:32.960><c> from</c>
+
+00:23:33.149 --> 00:23:33.159 align:start position:0%
+scalability um should be understood from
+ 
+
+00:23:33.159 --> 00:23:35.669 align:start position:0%
+scalability um should be understood from
+the<00:23:33.400><c> point</c><00:23:33.600><c> of</c><00:23:33.760><c> view</c><00:23:34.080><c> of</c><00:23:34.799><c> uh</c>
+
+00:23:35.669 --> 00:23:35.679 align:start position:0%
+the point of view of uh
+ 
+
+00:23:35.679 --> 00:23:39.669 align:start position:0%
+the point of view of uh
+complexity<00:23:36.679><c> um</c><00:23:37.080><c> we</c><00:23:37.240><c> are</c><00:23:37.919><c> effectively</c><00:23:38.440><c> able</c><00:23:38.760><c> to</c>
+
+00:23:39.669 --> 00:23:39.679 align:start position:0%
+complexity um we are effectively able to
+ 
+
+00:23:39.679 --> 00:23:42.870 align:start position:0%
+complexity um we are effectively able to
+have<00:23:40.080><c> three</c><00:23:40.520><c> six</c><00:23:40.919><c> n</c><00:23:41.240><c> or</c><00:23:41.400><c> whatever</c><00:23:41.960><c> number</c><00:23:42.480><c> of</c>
+
+00:23:42.870 --> 00:23:42.880 align:start position:0%
+have three six n or whatever number of
+ 
+
+00:23:42.880 --> 00:23:45.029 align:start position:0%
+have three six n or whatever number of
+uh<00:23:43.039><c> residual</c><00:23:43.559><c> blocks</c><00:23:44.000><c> each</c><00:23:44.200><c> one</c><00:23:44.480><c> of</c><00:23:44.640><c> them</c><00:23:44.840><c> will</c>
+
+00:23:45.029 --> 00:23:45.039 align:start position:0%
+uh residual blocks each one of them will
+ 
+
+00:23:45.039 --> 00:23:49.870 align:start position:0%
+uh residual blocks each one of them will
+actually<00:23:45.440><c> be</c><00:23:46.440><c> uh</c><00:23:46.640><c> exactly</c><00:23:47.080><c> the</c><00:23:47.400><c> same</c><00:23:48.400><c> um</c><00:23:48.960><c> as</c><00:23:49.440><c> uh</c>
+
+00:23:49.870 --> 00:23:49.880 align:start position:0%
+actually be uh exactly the same um as uh
+ 
+
+00:23:49.880 --> 00:23:52.269 align:start position:0%
+actually be uh exactly the same um as uh
+you<00:23:50.000><c> know</c><00:23:50.200><c> any</c><00:23:50.400><c> other</c><00:23:50.640><c> block</c><00:23:51.000><c> over</c><00:23:51.279><c> here</c><00:23:52.080><c> and</c>
+
+00:23:52.269 --> 00:23:52.279 align:start position:0%
+you know any other block over here and
+ 
+
+00:23:52.279 --> 00:23:54.390 align:start position:0%
+you know any other block over here and
+therefore<00:23:52.760><c> we</c><00:23:52.840><c> are</c><00:23:53.039><c> able</c><00:23:53.320><c> to</c>
+
+00:23:54.390 --> 00:23:54.400 align:start position:0%
+therefore we are able to
+ 
+
+00:23:54.400 --> 00:23:55.990 align:start position:0%
+therefore we are able to
+accommodate
+
+00:23:55.990 --> 00:23:56.000 align:start position:0%
+accommodate
+ 
+
+00:23:56.000 --> 00:23:58.950 align:start position:0%
+accommodate
+architectures<00:23:57.000><c> that</c><00:23:57.320><c> are</c><00:23:57.640><c> have</c><00:23:57.960><c> various</c>
+
+00:23:58.950 --> 00:23:58.960 align:start position:0%
+architectures that are have various
+ 
+
+00:23:58.960 --> 00:24:01.750 align:start position:0%
+architectures that are have various
+various<00:23:59.960><c> number</c><00:24:00.279><c> of</c><00:24:00.480><c> these</c><00:24:00.640><c> blocks</c><00:24:01.039><c> let's</c><00:24:01.240><c> say</c>
+
+00:24:01.750 --> 00:24:01.760 align:start position:0%
+various number of these blocks let's say
+ 
+
+00:24:01.760 --> 00:24:06.470 align:start position:0%
+various number of these blocks let's say
+we<00:24:01.880><c> see</c><00:24:02.640><c> resets</c><00:24:03.240><c> with</c><00:24:03.400><c> 18</c><00:24:03.880><c> layers</c><00:24:04.880><c> 34</c><00:24:05.559><c> layers</c>
+
+00:24:06.470 --> 00:24:06.480 align:start position:0%
+we see resets with 18 layers 34 layers
+ 
+
+00:24:06.480 --> 00:24:12.909 align:start position:0%
+we see resets with 18 layers 34 layers
+you<00:24:06.600><c> know</c><00:24:06.840><c> 50</c><00:24:07.640><c> layers</c><00:24:09.080><c> 150</c><00:24:10.080><c> uh</c><00:24:10.640><c> 102</c><00:24:11.919><c> layers</c>
+
+00:24:12.909 --> 00:24:12.919 align:start position:0%
+you know 50 layers 150 uh 102 layers
+ 
+
+00:24:12.919 --> 00:24:16.149 align:start position:0%
+you know 50 layers 150 uh 102 layers
+even<00:24:13.360><c> 150</c><00:24:14.240><c> layers</c><00:24:15.240><c> these</c><00:24:15.360><c> are</c><00:24:15.559><c> the</c><00:24:15.760><c> numbers</c>
+
+00:24:16.149 --> 00:24:16.159 align:start position:0%
+even 150 layers these are the numbers
+ 
+
+00:24:16.159 --> 00:24:18.789 align:start position:0%
+even 150 layers these are the numbers
+that<00:24:16.400><c> we</c><00:24:16.600><c> have</c><00:24:17.480><c> uh</c><00:24:17.640><c> we</c><00:24:17.760><c> have</c><00:24:18.000><c> defined</c><00:24:18.400><c> already</c>
+
+00:24:18.789 --> 00:24:18.799 align:start position:0%
+that we have uh we have defined already
+ 
+
+00:24:18.799 --> 00:24:20.549 align:start position:0%
+that we have uh we have defined already
+existing<00:24:19.240><c> architectures</c><00:24:19.960><c> and</c><00:24:20.120><c> this</c><00:24:20.240><c> is</c><00:24:20.400><c> kind</c>
+
+00:24:20.549 --> 00:24:20.559 align:start position:0%
+existing architectures and this is kind
+ 
+
+00:24:20.559 --> 00:24:23.269 align:start position:0%
+existing architectures and this is kind
+of<00:24:20.760><c> important</c><00:24:21.679><c> when</c><00:24:21.880><c> you</c><00:24:22.080><c> have</c><00:24:22.440><c> perception</c>
+
+00:24:23.269 --> 00:24:23.279 align:start position:0%
+of important when you have perception
+ 
+
+00:24:23.279 --> 00:24:25.870 align:start position:0%
+of important when you have perception
+systems<00:24:23.880><c> that</c><00:24:24.240><c> need</c><00:24:24.440><c> to</c><00:24:24.640><c> comply</c><00:24:25.039><c> to</c><00:24:25.240><c> some</c>
+
+00:24:25.870 --> 00:24:25.880 align:start position:0%
+systems that need to comply to some
+ 
+
+00:24:25.880 --> 00:24:28.149 align:start position:0%
+systems that need to comply to some
+realtime<00:24:26.520><c> latency</c><00:24:27.120><c> requirement</c><00:24:27.720><c> evidently</c>
+
+00:24:28.149 --> 00:24:28.159 align:start position:0%
+realtime latency requirement evidently
+ 
+
+00:24:28.159 --> 00:24:30.470 align:start position:0%
+realtime latency requirement evidently
+the<00:24:28.440><c> larger</c><00:24:28.720><c> the</c><00:24:28.840><c> number</c><00:24:29.039><c> of</c><00:24:29.200><c> layers</c><00:24:29.520><c> you</c><00:24:29.679><c> have</c>
+
+00:24:30.470 --> 00:24:30.480 align:start position:0%
+the larger the number of layers you have
+ 
+
+00:24:30.480 --> 00:24:33.470 align:start position:0%
+the larger the number of layers you have
+the<00:24:31.080><c> longer</c><00:24:31.600><c> the</c><00:24:31.919><c> latencies</c><00:24:32.919><c> that</c><00:24:33.080><c> you</c><00:24:33.240><c> are</c>
+
+00:24:33.470 --> 00:24:33.480 align:start position:0%
+the longer the latencies that you are
+ 
+
+00:24:33.480 --> 00:24:36.590 align:start position:0%
+the longer the latencies that you are
+going<00:24:33.679><c> to</c><00:24:34.679><c> experience</c><00:24:35.679><c> taking</c><00:24:36.039><c> an</c><00:24:36.279><c> image</c>
+
+00:24:36.590 --> 00:24:36.600 align:start position:0%
+going to experience taking an image
+ 
+
+00:24:36.600 --> 00:24:40.149 align:start position:0%
+going to experience taking an image
+through<00:24:36.880><c> this</c><00:24:37.080><c> kind</c><00:24:37.240><c> of</c><00:24:37.559><c> pipeline</c><00:24:38.559><c> so</c><00:24:39.440><c> if</c><00:24:39.640><c> we</c>
+
+00:24:40.149 --> 00:24:40.159 align:start position:0%
+through this kind of pipeline so if we
+ 
+
+00:24:40.159 --> 00:24:43.750 align:start position:0%
+through this kind of pipeline so if we
+um<00:24:40.960><c> have</c><00:24:41.200><c> let's</c><00:24:41.320><c> say</c><00:24:41.440><c> a</c><00:24:41.679><c> latency</c><00:24:42.679><c> of</c><00:24:43.200><c> let's</c><00:24:43.399><c> say</c>
+
+00:24:43.750 --> 00:24:43.760 align:start position:0%
+um have let's say a latency of let's say
+ 
+
+00:24:43.760 --> 00:24:44.750 align:start position:0%
+um have let's say a latency of let's say
+80
+
+00:24:44.750 --> 00:24:44.760 align:start position:0%
+80
+ 
+
+00:24:44.760 --> 00:24:48.430 align:start position:0%
+80
+MCS<00:24:45.760><c> uh</c><00:24:45.960><c> we</c><00:24:46.360><c> can</c><00:24:47.360><c> um</c><00:24:47.640><c> and</c><00:24:47.880><c> and</c><00:24:48.039><c> therefore</c><00:24:48.360><c> we</c>
+
+00:24:48.430 --> 00:24:48.440 align:start position:0%
+MCS uh we can um and and therefore we
+ 
+
+00:24:48.440 --> 00:24:51.630 align:start position:0%
+MCS uh we can um and and therefore we
+are<00:24:48.559><c> not</c><00:24:48.720><c> able</c><00:24:48.919><c> to</c><00:24:49.080><c> accommodate</c><00:24:49.880><c> 102</c><00:24:50.880><c> uh</c><00:24:51.039><c> 102</c>
+
+00:24:51.630 --> 00:24:51.640 align:start position:0%
+are not able to accommodate 102 uh 102
+ 
+
+00:24:51.640 --> 00:24:53.269 align:start position:0%
+are not able to accommodate 102 uh 102
+layers<00:24:52.039><c> where</c><00:24:52.480><c> definitely</c><00:24:52.840><c> going</c><00:24:52.960><c> to</c><00:24:53.080><c> be</c>
+
+00:24:53.269 --> 00:24:53.279 align:start position:0%
+layers where definitely going to be
+ 
+
+00:24:53.279 --> 00:24:56.190 align:start position:0%
+layers where definitely going to be
+accommodating<00:24:53.919><c> let's</c><00:24:54.080><c> say</c><00:24:54.240><c> 50</c><00:24:54.600><c> layers</c><00:24:55.559><c> and</c>
+
+00:24:56.190 --> 00:24:56.200 align:start position:0%
+accommodating let's say 50 layers and
+ 
+
+00:24:56.200 --> 00:24:58.830 align:start position:0%
+accommodating let's say 50 layers and
+the<00:24:57.000><c> exactly</c><00:24:57.399><c> the</c><00:24:57.559><c> same</c><00:24:57.799><c> technology</c><00:24:58.440><c> exactly</c>
+
+00:24:58.830 --> 00:24:58.840 align:start position:0%
+the exactly the same technology exactly
+ 
+
+00:24:58.840 --> 00:25:02.430 align:start position:0%
+the exactly the same technology exactly
+the<00:24:59.120><c> same</c><00:25:00.120><c> uh</c><00:25:00.320><c> thinking</c><00:25:01.279><c> um</c><00:25:01.520><c> and</c><00:25:01.760><c> behavior</c><00:25:02.279><c> of</c>
+
+00:25:02.430 --> 00:25:02.440 align:start position:0%
+the same uh thinking um and behavior of
+ 
+
+00:25:02.440 --> 00:25:06.430 align:start position:0%
+the same uh thinking um and behavior of
+rest<00:25:02.840><c> Nets</c><00:25:03.200><c> will</c><00:25:03.760><c> uh</c><00:25:03.960><c> be</c><00:25:04.320><c> in</c><00:25:04.679><c> either</c><00:25:05.000><c> of</c><00:25:05.200><c> the</c><00:25:06.200><c> uh</c>
+
+00:25:06.430 --> 00:25:06.440 align:start position:0%
+rest Nets will uh be in either of the uh
+ 
+
+00:25:06.440 --> 00:25:08.149 align:start position:0%
+rest Nets will uh be in either of the uh
+numbers<00:25:06.840><c> quoted</c><00:25:07.320><c> here</c><00:25:07.440><c> in</c><00:25:07.559><c> terms</c><00:25:07.760><c> of</c><00:25:07.919><c> number</c>
+
+00:25:08.149 --> 00:25:08.159 align:start position:0%
+numbers quoted here in terms of number
+ 
+
+00:25:08.159 --> 00:25:09.909 align:start position:0%
+numbers quoted here in terms of number
+of<00:25:08.320><c> layers</c><00:25:09.000><c> so</c><00:25:09.200><c> all</c><00:25:09.360><c> of</c><00:25:09.520><c> these</c><00:25:09.679><c> three</c>
+
+00:25:09.909 --> 00:25:09.919 align:start position:0%
+of layers so all of these three
+ 
+
+00:25:09.919 --> 00:25:12.470 align:start position:0%
+of layers so all of these three
+advantages<00:25:10.480><c> are</c><00:25:10.679><c> coming</c><00:25:11.200><c> together</c><00:25:12.080><c> to</c>
+
+00:25:12.470 --> 00:25:12.480 align:start position:0%
+advantages are coming together to
+ 
+
+00:25:12.480 --> 00:25:14.669 align:start position:0%
+advantages are coming together to
+provide<00:25:12.840><c> a</c><00:25:13.000><c> fairly</c><00:25:13.399><c> robust</c><00:25:13.840><c> architecture</c><00:25:14.480><c> has</c>
+
+00:25:14.669 --> 00:25:14.679 align:start position:0%
+provide a fairly robust architecture has
+ 
+
+00:25:14.679 --> 00:25:17.190 align:start position:0%
+provide a fairly robust architecture has
+actually<00:25:14.919><c> proven</c><00:25:15.279><c> in</c><00:25:15.399><c> the</c><00:25:15.559><c> field</c><00:25:16.520><c> in</c><00:25:16.960><c> both</c>
+
+00:25:17.190 --> 00:25:17.200 align:start position:0%
+actually proven in the field in both
+ 
+
+00:25:17.200 --> 00:25:19.269 align:start position:0%
+actually proven in the field in both
+real<00:25:17.520><c> time</c><00:25:17.679><c> and</c><00:25:17.799><c> unreal</c><00:25:18.240><c> time</c><00:25:18.480><c> applications</c>
+
+00:25:19.269 --> 00:25:19.279 align:start position:0%
+real time and unreal time applications
+ 
+
+00:25:19.279 --> 00:25:23.190 align:start position:0%
+real time and unreal time applications
+and<00:25:19.559><c> able</c><00:25:20.039><c> to</c><00:25:21.039><c> uh</c><00:25:21.520><c> extract</c><00:25:22.520><c> uh</c><00:25:22.640><c> features</c>
+
+00:25:23.190 --> 00:25:23.200 align:start position:0%
+and able to uh extract uh features
+ 
+
+00:25:23.200 --> 00:25:26.310 align:start position:0%
+and able to uh extract uh features
+provide<00:25:23.559><c> if</c><00:25:23.679><c> you</c><00:25:23.880><c> like</c><00:25:24.840><c> representations</c><00:25:25.840><c> on</c>
+
+00:25:26.310 --> 00:25:26.320 align:start position:0%
+provide if you like representations on
+ 
+
+00:25:26.320 --> 00:25:30.190 align:start position:0%
+provide if you like representations on
+uh<00:25:27.039><c> visual</c><00:25:28.039><c> uh</c><00:25:28.399><c> imagery</c><00:25:29.039><c> that</c><00:25:29.200><c> we</c><00:25:29.399><c> have</c><00:25:30.039><c> the</c>
+
+00:25:30.190 --> 00:25:30.200 align:start position:0%
+uh visual uh imagery that we have the
+ 
+
+00:25:30.200 --> 00:25:31.669 align:start position:0%
+uh visual uh imagery that we have the
+the<00:25:30.320><c> imageries</c><00:25:30.760><c> that</c><00:25:30.880><c> we</c><00:25:30.960><c> are</c><00:25:31.039><c> feeding</c><00:25:31.399><c> into</c>
+
+00:25:31.669 --> 00:25:31.679 align:start position:0%
+the imageries that we are feeding into
+ 
+
+00:25:31.679 --> 00:25:34.679 align:start position:0%
+the imageries that we are feeding into
+them
+

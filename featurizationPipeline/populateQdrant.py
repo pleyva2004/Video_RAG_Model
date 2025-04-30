@@ -7,7 +7,7 @@ import os
 from featurizationPipeline.upload import upload_embeddings
 from featurizationPipeline.embedding import embed_chunks
 from featurizationPipeline.chunking import quality_focused_chunking
-from main import getResponse
+from LLM import getResponse
 
 
 def upload_to_qdrant():
@@ -80,7 +80,3 @@ def upload_to_qdrant():
 
     print(qdrant.get_collections())
 
-
-if __name__ == "__main__":
-    upload_to_qdrant()
-    
