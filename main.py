@@ -7,7 +7,7 @@ import os
 
 from sentence_transformers import CrossEncoder
 
-from llmEngineering.enhance import enhanceQuery, newQuery
+from llmEngineering.enhance import enhanceQuery
 from llmEngineering.search import getRelevantChunks
 
 
