@@ -1,4 +1,4 @@
-from featurizationPipeline.embedding import embed_chunks
+from featurizationPipeline import embed_chunks
 from qdrant_client import QdrantClient
 
 from openai import OpenAI

@@ -7,7 +7,6 @@ import os
 from featurizationPipeline.upload import upload_embeddings
 from featurizationPipeline.embedding import embed_chunks
 from featurizationPipeline.chunking import quality_focused_chunking
-from LLM import getResponse
 
 
 def upload_to_qdrant():

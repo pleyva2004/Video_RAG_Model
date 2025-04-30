@@ -1,5 +1,5 @@
 import gradio as gr
-from main import getResponse, enhanceResponse
+from LLM import getResponse, enhanceResponse
 
 
 def stream_video(start_time, end_time, video_id):
