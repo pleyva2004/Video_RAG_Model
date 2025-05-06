@@ -127,4 +127,4 @@ The **inference pipeline** handles query enhancement, retrieval, and user-facing
 
 - **Demonstration**:  
   To validate our system, we saved the output in `app.ipynb` and recorded a demonstration video.  
-  📺 [**Watch our demo here**](<insert YouTube URL>)
+  [**Watch our demo here**](https://youtu.be/lM9bFxFe8KI)
