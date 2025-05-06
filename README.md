@@ -24,7 +24,8 @@ The Video RAG (Retrieval-Augmented Generation) Model is an intelligent system de
 - **Gradio Interface**: Provides a user-friendly web interface for:
   - Question input
   - Answer display
-  - Video segment playback with precise timestamp control
+  - Video Showed
+  - Timestamped for relevant frames shown
 
 ## Key Features
 - Semantic search across video content
