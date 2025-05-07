@@ -1,6 +1,10 @@
 # Video_RAG-Model
 Final Project creating a Video RAG Model 
 
+### Collaborators
+- Emilia Savich
+- Pablo Leyva
+
 ## Overview
 The Video RAG (Retrieval-Augmented Generation) Model is an intelligent system designed to process and analyze educational video content. It enables users to ask questions about video content and receive relevant video segments along with detailed answers.
 
